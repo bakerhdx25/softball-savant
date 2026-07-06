@@ -1,0 +1,201 @@
+{
+  "arm_value": {
+    "advancement_opportunities": 2190,
+    "arm_opportunity_league_center": -0.0009800356761778366,
+    "attributable_arm_opportunities": 1720,
+    "attribution_coverage": 0.7853881278538812,
+    "league_arm_runs": 0.8995065198254468,
+    "league_arm_runs_unshrunk_centered": -1.8272709734201698e-14,
+    "raw_arm_plus_runner_balance": 0.0,
+    "shrinkage_opportunities": 40.0,
+    "status": "unambiguous single-fielder attribution only"
+  },
+  "baserunning": {
+    "advancement_opportunities": 2190,
+    "batter_opportunities": 729,
+    "league_non_steal_advancement_runs": 1.6524325310851573e-15,
+    "prior_opportunities": 10.0,
+    "runner_opportunities": 1461,
+    "unresolved_candidate_transitions": 0,
+    "unresolved_transitions": []
+  },
+  "catcher_throwing": {
+    "attempts": 164,
+    "catchers": 13,
+    "caught_stealing": 42,
+    "caught_stealing_offense_run_value": -0.5839108903434039,
+    "league_catcher_throwing_runs": -1.6653345369377348e-16,
+    "league_caught_stealing_rate": 0.25609756097560976,
+    "outcome_run_value_spread": 0.6181530800807205,
+    "post_shrinkage_center_per_attempt": -0.0012296748231786453,
+    "shrinkage_opportunities": 20.0,
+    "stolen_base_offense_run_value": 0.03424218973731652,
+    "stolen_bases_allowed": 122
+  },
+  "completed_games": 50,
+  "double_play_avoidance": {
+    "actual_double_plays": 21,
+    "estimated_double_play_run_cost": 1.2343475106785677,
+    "league_double_play_avoidance_runs": -9.71445146547012e-17,
+    "opportunities": 185,
+    "prior_opportunities": 20.0
+  },
+  "fip": {
+    "constant": 2.8099241674909328,
+    "league_BB": 278,
+    "league_HBP": 78,
+    "league_HR": 104,
+    "league_IP": 674.0,
+    "league_SO": 452,
+    "league_component_before_constant": 1.749423013517969,
+    "league_era": 4.559347181008902,
+    "scale": "runs per seven innings",
+    "seven_inning_scale": 0.7777777777777778,
+    "war_inclusion": false
+  },
+  "league_ip": 674.0,
+  "league_ra7": 5.109792284866469,
+  "league_runs": 492,
+  "official_supplemental_games": [
+    {
+      "away_runs": 2,
+      "boxscore_rows": 35,
+      "canonical_id": "official-ausl-2025-761",
+      "home_runs": 9,
+      "official_game_id": 761,
+      "season": 2025
+    },
+    {
+      "away_runs": 3,
+      "boxscore_rows": 36,
+      "canonical_id": "official-ausl-2025-788",
+      "home_runs": 2,
+      "official_game_id": 788,
+      "season": 2025
+    },
+    {
+      "away_runs": 0,
+      "boxscore_rows": 30,
+      "canonical_id": "official-ausl-2025-789",
+      "home_runs": 2,
+      "official_game_id": 789,
+      "season": 2025
+    },
+    {
+      "away_runs": 3,
+      "boxscore_rows": 29,
+      "canonical_id": "official-ausl-2025-790",
+      "home_runs": 4,
+      "official_game_id": 790,
+      "season": 2025
+    },
+    {
+      "away_runs": 7,
+      "boxscore_rows": 36,
+      "canonical_id": "official-ausl-2025-791",
+      "home_runs": 5,
+      "official_game_id": 791,
+      "season": 2025
+    },
+    {
+      "away_runs": 4,
+      "boxscore_rows": 32,
+      "canonical_id": "official-ausl-2025-792",
+      "home_runs": 6,
+      "official_game_id": 792,
+      "season": 2025
+    },
+    {
+      "away_runs": 12,
+      "boxscore_rows": 31,
+      "canonical_id": "official-ausl-2025-793",
+      "home_runs": 6,
+      "official_game_id": 793,
+      "season": 2025
+    },
+    {
+      "away_runs": 6,
+      "boxscore_rows": 29,
+      "canonical_id": "official-ausl-2025-794",
+      "home_runs": 4,
+      "official_game_id": 794,
+      "season": 2025
+    },
+    {
+      "away_runs": 1,
+      "boxscore_rows": 30,
+      "canonical_id": "official-ausl-2025-795",
+      "home_runs": 5,
+      "official_game_id": 795,
+      "season": 2025
+    },
+    {
+      "away_runs": 1,
+      "boxscore_rows": 31,
+      "canonical_id": "official-ausl-2025-796",
+      "home_runs": 3,
+      "official_game_id": 796,
+      "season": 2025
+    },
+    {
+      "away_runs": 1,
+      "boxscore_rows": 26,
+      "canonical_id": "official-ausl-2025-797",
+      "home_runs": 0,
+      "official_game_id": 797,
+      "season": 2025
+    },
+    {
+      "away_runs": 8,
+      "boxscore_rows": 35,
+      "canonical_id": "official-ausl-2025-881",
+      "home_runs": 4,
+      "official_game_id": 881,
+      "season": 2025
+    }
+  ],
+  "park_factor": 1.0,
+  "pitching": {
+    "league_correction_runs_per_ip": -0.0007082538367155642,
+    "league_ip": 674.0,
+    "league_ra7": 5.0994065281899115,
+    "leverage_adjustment": "unavailable",
+    "opponent_strength_prior_pa": 200.0,
+    "opponent_team_runs_per_pa": {
+      "Bandits": 0.17680247747569397,
+      "Blaze": 0.15424368525460264,
+      "Talons": 0.1561352348854748,
+      "Volts": 0.1352052938678779
+    },
+    "replacement_pitcher_wins": 8.847736625514404,
+    "replacement_runs_per_ip": 0.13999755845388603
+  },
+  "position_replacement_wins": 11.728395061728396,
+  "replacement_runs_per_pa": 0.03969523296909356,
+  "runs_per_win": 10.664688427299703,
+  "season": 2025,
+  "snapshot_id": "20260704T165430Z",
+  "woba": {
+    "calibration_pa": 3120,
+    "league_obp": 0.3730769230769231,
+    "league_woba": 0.3730769230769231,
+    "out_run_value": -0.3636979088988809,
+    "raw_weights": {
+      "double": 1.1459896290952822,
+      "hit_by_pitch": 0.7152160313777735,
+      "home_run": 1.7968001560997164,
+      "single": 0.8805932716395813,
+      "triple": 1.2208490868526973,
+      "walk": 0.7240552558033316
+    },
+    "scaled_weights": {
+      "double": 1.2109345960739797,
+      "hit_by_pitch": 0.7557484065068005,
+      "home_run": 1.8986275407832407,
+      "single": 0.9304978253077025,
+      "triple": 1.2900364526181418,
+      "walk": 0.7650885631605923
+    },
+    "woba_scale": 1.0566715137116636
+  }
+}

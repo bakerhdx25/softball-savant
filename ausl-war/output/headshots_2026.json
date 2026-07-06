@@ -1,0 +1,828 @@
+{
+  "ailanaagbayani": {
+    "local_path": "assets/headshots/2026/ailanaagbayani.png",
+    "official_name": "Ailana Agbayani",
+    "player": "Ailana Agbayani",
+    "sha256": "2ff2151857fdf8b9689283bb7a6c51b29b9d2a3d0f52f9164ed085d9949bef13",
+    "source_url": "https://resource.auprosports.com/prod/players/1322/1322-ausl.png"
+  },
+  "alanavawter": {
+    "local_path": "assets/headshots/2026/alanavawter.png",
+    "official_name": "Alana Vawter",
+    "player": "Alana Vawter",
+    "sha256": "8b3a74a30ffd277a167b13679d32e2adaafce63533a3983bbe21b87e5e37b99b",
+    "source_url": "https://resource.auprosports.com/prod/players/1086.png"
+  },
+  "aleshiaocasio": {
+    "local_path": "assets/headshots/2026/aleshiaocasio.png",
+    "official_name": "Aleshia Ocasio",
+    "player": "Aleshia Ocasio",
+    "sha256": "09d2cef2371b789d2669c80fce2688955108391ecf76d67dae7193cadf2039e1",
+    "source_url": "https://resource.auprosports.com/prod/players/10/10-ausl.png"
+  },
+  "alinewland": {
+    "local_path": "assets/headshots/2026/alinewland.png",
+    "official_name": "Ali Newland",
+    "player": "Ali Newland",
+    "sha256": "d18f3c7b0ebabd6fcd32cb1545bbe63ede123ed10b976e4d4708b627aeecdf67",
+    "source_url": "https://resource.auprosports.com/prod/players/1083/1083-ausl.png"
+  },
+  "aliyahandrews": {
+    "local_path": "assets/headshots/2026/aliyahandrews.png",
+    "official_name": "Aliyah Andrews",
+    "player": "Aliyah Andrews",
+    "sha256": "9fb6272fb2f4145369e5daa348c9d8d38f71828c570b934a1d289c17491b871b",
+    "source_url": "https://resource.auprosports.com/prod/players/197/197-ausl.png"
+  },
+  "aliyahbinford": {
+    "local_path": "assets/headshots/2026/aliyahbinford.png",
+    "official_name": "Aliyah Binford",
+    "player": "Aliyah Binford",
+    "sha256": "20c21022d84cc7b5161479f0f6755173bc72629f7208328365af46516b8de6d6",
+    "source_url": "https://resource.auprosports.com/prod/players/1185/1185-ausl.png"
+  },
+  "allycarda": {
+    "local_path": "assets/headshots/2026/allycarda.png",
+    "official_name": "Ally Carda",
+    "player": "Ally Carda",
+    "sha256": "43fa1cf7bab3e3dfe2c58eda30e89be6b33d3f64ae74a3c7bfcabec926bfb72f",
+    "source_url": "https://resource.auprosports.com/prod/players/1261/1261-ausl.png"
+  },
+  "alyssabrito": {
+    "local_path": "assets/headshots/2026/alyssabrito.png",
+    "official_name": "Alyssa Brito",
+    "player": "Alyssa Brito",
+    "sha256": "f6487ab43fbbfeccc41362f828081b0f7160f5ee2d9fce9a20916b99bd0fac9d",
+    "source_url": "https://resource.auprosports.com/prod/players/1259/1259-ausl.png"
+  },
+  "alyssadenham": {
+    "local_path": "assets/headshots/2026/alyssadenham.png",
+    "official_name": "Alyssa Denham",
+    "player": "Alyssa Denham",
+    "sha256": "d463dfc77c922c0d76808526617227e8196512a7b532b6ea2f08b926a5893b87",
+    "source_url": "https://resource.auprosports.com/prod/players/171/171-ausl.png"
+  },
+  "amariharper": {
+    "local_path": "assets/headshots/2026/amariharper.png",
+    "official_name": "Amari Harper",
+    "player": "Amari Harper",
+    "sha256": "99e2c27dafde5468bb5a665664de971d6c73fbe0a77fb8b52a7ee57f5b143ead",
+    "source_url": "https://resource.auprosports.com/prod/players/1323/1323-ausl.png"
+  },
+  "amberfiser": {
+    "local_path": "assets/headshots/2026/amberfiser.png",
+    "official_name": "Amber Fiser",
+    "player": "Amber Fiser",
+    "sha256": "ed264cb7a9db1e0ec4f44c0ec4eefd416d3a8d1b96d785010bc20ea84c00919f",
+    "source_url": "https://resource.auprosports.com/prod/players/195/195-ausl.png"
+  },
+  "aminahvega": {
+    "local_path": "assets/headshots/2026/aminahvega.png",
+    "official_name": "Aminah Vega",
+    "player": "Aminah Vega",
+    "sha256": "3a68be2a0785b0dba609954626c4c972844b5ef8ec56dc2b841a93417318c063",
+    "source_url": "https://resource.auprosports.com/prod/players/1352/1352-ausl.png"
+  },
+  "anagold": {
+    "local_path": "assets/headshots/2026/anagold.png",
+    "official_name": "Ana Gold",
+    "player": "Ana Gold",
+    "sha256": "a588e93372918036d817a9cb049d6b960d6fdbe3135fbc2fdda4850f7176ed6b",
+    "source_url": "https://resource.auprosports.com/prod/players/1103/1103-ausl.png"
+  },
+  "ashtonmaloney": {
+    "local_path": "assets/headshots/2026/ashtonmaloney.png",
+    "official_name": "Ashton Maloney",
+    "player": "Ashton Maloney",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1385/1385-ausl.png"
+  },
+  "aubreyleach": {
+    "local_path": "assets/headshots/2026/aubreyleach.png",
+    "official_name": "Aubrey Leach",
+    "player": "Aubrey Leach",
+    "sha256": "95b2955f4c79795346b8a318b21116700fa70cca7b1a3487d8253f34036ca966",
+    "source_url": "https://resource.auprosports.com/prod/players/69.png"
+  },
+  "bayleeklingler": {
+    "local_path": "assets/headshots/2026/bayleeklingler.png",
+    "official_name": "Baylee Klingler",
+    "player": "Baylee Klingler",
+    "sha256": "4423dc508c690e55fd094cc0890278cee57ad95f0d4fd389d92dfd9c7955b8bc",
+    "source_url": "https://resource.auprosports.com/prod/players/935/935-ausl.png"
+  },
+  "belladayton": {
+    "local_path": "assets/headshots/2026/belladayton.png",
+    "official_name": "Bella Dayton",
+    "player": "Bella Dayton",
+    "sha256": "0fdda6fc8d6f6d1827ba228a79f652f0136b646f6177818153e7b96eaf8fb42c",
+    "source_url": "https://resource.auprosports.com/prod/players/1082/1082-ausl.png"
+  },
+  "bricopeland": {
+    "local_path": "assets/headshots/2026/bricopeland.png",
+    "official_name": "Bri Copeland",
+    "player": "Bri Copeland",
+    "sha256": "f8c8fe210e0fabc857a05dfeb2cd29809307d80781bbf60bbca1369d527a8e5b",
+    "source_url": "https://resource.auprosports.com/prod/players/1353/1353-ausl.png"
+  },
+  "briellis": {
+    "local_path": "assets/headshots/2026/briellis.png",
+    "official_name": "Bri Ellis",
+    "player": "Bri Ellis",
+    "sha256": "4aab3d7f2e0f27e739d657226585870a8e9f20384e99590dae0d58d6fa57217d",
+    "source_url": "https://resource.auprosports.com/prod/players/1106/1106-ausl.png"
+  },
+  "bubbanicklescamarena": {
+    "local_path": "assets/headshots/2026/bubbanicklescamarena.png",
+    "official_name": "Bubba Nickles-Camarena",
+    "player": "Bubba Nickles-Camarena",
+    "sha256": "8ed5073234b08a1a3609993b1d62614c1d0ae6fea7b67d1975fda52f49ed277f",
+    "source_url": "https://resource.auprosports.com/prod/players/204/204-ausl.png"
+  },
+  "carleyhoover": {
+    "local_path": "assets/headshots/2026/carleyhoover.png",
+    "official_name": "Carley Hoover",
+    "player": "Carley Hoover",
+    "sha256": "7f71e8c7b847df4ad12735c4effa095949115f8cf6514a0d5e63f4f2fd2f7d7e",
+    "source_url": "https://resource.auprosports.com/prod/players/1065.png"
+  },
+  "carolinejacobsen": {
+    "local_path": "assets/headshots/2026/carolinejacobsen.png",
+    "official_name": "Caroline Jacobsen",
+    "player": "Caroline Jacobsen",
+    "sha256": "ce7c8ceebb0a84ab50280a773a6d45b74b293f09e57cc997063e1d536ad086d3",
+    "source_url": "https://resource.auprosports.com/prod/players/721/721-ausl.png"
+  },
+  "cassidycurd": {
+    "local_path": "assets/headshots/2026/cassidycurd.png",
+    "official_name": "Cassidy Curd",
+    "player": "Cassidy Curd",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1337/1337-ausl.png"
+  },
+  "dakotakennedy": {
+    "local_path": "assets/headshots/2026/dakotakennedy.png",
+    "official_name": "Dakota Kennedy",
+    "player": "Dakota Kennedy",
+    "sha256": "3e5ecbc25b96b86d74bf6c9c7fff5a7b79c062b41123b24ae351cd40013f7e10",
+    "source_url": "https://resource.auprosports.com/prod/players/1317/1317-ausl.png"
+  },
+  "dallasescobedomagee": {
+    "local_path": "assets/headshots/2026/dallasescobedomagee.png",
+    "official_name": "Dallas Escobedo Magee",
+    "player": "Dallas Escobedo Magee",
+    "sha256": "031c192faa17bf890a050b31ebb3d505a114a35d452621831d7b09d4d29f75c8",
+    "source_url": "https://resource.auprosports.com/prod/players/1311/1311-ausl.png"
+  },
+  "daniecacoffey": {
+    "local_path": "assets/headshots/2026/daniecacoffey.png",
+    "official_name": "Danieca Coffey",
+    "player": "Danieca Coffey",
+    "sha256": "58422baa587dae3d75a47bd03c98e16f7640b37c2ba969ffed1937b63fc61daf",
+    "source_url": "https://resource.auprosports.com/prod/players/1113/1113-ausl.png"
+  },
+  "dejahmulipola": {
+    "local_path": "assets/headshots/2026/dejahmulipola.png",
+    "official_name": "Dejah Mulipola",
+    "player": "Dejah Mulipola",
+    "sha256": "62c63c5657ccc8ce34bea626e258719f9e7223f953c547cf8e32b3bf3ae97dd6",
+    "source_url": "https://resource.auprosports.com/prod/players/199/199-ausl.png"
+  },
+  "delaniewisz": {
+    "local_path": "assets/headshots/2026/delaniewisz.png",
+    "official_name": "Delanie Wisz",
+    "player": "Delanie Wisz",
+    "sha256": "4ccf01f1966fdeded473845f50b9ece7e95b5c565128babd3e6ee5b8328816a3",
+    "source_url": "https://resource.auprosports.com/prod/players/657/657-ausl.png"
+  },
+  "devynnetz": {
+    "local_path": "assets/headshots/2026/devynnetz.png",
+    "official_name": "Devyn Netz",
+    "player": "Devyn Netz",
+    "sha256": "16bb20764cde9db97961b6cc6f2570a52cc241ce0c23f4c1e0594a2739bdef43",
+    "source_url": "https://resource.auprosports.com/prod/players/1098/1098-ausl.png"
+  },
+  "elonbutler": {
+    "local_path": "assets/headshots/2026/elonbutler.png",
+    "official_name": "Elon Butler",
+    "player": "Elon Butler",
+    "sha256": "83ab5b9c8cd50ac616ee06106485ca99a5c47ae8e437e5c18c9ab973367b58d8",
+    "source_url": "https://resource.auprosports.com/prod/players/1335/1335-ausl.png"
+  },
+  "emileykennedy": {
+    "local_path": "assets/headshots/2026/emileykennedy.png",
+    "official_name": "Emiley Kennedy",
+    "player": "Emiley Kennedy",
+    "sha256": "7cf5c57787f672cea765b28d0e035db6f6d097d6069cd356b89126066b6ae7a0",
+    "source_url": "https://resource.auprosports.com/prod/players/1097/1097-ausl.png"
+  },
+  "emmalemley": {
+    "local_path": "assets/headshots/2026/emmalemley.png",
+    "official_name": "Emma Lemley",
+    "player": "Emma Lemley",
+    "sha256": "ca1cc633a2e44a258f8f9aa7bd5087cbe3794ac3eae6aeb98004a98b2eb31cf9",
+    "source_url": "https://resource.auprosports.com/prod/players/1101/1101-ausl.png"
+  },
+  "erincoffel": {
+    "local_path": "assets/headshots/2026/erincoffel.png",
+    "official_name": "Erin Coffel",
+    "player": "Erin Coffel",
+    "sha256": "a0e9cb956d7824427499f12f72d039f19cc31bee58b95cbec2972472eda1977b",
+    "source_url": "https://resource.auprosports.com/prod/players/937/937-ausl.png"
+  },
+  "georginacorrick": {
+    "local_path": "assets/headshots/2026/georginacorrick.png",
+    "official_name": "Georgina Corrick",
+    "player": "Georgina Corrick",
+    "sha256": "2572c4513d58bad212363bc24402bd7f50e489e017f8d6ea12a238bd6ff521bd",
+    "source_url": "https://resource.auprosports.com/prod/players/307/307-ausl.png"
+  },
+  "gracejenkins": {
+    "local_path": "assets/headshots/2026/gracejenkins.png",
+    "official_name": "Grace Jenkins",
+    "player": "Grace Jenkins",
+    "sha256": "e913529aa591a88a74f381e0195141584da4f42586f9f2827d6441b6b89c9564",
+    "source_url": "https://resource.auprosports.com/prod/players/1343/1343-ausl.png"
+  },
+  "haleylee": {
+    "local_path": "assets/headshots/2026/haleylee.png",
+    "official_name": "Haley Lee",
+    "player": "Haley Lee",
+    "sha256": "4f1c78876e243146cc5c34772a2fcead7d3da95122f6f9524481184c1b64a7a0",
+    "source_url": "https://resource.auprosports.com/prod/players/928/928-ausl.png"
+  },
+  "hannahflippen": {
+    "local_path": "assets/headshots/2026/hannahflippen.png",
+    "official_name": "Hannah Flippen",
+    "player": "Hannah Flippen",
+    "sha256": "a46048c215b23c1879c560a473d55c3091bc957892183549f51750fb9a69e65d",
+    "source_url": "https://resource.auprosports.com/prod/players/21.png"
+  },
+  "jackielis": {
+    "local_path": "assets/headshots/2026/jackielis.png",
+    "official_name": "Jackie Lis",
+    "player": "Jackie Lis",
+    "sha256": "1ff1f957f72909cfb8637199bfe96629654cb8e7573db283b9052eeff41b062b",
+    "source_url": "https://resource.auprosports.com/prod/players/1345/1345-ausl.png"
+  },
+  "jadelynallchin": {
+    "local_path": "assets/headshots/2026/jadelynallchin.png",
+    "official_name": "Jadelyn Allchin",
+    "player": "Jadelyn Allchin",
+    "sha256": "9459eeff06fdea6a5e1968c30f9f56ea3b8f05eaf70c65e765ee6436534f92a2",
+    "source_url": "https://resource.auprosports.com/prod/players/948.png"
+  },
+  "jailynford": {
+    "local_path": "assets/headshots/2026/jailynford.png",
+    "official_name": "Jailyn Ford",
+    "player": "Jailyn Ford",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1265/1265-ausl.png"
+  },
+  "jalawright": {
+    "local_path": "assets/headshots/2026/jalawright.png",
+    "official_name": "Jala Wright",
+    "player": "Jala Wright",
+    "sha256": "53916458ad27c2fa8f82568057d59032b156f9a4c56ddf86b05107e3840e1b36",
+    "source_url": "https://resource.auprosports.com/prod/players/1308/1308-ausl.png"
+  },
+  "jalialassiter": {
+    "local_path": "assets/headshots/2026/jalialassiter.png",
+    "official_name": "Jalia Lassiter",
+    "player": "Jalia Lassiter",
+    "sha256": "de0abca4cad4552a9e512003c85e568bdaf1e79647d748ea65c28f54b09dd6b4",
+    "source_url": "https://resource.auprosports.com/prod/players/1355/1355-ausl.png"
+  },
+  "jaydacoleman": {
+    "local_path": "assets/headshots/2026/jaydacoleman.png",
+    "official_name": "Jayda Coleman",
+    "player": "Jayda Coleman",
+    "sha256": "5d4e1164a17fe8e20ecff52bc789d83d0beb54d926132553907d83cb22b4b004",
+    "source_url": "https://resource.auprosports.com/prod/players/1262/1262-ausl.png"
+  },
+  "jaydyngoodwin": {
+    "local_path": "assets/headshots/2026/jaydyngoodwin.png",
+    "official_name": "Jaydyn Goodwin",
+    "player": "Jaydyn Goodwin",
+    "sha256": "f53eb13fab5c5c312e0e83e788a59edf6869eb4a963ab9b68bd6904969cc4d0b",
+    "source_url": "https://resource.auprosports.com/prod/players/1354/1354-ausl.png"
+  },
+  "jennalaird": {
+    "local_path": "assets/headshots/2026/jennalaird.png",
+    "official_name": "Jenna Laird",
+    "player": "Jenna Laird",
+    "sha256": "1db84eb970553c5418772ae181be496049b6d96ea1f5659fe39e7b977ff9aeba",
+    "source_url": "https://resource.auprosports.com/prod/players/1278/1278-ausl.png"
+  },
+  "jessicaclements": {
+    "local_path": "assets/headshots/2026/jessicaclements.png",
+    "official_name": "Jessica Clements",
+    "player": "Jessica Clements",
+    "sha256": "c6709cb7632bd9cde8a47f2327f5d6a780ec11e29540acba83e205d393040a18",
+    "source_url": "https://resource.auprosports.com/prod/players/1110/1110-ausl.png"
+  },
+  "jessicamullins": {
+    "local_path": "assets/headshots/2026/jessicamullins.png",
+    "official_name": "Jessica Mullins",
+    "player": "Jessica Mullins",
+    "sha256": "41992e4c14cbc78d3a2bd87c749ad26348d614fb5761f10b8729d13d48a9ddeb",
+    "source_url": "https://resource.auprosports.com/prod/players/1286/1286-ausl.png"
+  },
+  "jessiwarren": {
+    "local_path": "assets/headshots/2026/jessiwarren.png",
+    "official_name": "Jessi Warren",
+    "player": "Jessi Warren",
+    "sha256": "c49d8e7bb03fa1e6aefe2913c03f52474f21f722a1a306e1aeb2f46260009fc8",
+    "source_url": "https://resource.auprosports.com/prod/players/30/30-ausl.png"
+  },
+  "jocelynerickson": {
+    "local_path": "assets/headshots/2026/jocelynerickson.png",
+    "official_name": "Jocelyn Erickson",
+    "player": "Jocelyn Erickson",
+    "sha256": "ffac14a4ff5ee690c7039c77254c04c888d984162e82b8912295f64a8ac4fa98",
+    "source_url": "https://resource.auprosports.com/prod/players/1320/1320-ausl.png"
+  },
+  "jordanwoolery": {
+    "local_path": "assets/headshots/2026/jordanwoolery.png",
+    "official_name": "Jordan Woolery",
+    "player": "Jordan Woolery",
+    "sha256": "adb30a35212bda9b8204f92d604beda5e28ec509577bad7b2f7a3f0b1449a49e",
+    "source_url": "https://resource.auprosports.com/prod/players/1330/1330-ausl.png"
+  },
+  "jordynruddlee": {
+    "local_path": "assets/headshots/2026/jordynruddlee.png",
+    "official_name": "Jordyn Rudd-Lee",
+    "player": "Jordyn Rudd-Lee",
+    "sha256": "146eb9cdd6212b653a10b41fbd9fcbabb829e4697826118cae006d0e7e4cbc2a",
+    "source_url": "https://resource.auprosports.com/prod/players/934/934-ausl.png"
+  },
+  "kaiahaltmeyer": {
+    "local_path": "assets/headshots/2026/kaiahaltmeyer.png",
+    "official_name": "Kaiah Altmeyer",
+    "player": "Kaiah Altmeyer",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1332/1332-ausl.png"
+  },
+  "kaileywyckoff": {
+    "local_path": "assets/headshots/2026/kaileywyckoff.png",
+    "official_name": "Kailey Wyckoff",
+    "player": "Kailey Wyckoff",
+    "sha256": "29cfbdbd2474ed8bc97ffdb2081a0b6ade7c005e72778ef3a92bf75914bc703d",
+    "source_url": "https://resource.auprosports.com/prod/players/1384/1384-ausl.png"
+  },
+  "karlispaid": {
+    "local_path": "assets/headshots/2026/karlispaid.png",
+    "official_name": "Karli Spaid",
+    "player": "Karli Spaid",
+    "sha256": "a7f82a3446bb3e3dfc3dc6be82c8949b2bb3e0f00cfdadc6b813734bec773ee0",
+    "source_url": "https://resource.auprosports.com/prod/players/936/936-ausl.png"
+  },
+  "karlynpickens": {
+    "local_path": "assets/headshots/2026/karlynpickens.png",
+    "official_name": "Karlyn Pickens",
+    "player": "Karlyn Pickens",
+    "sha256": "8379df700f03b800e12806b87ad2ed3ff319ee7d5d302f0e5512149b70088c4a",
+    "source_url": "https://resource.auprosports.com/prod/players/1324/1324-ausl.png"
+  },
+  "katsandercock": {
+    "local_path": "assets/headshots/2026/katsandercock.png",
+    "official_name": "Kat Sandercock",
+    "player": "Kat Sandercock",
+    "sha256": "6c5f4b501802e59b0de82898952fac441f69a8f978fd3ea382c5541959f26045",
+    "source_url": "https://resource.auprosports.com/prod/players/723/723-ausl.png"
+  },
+  "kaylakowalik": {
+    "local_path": "assets/headshots/2026/kaylakowalik.png",
+    "official_name": "Kayla Kowalik",
+    "player": "Kayla Kowalik",
+    "sha256": "dcdc467cc88d7734d2d6340f818541c7fd5d1f4ae251bad9894654634b1a893b",
+    "source_url": "https://resource.auprosports.com/prod/players/933/933-ausl.png"
+  },
+  "keilaniricketts": {
+    "local_path": "assets/headshots/2026/keilaniricketts.png",
+    "official_name": "Keilani Ricketts",
+    "player": "Keilani Ricketts",
+    "sha256": "a145010ee2d00b1253295649db8b4cd90f2277204999ccd5f0baccaf14bc190e",
+    "source_url": "https://resource.auprosports.com/prod/players/927/927-ausl.png"
+  },
+  "keirstinroose": {
+    "local_path": "assets/headshots/2026/keirstinroose.png",
+    "official_name": "Keirstin Roose",
+    "player": "Keirstin Roose",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1349/1349-ausl.png"
+  },
+  "kellymaxwell": {
+    "local_path": "assets/headshots/2026/kellymaxwell.png",
+    "official_name": "Kelly Maxwell",
+    "player": "Kelly Maxwell",
+    "sha256": "682d07e31570881341d7461654fa585ca7a8b8212c17722cc590b790a7acc0bc",
+    "source_url": "https://resource.auprosports.com/prod/players/1285/1285-ausl.png"
+  },
+  "kellytorres": {
+    "local_path": "assets/headshots/2026/kellytorres.png",
+    "official_name": "Kelly Torres",
+    "player": "Kelly Torres",
+    "sha256": "89effb0f42c68b337eff7359b89d133116fa44dc652d81d415df28cf0922609c",
+    "source_url": "https://resource.auprosports.com/prod/players/1087/1087-ausl.png"
+  },
+  "kelseystewarthunter": {
+    "local_path": "assets/headshots/2026/kelseystewarthunter.png",
+    "official_name": "Kelsey Stewart-Hunter",
+    "player": "Kelsey Stewart-Hunter",
+    "sha256": "d3e9d0736c762b308602584b8308818f8bf92e35c80f55f5c989091f0c1c05c4",
+    "source_url": "https://resource.auprosports.com/prod/players/38.png"
+  },
+  "kendrafalby": {
+    "local_path": "assets/headshots/2026/kendrafalby.png",
+    "official_name": "Kendra Falby",
+    "player": "Kendra Falby",
+    "sha256": "6647b67a4f16af135dc581cd615cf69413fdca91f78562dde361484e18106222",
+    "source_url": "https://resource.auprosports.com/prod/players/1114/1114-ausl.png"
+  },
+  "kenleighcahalan": {
+    "local_path": "assets/headshots/2026/kenleighcahalan.png",
+    "official_name": "Kenleigh Cahalan",
+    "player": "Kenleigh Cahalan",
+    "sha256": "18d328a71ce72d93d2fed564e33eec62334d7518f0ab108dd86c49b18adfe1ab",
+    "source_url": "https://resource.auprosports.com/prod/players/1319/1319-ausl.png"
+  },
+  "kennedypowell": {
+    "local_path": "assets/headshots/2026/kennedypowell.png",
+    "official_name": "Kennedy Powell",
+    "player": "Kennedy Powell",
+    "sha256": "cc7dde347711805e6a53ba42892ca66fe21d5254dabef386a59c9b8a6e02a042",
+    "source_url": "https://resource.auprosports.com/prod/players/1348/1348-ausl.png"
+  },
+  "kenziebrown": {
+    "local_path": "assets/headshots/2026/kenziebrown.png",
+    "official_name": "Kenzie Brown",
+    "player": "Kenzie Brown",
+    "sha256": "701e222e8d7620bcb35ce5f61bbc9f33f9f1a4e8445f78687f56df27bf0c58a0",
+    "source_url": "https://resource.auprosports.com/prod/players/1316/1316-ausl.png"
+  },
+  "kkmadrey": {
+    "local_path": "assets/headshots/2026/kkmadrey.png",
+    "official_name": "KK Madrey",
+    "player": "KK Madrey",
+    "sha256": "bee2da557e4caf09f24468c213f0ceb5cb9ac10b279c36a9ec39e5eed1d44fe9",
+    "source_url": "https://resource.auprosports.com/prod/players/1283/1283-ausl.png"
+  },
+  "korbeotis": {
+    "local_path": "assets/headshots/2026/korbeotis.png",
+    "official_name": "Korbe Otis",
+    "player": "Korbe Otis",
+    "sha256": "7cdb8256f216537ad9a92d522668905840f40188c02363b92b62a6feaf011031",
+    "source_url": "https://resource.auprosports.com/prod/players/1102/1102-ausl.png"
+  },
+  "kyleighsand": {
+    "local_path": "assets/headshots/2026/kyleighsand.png",
+    "official_name": "Kyleigh Sand",
+    "player": "Kyleigh Sand",
+    "sha256": "4911d3cc52791882159b5f489666acac3e2f1c18879d9f825d4edfb1a1770818",
+    "source_url": "https://resource.auprosports.com/prod/players/1295/1295-ausl.png"
+  },
+  "leighanngoode": {
+    "local_path": "assets/headshots/2026/leighanngoode.png",
+    "official_name": "Leighann Goode",
+    "player": "Leighann Goode",
+    "sha256": "6000058a5355f04a25f7992361285bbc46e205ba594fa2a38cd696b0c9957fd3",
+    "source_url": "https://resource.auprosports.com/prod/players/1326/1326-ausl.png"
+  },
+  "lexikilfoyl": {
+    "local_path": "assets/headshots/2026/lexikilfoyl.png",
+    "official_name": "Lexi Kilfoyl",
+    "player": "Lexi Kilfoyl",
+    "sha256": "965c437981a3f5d51ffb128a06575cb4c49ce960aef528775a83fc9478d40212",
+    "source_url": "https://resource.auprosports.com/prod/players/949/949-ausl.png"
+  },
+  "lyndseygrein": {
+    "local_path": "assets/headshots/2026/lyndseygrein.png",
+    "official_name": "Lyndsey Grein",
+    "player": "Lyndsey Grein",
+    "sha256": "5b4dc0830506ecc2c75ef11add486198f9d939a3a9793cb2864d838f58981a12",
+    "source_url": "https://resource.auprosports.com/prod/players/1341/1341-ausl.png"
+  },
+  "macbarbara": {
+    "local_path": "assets/headshots/2026/macbarbara.png",
+    "official_name": "Mac Barbara",
+    "player": "Mac Barbara",
+    "sha256": "e45b4ccd1638c37a66e3b2eecb8e9be31f254a58ba1befb3ce0918fe0981e0cd",
+    "source_url": "https://resource.auprosports.com/prod/players/1255/1255-ausl.png"
+  },
+  "maddiepenta": {
+    "local_path": "assets/headshots/2026/maddiepenta.png",
+    "official_name": "Maddie Penta",
+    "player": "Maddie Penta",
+    "sha256": "3f02ac595eb4e36fd972159cbe13801c06a35ca91e813c1d7ec45577b2ec1ea5",
+    "source_url": "https://resource.auprosports.com/prod/players/938.png"
+  },
+  "makaylamcclain": {
+    "local_path": "assets/headshots/2026/makaylamcclain.png",
+    "official_name": "Makayla McClain",
+    "player": "Makayla McClain",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1386/1386-ausl.png"
+  },
+  "mariahlopez": {
+    "local_path": "assets/headshots/2026/mariahlopez.png",
+    "official_name": "Mariah Lopez",
+    "player": "Mariah Lopez",
+    "sha256": "f98885e8b0d5bdf795eb851961b80361b0b8a3c6050d83a9b6cfccdae1a83f8d",
+    "source_url": "https://resource.auprosports.com/prod/players/1095/1095-ausl.png"
+  },
+  "mariahmazon": {
+    "local_path": "assets/headshots/2026/mariahmazon.png",
+    "official_name": "Mariah Mazon",
+    "player": "Mariah Mazon",
+    "sha256": "bc3c7b1ea5cff995fe5d9b7b389733b5d6cbfb6ff3e22a7053bb88634a574c24",
+    "source_url": "https://resource.auprosports.com/prod/players/325/325-ausl.png"
+  },
+  "maryiakopo": {
+    "local_path": "assets/headshots/2026/maryiakopo.png",
+    "official_name": "Mary Iakopo",
+    "player": "Mary Iakopo",
+    "sha256": "575393f9b714d5d99d500a211bd8e053b8805e7a5820d35ed5f550b5b78e0706",
+    "source_url": "https://resource.auprosports.com/prod/players/1131/1131-ausl.png"
+  },
+  "mayabrady": {
+    "local_path": "assets/headshots/2026/mayabrady.png",
+    "official_name": "Maya Brady",
+    "player": "Maya Brady",
+    "sha256": "b07092d310c34c9bdc3dd862e36e1fd0cb7a496685c164580226ff5b7c544dd1",
+    "source_url": "https://resource.auprosports.com/prod/players/1092/1092-ausl.png"
+  },
+  "mayajohnson": {
+    "local_path": "assets/headshots/2026/mayajohnson.png",
+    "official_name": "Maya Johnson",
+    "player": "Maya Johnson",
+    "sha256": "379ff5d51e462ec63eadd5a8b01ce07102273c72d05394ebca6322340d9223a7",
+    "source_url": "https://resource.auprosports.com/prod/players/1318/1318-ausl.png"
+  },
+  "mckenzieclark": {
+    "local_path": "assets/headshots/2026/mckenzieclark.png",
+    "official_name": "McKenzie Clark",
+    "player": "McKenzie Clark",
+    "sha256": "3ad83ef0b33a8a9e742c6b49fa7bec6792c805b84c222c75615823e4953a23a1",
+    "source_url": "https://resource.auprosports.com/prod/players/944/944-ausl.png"
+  },
+  "meganfaraimo": {
+    "local_path": "assets/headshots/2026/meganfaraimo.png",
+    "official_name": "Megan Faraimo",
+    "player": "Megan Faraimo",
+    "sha256": "01d798c7d0679efa1a1c706266f2e67f9fe009176cdc918b7da0c12d4a3442e4",
+    "source_url": "https://resource.auprosports.com/prod/players/656/656-ausl.png"
+  },
+  "megangrant": {
+    "local_path": "assets/headshots/2026/megangrant.png",
+    "official_name": "Megan Grant",
+    "player": "Megan Grant",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1328/1328-ausl.png"
+  },
+  "miadavidson": {
+    "local_path": "assets/headshots/2026/miadavidson.png",
+    "official_name": "Mia Davidson",
+    "player": "Mia Davidson",
+    "sha256": "d9ad311172835d778c58f7696bb034b100571a78b232b6ae72c17a65c0b1f2ed",
+    "source_url": "https://resource.auprosports.com/prod/players/310.png"
+  },
+  "michaelaedenfield": {
+    "local_path": "assets/headshots/2026/michaelaedenfield.png",
+    "official_name": "Michaela Edenfield",
+    "player": "Michaela Edenfield",
+    "sha256": "f94323df5efd77b0137bc2b493c0f3d261130815b865953b221f286e602de446",
+    "source_url": "https://resource.auprosports.com/prod/players/1112/1112-ausl.png"
+  },
+  "montanafouts": {
+    "local_path": "assets/headshots/2026/montanafouts.png",
+    "official_name": "Montana Fouts",
+    "player": "Montana Fouts",
+    "sha256": "167469cf3fd4b0dc63b2d471f4bcca0b7fcc91fdc9be2e43eec629c155042e6f",
+    "source_url": "https://resource.auprosports.com/prod/players/932/932-ausl.png"
+  },
+  "morganzerkle": {
+    "local_path": "assets/headshots/2026/morganzerkle.png",
+    "official_name": "Morgan Zerkle",
+    "player": "Morgan Zerkle",
+    "sha256": "5c3d7e92250d5fba1c454e2317c5d8d0f0347914ec3496296e62d5aeaa39bb7d",
+    "source_url": "https://resource.auprosports.com/prod/players/84/84-ausl.png"
+  },
+  "nijareecanady": {
+    "local_path": "assets/headshots/2026/nijareecanady.png",
+    "official_name": "NiJaree Canady",
+    "player": "NiJaree Canady",
+    "sha256": "f91d8a05bd699cc574e46ce5f0b35a4f36718ecc3befdc45b5efa2dfb924bea6",
+    "source_url": "https://resource.auprosports.com/prod/players/1327/1327-ausl.png"
+  },
+  "odiccialexanderbennett": {
+    "local_path": "assets/headshots/2026/odiccialexanderbennett.png",
+    "official_name": "Odicci Alexander-Bennett",
+    "player": "Odicci Alexander-Bennett",
+    "sha256": "0670d419763406eca49cd4616c86bed0412175d0b8f3a819595ddaaf0829875f",
+    "source_url": "https://resource.auprosports.com/prod/players/169/169-ausl.png"
+  },
+  "paytongottshall": {
+    "local_path": "assets/headshots/2026/paytongottshall.png",
+    "official_name": "Payton Gottshall",
+    "player": "Payton Gottshall",
+    "sha256": "6fa883119d4c8c1f40677cffe9aa531370c731d0d2f5b9f8539936485e958768",
+    "source_url": "https://resource.auprosports.com/prod/players/939/939-ausl.png"
+  },
+  "pejagoold": {
+    "local_path": "assets/headshots/2026/pejagoold.png",
+    "official_name": "Peja Goold",
+    "player": "Peja Goold",
+    "sha256": "efb7c813ae07ffb650407b5714ffe55c23e42cee63e577297e68d0e7f8ab3df5",
+    "source_url": "https://resource.auprosports.com/prod/players/1321/1321-ausl.png"
+  },
+  "rachelbecker": {
+    "local_path": "assets/headshots/2026/rachelbecker.png",
+    "official_name": "Rachel Becker",
+    "player": "Rachel Becker",
+    "sha256": "90a14083fc277757bc0087f09b6a873e94af83509c079fa5d242e80713f498b0",
+    "source_url": "https://resource.auprosports.com/prod/players/722/722-ausl.png"
+  },
+  "rachelgarcia": {
+    "local_path": "assets/headshots/2026/rachelgarcia.png",
+    "official_name": "Rachel Garcia",
+    "player": "Rachel Garcia",
+    "sha256": "0952e72bea497a4f8f3eea35e86341f0695a316069dae648746c8b964c524085",
+    "source_url": "https://resource.auprosports.com/prod/players/278/278-ausl.png"
+  },
+  "reeseatwood": {
+    "local_path": "assets/headshots/2026/reeseatwood.png",
+    "official_name": "Reese Atwood",
+    "player": "Reese Atwood",
+    "sha256": "99de002696b8345b9150e05e28fc762ae0acafe3f0e1a2a2e8c6e896174b0186",
+    "source_url": "https://resource.auprosports.com/prod/players/1325/1325-ausl.png"
+  },
+  "rubymeylan": {
+    "local_path": "assets/headshots/2026/rubymeylan.png",
+    "official_name": "Ruby Meylan",
+    "player": "Ruby Meylan",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1347/1347-ausl.png"
+  },
+  "rylieboone": {
+    "local_path": "assets/headshots/2026/rylieboone.png",
+    "official_name": "Rylie Boone",
+    "player": "Rylie Boone",
+    "sha256": "1683a5ee34612fd5784f08f2b684096b02bad619b78713b32cb25d52d34a98ab",
+    "source_url": "https://resource.auprosports.com/prod/players/1258/1258-ausl.png"
+  },
+  "sahvannajaquish": {
+    "local_path": "assets/headshots/2026/sahvannajaquish.png",
+    "official_name": "Sahvanna Jaquish",
+    "player": "Sahvanna Jaquish",
+    "sha256": "678ac4dd6e79bec9be96c7d5b82992cc9d93e6b452f476c930141d030b5440ee",
+    "source_url": "https://resource.auprosports.com/prod/players/27/27-ausl.png"
+  },
+  "samiwilliams": {
+    "local_path": "assets/headshots/2026/samiwilliams.png",
+    "official_name": "Sami Williams",
+    "player": "Sami Williams",
+    "sha256": "0cf0a1bd4bdc0c145aa75e73cf2cdeca8e5fe0941487ba87963f85aeac9b0cd5",
+    "source_url": "https://resource.auprosports.com/prod/players/194/194-ausl.png"
+  },
+  "samlandry": {
+    "local_path": "assets/headshots/2026/samlandry.png",
+    "official_name": "Sam Landry",
+    "player": "Sam Landry",
+    "sha256": "6df2306854800197467fb0b50bd084d4c9e2a816dd557312f0f051bf98492d09",
+    "source_url": "https://resource.auprosports.com/prod/players/1111/1111-ausl.png"
+  },
+  "sarahgordon": {
+    "local_path": "assets/headshots/2026/sarahgordon.png",
+    "official_name": "Sarah Gordon",
+    "player": "Sarah Gordon",
+    "sha256": "527186dbd382aa39ed460933235b27a00f9da0d82687f6886654954a4e7c8ecb",
+    "source_url": "https://resource.auprosports.com/prod/players/1340/1340-ausl.png"
+  },
+  "sarahwillis": {
+    "local_path": "assets/headshots/2026/sarahwillis.png",
+    "official_name": "Sarah Willis",
+    "player": "Sarah Willis",
+    "sha256": "e36bf7c8a296dab6224cb039ebc7a0f63bff8665dc6f643a0c74ee797c661a8b",
+    "source_url": "https://resource.auprosports.com/prod/players/941/941-ausl.png"
+  },
+  "sharlizepalacios": {
+    "local_path": "assets/headshots/2026/sharlizepalacios.png",
+    "official_name": "Sharlize Palacios",
+    "player": "Sharlize Palacios",
+    "sha256": "54f65b5e5941eb47be965c605a57d299d709e4354f488f47f9c346a3500916ab",
+    "source_url": "https://resource.auprosports.com/prod/players/951/951-ausl.png"
+  },
+  "sierraromero": {
+    "local_path": "assets/headshots/2026/sierraromero.png",
+    "official_name": "Sierra Romero",
+    "player": "Sierra Romero",
+    "sha256": "1e47c44807302d0975f5cb532c1ea810d4e9abeb282bb37863d78439002172ad",
+    "source_url": "https://resource.auprosports.com/prod/players/292/292-ausl.png"
+  },
+  "sierrasaccoferrie": {
+    "local_path": "assets/headshots/2026/sierrasaccoferrie.png",
+    "official_name": "Sierra Sacco-Ferrie",
+    "player": "Sierra Sacco-Ferrie",
+    "sha256": "9b7b43a46a94fffce6a817ff9961d74ef50b18715046c400d4b2099a43e880b8",
+    "source_url": "https://resource.auprosports.com/prod/players/1107/1107-ausl.png"
+  },
+  "sisbates": {
+    "local_path": "assets/headshots/2026/sisbates.png",
+    "official_name": "Sis Bates",
+    "player": "Sis Bates",
+    "sha256": "ce1981cd44ab62b81c1c6d74bb7e528245233f812bcd722795be40dc2fc51589",
+    "source_url": "https://resource.auprosports.com/prod/players/198/198-ausl.png"
+  },
+  "skylarwallace": {
+    "local_path": "assets/headshots/2026/skylarwallace.png",
+    "official_name": "Skylar Wallace",
+    "player": "Skylar Wallace",
+    "sha256": "30c66bffc6aaef0fadcde964c4d7f369489a3ab8617c0d923e4bf54b35301f16",
+    "source_url": "https://resource.auprosports.com/prod/players/1000/1000-ausl.png"
+  },
+  "sydneyberzon": {
+    "local_path": "assets/headshots/2026/sydneyberzon.png",
+    "official_name": "Sydney Berzon",
+    "player": "Sydney Berzon",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1334/1334-ausl.png"
+  },
+  "sydneymckinney": {
+    "local_path": "assets/headshots/2026/sydneymckinney.png",
+    "official_name": "Sydney McKinney",
+    "player": "Sydney McKinney",
+    "sha256": "df8ad3fc3fe15d6f0fa13973beabcf4387651c5ed7c60445bf536ac1be667651",
+    "source_url": "https://resource.auprosports.com/prod/players/655.png"
+  },
+  "sydneyromero": {
+    "local_path": "assets/headshots/2026/sydneyromero.png",
+    "official_name": "Sydney Romero",
+    "player": "Sydney Romero",
+    "sha256": "258900f7bc66bc23ac21aae813b6f70a5a41df81a150b9d55eaa75236a995f91",
+    "source_url": "https://resource.auprosports.com/prod/players/157/157-ausl.png"
+  },
+  "sydneysherrill": {
+    "local_path": "assets/headshots/2026/sydneysherrill.png",
+    "official_name": "Sydney Sherrill",
+    "player": "Sydney Sherrill",
+    "sha256": "7d95e10891bd1b9011b1a832eef54b18f9ca6224b26c06d07215a65fbeb3705d",
+    "source_url": "https://resource.auprosports.com/prod/players/311/311-ausl.png"
+  },
+  "sydneystewart": {
+    "local_path": "assets/headshots/2026/sydneystewart.png",
+    "official_name": "Sydney Stewart",
+    "player": "Sydney Stewart",
+    "sha256": "1cf8380ebe520e13502a27af381eafd2009498c0f545fa633862d36454aefe15",
+    "source_url": "https://resource.auprosports.com/prod/players/1315/1315-ausl.png"
+  },
+  "tarynkern": {
+    "local_path": "assets/headshots/2026/tarynkern.png",
+    "official_name": "Taryn Kern",
+    "player": "Taryn Kern",
+    "sha256": "85354822f854169fce0cac6639a13500f07bcba142df6f8e44fce439441da4a6",
+    "source_url": "https://resource.auprosports.com/prod/players/1331/1331-ausl.png"
+  },
+  "taylormcquillin": {
+    "local_path": "assets/headshots/2026/taylormcquillin.png",
+    "official_name": "Taylor McQuillin",
+    "player": "Taylor McQuillin",
+    "sha256": "cb76b7d7c2dad4ed6b8336b893bfdd06db5e8f156523eb9c49643d73bf7ba257",
+    "source_url": "https://resource.auprosports.com/prod/players/20/20-ausl.png"
+  },
+  "taylortinsley": {
+    "local_path": "assets/headshots/2026/taylortinsley.png",
+    "official_name": "Taylor Tinsley",
+    "player": "Taylor Tinsley",
+    "sha256": "123b3020180c10b221b5f09672c28c95e949a104644b55561788dd53a098e84c",
+    "source_url": "https://resource.auprosports.com/prod/players/1329/1329-ausl.png"
+  },
+  "tiannabell": {
+    "local_path": "assets/headshots/2026/tiannabell.png",
+    "official_name": "Tianna Bell",
+    "player": "Tianna Bell",
+    "sha256": "ad69020650ba93a1da18e628bb62fa8032cdb4d51bf647ed85ff599da090495a",
+    "source_url": "https://resource.auprosports.com/prod/players/1382/1382-ausl.png"
+  },
+  "tiarejennings": {
+    "local_path": "assets/headshots/2026/tiarejennings.png",
+    "official_name": "Tiare Jennings",
+    "player": "Tiare Jennings",
+    "sha256": "a146e38d9feaed45d8352ec154cd987e8b6b056650b060a9ebbeb7af85596ab1",
+    "source_url": "https://resource.auprosports.com/prod/players/1075/1075-ausl.png"
+  },
+  "torividales": {
+    "local_path": "assets/headshots/2026/torividales.png",
+    "official_name": "Tori Vidales",
+    "player": "Tori Vidales",
+    "sha256": "118a132acc79dd5394851a7d86da491f6d596c646f55cc5023c2209c919931ea",
+    "source_url": "https://resource.auprosports.com/prod/players/29.png"
+  },
+  "valeriecagle": {
+    "local_path": "assets/headshots/2026/valeriecagle.png",
+    "official_name": "Valerie Cagle",
+    "player": "Valerie Cagle",
+    "sha256": "ebd12ebcb89dbc17cccabf65dd23872c064cd3e8e1e49830e79681a9cdd999e0",
+    "source_url": "https://resource.auprosports.com/prod/players/950/950-ausl.png"
+  }
+}

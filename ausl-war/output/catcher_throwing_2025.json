@@ -1,0 +1,145 @@
+[
+  {
+    "catcher_caught_stealing": 4,
+    "catcher_cs_rate": 1.0,
+    "catcher_innings": 15.1,
+    "catcher_steal_attempts": 4,
+    "catcher_stolen_bases_allowed": 0,
+    "catcher_throwing_runs": 0.3114824219343727,
+    "catcher_throwing_runs_unshrunk": 1.8393823358499486,
+    "player": "Sahvanna Jaquish",
+    "player_key": "sahvannajaquish"
+  },
+  {
+    "catcher_caught_stealing": 8,
+    "catcher_cs_rate": 0.3076923076923077,
+    "catcher_innings": 96.2,
+    "catcher_steal_attempts": 26,
+    "catcher_stolen_bases_allowed": 18,
+    "catcher_throwing_runs": 0.5006666167257786,
+    "catcher_throwing_runs_unshrunk": 0.8292297415716984,
+    "player": "Jordan Roberts",
+    "player_key": "jordanroberts"
+  },
+  {
+    "catcher_caught_stealing": 0,
+    "catcher_cs_rate": 0.0,
+    "catcher_innings": 7.0,
+    "catcher_steal_attempts": 0,
+    "catcher_stolen_bases_allowed": 0,
+    "catcher_throwing_runs": 0.0,
+    "catcher_throwing_runs_unshrunk": 0.0,
+    "player": "Erika Piancastelli",
+    "player_key": "erikapiancastelli"
+  },
+  {
+    "catcher_caught_stealing": 6,
+    "catcher_cs_rate": 0.3333333333333333,
+    "catcher_innings": 64.2,
+    "catcher_steal_attempts": 18,
+    "catcher_stolen_bases_allowed": 12,
+    "catcher_throwing_runs": 0.4292105654069584,
+    "catcher_throwing_runs_unshrunk": 0.8593835503561238,
+    "player": "Taylor Edwards",
+    "player_key": "tayloredwards"
+  },
+  {
+    "catcher_caught_stealing": 4,
+    "catcher_cs_rate": 0.13333333333333333,
+    "catcher_innings": 101.0,
+    "catcher_steal_attempts": 30,
+    "catcher_stolen_bases_allowed": 26,
+    "catcher_throwing_runs": -1.3290772932391108,
+    "catcher_throwing_runs_unshrunk": -2.276612563224117,
+    "player": "Dejah Mulipola",
+    "player_key": "dejahmulipola"
+  },
+  {
+    "catcher_caught_stealing": 0,
+    "catcher_cs_rate": 0.0,
+    "catcher_innings": 8.0,
+    "catcher_steal_attempts": 0,
+    "catcher_stolen_bases_allowed": 0,
+    "catcher_throwing_runs": 0.0,
+    "catcher_throwing_runs_unshrunk": 0.0,
+    "player": "Delanie Wisz",
+    "player_key": "delaniewisz"
+  },
+  {
+    "catcher_caught_stealing": 2,
+    "catcher_cs_rate": 0.09090909090909091,
+    "catcher_innings": 91.2,
+    "catcher_steal_attempts": 22,
+    "catcher_stolen_bases_allowed": 20,
+    "catcher_throwing_runs": -1.1496636443108608,
+    "catcher_throwing_runs_unshrunk": -2.2464587544396917,
+    "player": "Kayla Kowalik",
+    "player_key": "kaylakowalik"
+  },
+  {
+    "catcher_caught_stealing": 16,
+    "catcher_cs_rate": 0.5333333333333333,
+    "catcher_innings": 155.0,
+    "catcher_steal_attempts": 30,
+    "catcher_stolen_bases_allowed": 14,
+    "catcher_throwing_runs": 3.121624883342076,
+    "catcher_throwing_runs_unshrunk": 5.141224397744528,
+    "player": "Sharlize Palacios",
+    "player_key": "sharlizepalacios"
+  },
+  {
+    "catcher_caught_stealing": 0,
+    "catcher_cs_rate": 0.0,
+    "catcher_innings": 0.0,
+    "catcher_steal_attempts": 0,
+    "catcher_stolen_bases_allowed": 0,
+    "catcher_throwing_runs": 0.0,
+    "catcher_throwing_runs_unshrunk": 0.0,
+    "player": "Ana Gold",
+    "player_key": "anagold"
+  },
+  {
+    "catcher_caught_stealing": 2,
+    "catcher_cs_rate": 0.125,
+    "catcher_innings": 43.1,
+    "catcher_steal_attempts": 16,
+    "catcher_stolen_bases_allowed": 14,
+    "catcher_throwing_runs": -0.5565979929314936,
+    "catcher_throwing_runs_unshrunk": -1.2966137777302917,
+    "player": "Michaela Edenfield",
+    "player_key": "michaelaedenfield"
+  },
+  {
+    "catcher_caught_stealing": 0,
+    "catcher_cs_rate": 0.0,
+    "catcher_innings": 6.0,
+    "catcher_steal_attempts": 0,
+    "catcher_stolen_bases_allowed": 0,
+    "catcher_throwing_runs": 0.0,
+    "catcher_throwing_runs_unshrunk": 0.0,
+    "player": "Ally Shipman-Shrout",
+    "player_key": "allyshipmanshrout"
+  },
+  {
+    "catcher_caught_stealing": 0,
+    "catcher_cs_rate": 0.0,
+    "catcher_innings": 84.1,
+    "catcher_steal_attempts": 18,
+    "catcher_stolen_bases_allowed": 18,
+    "catcher_throwing_runs": -1.3276455569277208,
+    "catcher_throwing_runs_unshrunk": -2.849534930128199,
+    "player": "Mary Iakopo",
+    "player_key": "maryiakopo"
+  },
+  {
+    "catcher_caught_stealing": 0,
+    "catcher_cs_rate": 0.0,
+    "catcher_innings": 1.0,
+    "catcher_steal_attempts": 0,
+    "catcher_stolen_bases_allowed": 0,
+    "catcher_throwing_runs": 0.0,
+    "catcher_throwing_runs_unshrunk": 0.0,
+    "player": "Aby Vieira",
+    "player_key": "abyvieira"
+  }
+]

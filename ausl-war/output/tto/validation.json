@@ -1,0 +1,35 @@
+{
+  "checks": [
+    {
+      "check": "every completed official game is represented",
+      "expected": 98,
+      "observed": 98,
+      "passed": true
+    },
+    {
+      "check": "every PA has batter and pitcher identity",
+      "expected": 6019,
+      "observed": 6019,
+      "passed": true
+    },
+    {
+      "check": "same-game matchup ordinals are consecutive",
+      "expected": 3716,
+      "observed": 3716,
+      "passed": true
+    },
+    {
+      "check": "series matchup ordinals are consecutive",
+      "expected": 2923,
+      "observed": 2923,
+      "passed": true
+    },
+    {
+      "check": "pitcher batters-faced counters are consecutive",
+      "expected": 467,
+      "observed": 467,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,22 @@
+{
+  "combined_players": 78,
+  "completed_games": 50,
+  "league_adjusted_position_raa": -1.2212453270876722e-15,
+  "league_arm_runs": 1.1901503525287376,
+  "league_baserunning_runs": 3.449551842088505e-15,
+  "league_catcher_throwing_runs": -1.6653345369377348e-16,
+  "league_double_play_avoidance_runs": -9.71445146547012e-17,
+  "league_non_steal_advancement_runs": 1.3817614587241511e-15,
+  "league_position_batting_runs": 3.9726555378649664e-13,
+  "league_range_runs": -3.5584658391047457,
+  "pitcher_defense_war_total": -0.018226474321786465,
+  "pitchers": 27,
+  "pitching_component_war_total": 8.86596309983619,
+  "pitching_war_total": 8.847736625514404,
+  "position_players": 73,
+  "position_war_total": 11.728395061728396,
+  "runs_per_win": 10.664688427299703,
+  "season": 2025,
+  "snapshot_id": "20260704T165430Z",
+  "total_war": 20.5761316872428
+}

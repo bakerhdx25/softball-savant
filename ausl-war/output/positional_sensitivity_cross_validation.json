@@ -1,0 +1,69 @@
+{
+  "cross_validation": [
+    {
+      "maximum_absolute_run_change": 1.6967513539018295,
+      "sign_agreement_positions": 8,
+      "spearman_vs_full": 0.9761904761904762,
+      "variant": "leave_team_out:Carolina Blaze"
+    },
+    {
+      "maximum_absolute_run_change": 2.544920684373438,
+      "sign_agreement_positions": 8,
+      "spearman_vs_full": 0.8095238095238095,
+      "variant": "leave_team_out:Chicago Bandits"
+    },
+    {
+      "maximum_absolute_run_change": 1.5071240559347654,
+      "sign_agreement_positions": 6,
+      "spearman_vs_full": 0.9523809523809523,
+      "variant": "leave_team_out:Oklahoma City Spark"
+    },
+    {
+      "maximum_absolute_run_change": 1.6828449050151724,
+      "sign_agreement_positions": 8,
+      "spearman_vs_full": 0.9523809523809523,
+      "variant": "leave_team_out:Portland Cascade"
+    },
+    {
+      "maximum_absolute_run_change": 1.2423551323430442,
+      "sign_agreement_positions": 8,
+      "spearman_vs_full": 0.9761904761904762,
+      "variant": "leave_team_out:Texas Volts"
+    },
+    {
+      "maximum_absolute_run_change": 2.1660624091439793,
+      "sign_agreement_positions": 8,
+      "spearman_vs_full": 0.9047619047619048,
+      "variant": "leave_team_out:Utah Talons"
+    },
+    {
+      "maximum_absolute_run_change": 7.017842994450211,
+      "sign_agreement_positions": 7,
+      "spearman_vs_full": 0.5476190476190477,
+      "variant": "season_2025"
+    },
+    {
+      "maximum_absolute_run_change": 6.778501456332106,
+      "sign_agreement_positions": 7,
+      "spearman_vs_full": 0.6190476190476191,
+      "variant": "season_2026"
+    }
+  ],
+  "decision": "insufficient_data",
+  "direct_season_to_season_spearman": -0.2857142857142857,
+  "failed_gates": [
+    "defensible_position_innings",
+    "adequate_transition_samples",
+    "leave_one_season_out_stability"
+  ],
+  "reliability_gates": {
+    "adequate_transition_samples": false,
+    "defensible_position_innings": false,
+    "league_centered_candidates": true,
+    "leave_one_season_out_stability": false,
+    "leave_one_team_out_stability": true,
+    "no_double_counting_plan": true
+  },
+  "snapshot_id": "20260704T165430Z",
+  "standardized_season": "25 games / 175 defensive innings"
+}

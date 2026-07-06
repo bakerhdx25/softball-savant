@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#071b2b">
+  <meta name="description" content="Interactive AUSL team scouting report prototype">
+  <title>AUSL Team Scout</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="AUSL Team Scout home">
+      <span class="brand-mark">AU</span>
+      <span><strong>AUSL</strong><small>Team Scout</small></span>
+    </a>
+    <div class="header-actions">
+      <span class="data-stamp" id="data-stamp">2026 research snapshot</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="landing" id="landing" aria-labelledby="landing-title">
+      <div class="landing-copy">
+        <p class="eyebrow">Game preparation</p>
+        <h1 id="landing-title">Choose a team.</h1>
+        <p>Open a team report, scan the roster, and review player tendencies and advanced statistics.</p>
+      </div>
+      <div class="team-grid" id="team-grid" aria-label="AUSL teams"></div>
+    </section>
+
+    <section class="report" id="report" hidden>
+      <div class="report-nav no-print">
+        <button class="back-button" id="back-button" type="button">All teams</button>
+        <label class="opponent-picker">Team
+          <select id="opponent-select" aria-label="Select team"></select>
+        </label>
+      </div>
+
+      <section class="team-hero" id="team-hero"></section>
+
+      <div class="report-shell">
+        <aside class="roster-panel no-print" aria-label="Team roster">
+          <div class="roster-head">
+            <label for="player-search">Find a player</label>
+            <input id="player-search" type="search" placeholder="Search roster" autocomplete="off">
+          </div>
+          <div class="role-filters" role="group" aria-label="Filter roster by role">
+            <button type="button" data-role="all" aria-pressed="true">All</button>
+            <button type="button" data-role="hitters" aria-pressed="false">Hitters</button>
+            <button type="button" data-role="pitchers" aria-pressed="false">Pitchers</button>
+          </div>
+          <div class="roster-list" id="roster-list"></div>
+        </aside>
+
+        <div class="report-content">
+          <section id="team-overview"></section>
+          <section id="player-report" hidden></section>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>AUSL coaching prototype</span>
+    <span>2026 captured data</span>
+  </footer>
+
+  <div class="loading" id="loading" role="status">Loading scouting data…</div>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,1141 @@
+[
+  {
+    "arm_opportunities": 96,
+    "arm_runs": 1.3811843784901867,
+    "arm_runs_opposing_raw": 1.8625944446146911,
+    "arm_runs_unshrunk": 1.9566778695277642,
+    "attributed_runner_runs": -1.8625944446146911,
+    "non_pitcher_arm_opportunities": 96,
+    "non_pitcher_arm_runs": 1.3811843784901867,
+    "non_pitcher_arm_runs_unshrunk": 1.9566778695277642,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Aliyah Andrews",
+    "player_key": "aliyahandrews",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 23,
+    "arm_runs": 0.3517531034045094,
+    "arm_runs_opposing_raw": 0.9409568105124357,
+    "arm_runs_unshrunk": 0.9634976310645257,
+    "attributed_runner_runs": -0.9409568105124357,
+    "non_pitcher_arm_opportunities": 20,
+    "non_pitcher_arm_runs": 0.47277420715381097,
+    "non_pitcher_arm_runs_unshrunk": 1.2949902195952214,
+    "pitcher_arm_opportunities": 3,
+    "pitcher_arm_runs": -0.12102110374930161,
+    "pitcher_arm_runs_unshrunk": -0.33149258853069574,
+    "player": "Devyn Netz",
+    "player_key": "devynnetz",
+    "teams": [
+      "Bandits",
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 31,
+    "arm_runs": 0.8197998364559499,
+    "arm_runs_opposing_raw": 1.8472249710827602,
+    "arm_runs_unshrunk": 1.8776060770442724,
+    "attributed_runner_runs": -1.8472249710827602,
+    "non_pitcher_arm_opportunities": 31,
+    "non_pitcher_arm_runs": 0.8197998364559499,
+    "non_pitcher_arm_runs_unshrunk": 1.8776060770442724,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Anissa Urtez",
+    "player_key": "anissaurtez",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 117,
+    "arm_runs": 1.5727863395919164,
+    "arm_runs_opposing_raw": 1.9958268969635276,
+    "arm_runs_unshrunk": 2.1104910710763325,
+    "attributed_runner_runs": -1.9958268969635276,
+    "non_pitcher_arm_opportunities": 116,
+    "non_pitcher_arm_runs": 1.345910657261128,
+    "non_pitcher_arm_runs_unshrunk": 1.8060510529059581,
+    "pitcher_arm_opportunities": 1,
+    "pitcher_arm_runs": 0.22687568233078861,
+    "pitcher_arm_runs_unshrunk": 0.30444001817037447,
+    "player": "Korbe Otis",
+    "player_key": "korbeotis",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 17,
+    "arm_runs": -0.06145863371711116,
+    "arm_runs_opposing_raw": -0.222727790134749,
+    "arm_runs_unshrunk": -0.20606718363972568,
+    "attributed_runner_runs": 0.222727790134749,
+    "non_pitcher_arm_opportunities": 17,
+    "non_pitcher_arm_runs": -0.06145863371711116,
+    "non_pitcher_arm_runs_unshrunk": -0.20606718363972568,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Maya Brady",
+    "player_key": "mayabrady",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 73,
+    "arm_runs": -0.7962615424498878,
+    "arm_runs_opposing_raw": -1.3041118413039574,
+    "arm_runs_unshrunk": -1.232569236942977,
+    "attributed_runner_runs": 1.3041118413039574,
+    "non_pitcher_arm_opportunities": 73,
+    "non_pitcher_arm_runs": -0.7962615424498878,
+    "non_pitcher_arm_runs_unshrunk": -1.232569236942977,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sierra Sacco",
+    "player_key": "sierrasaccoferrie",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 36,
+    "arm_runs": -0.9538919627711814,
+    "arm_runs_opposing_raw": -2.0490532057482276,
+    "arm_runs_unshrunk": -2.0137719214058274,
+    "attributed_runner_runs": 2.0490532057482276,
+    "non_pitcher_arm_opportunities": 36,
+    "non_pitcher_arm_runs": -0.9538919627711814,
+    "non_pitcher_arm_runs_unshrunk": -2.0137719214058274,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Hannah Flippen",
+    "player_key": "hannahflippen",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 28,
+    "arm_runs": -1.3767445336366861,
+    "arm_runs_opposing_raw": -3.370963437764931,
+    "arm_runs_unshrunk": -3.343522438831952,
+    "attributed_runner_runs": 3.370963437764931,
+    "non_pitcher_arm_opportunities": 28,
+    "non_pitcher_arm_runs": -1.3767445336366861,
+    "non_pitcher_arm_runs_unshrunk": -3.343522438831952,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Ana Gold",
+    "player_key": "anagold",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 16,
+    "arm_runs": 0.2710283075743402,
+    "arm_runs_opposing_raw": 0.9329185056913454,
+    "arm_runs_unshrunk": 0.9485990765101907,
+    "attributed_runner_runs": -0.9329185056913454,
+    "non_pitcher_arm_opportunities": 16,
+    "non_pitcher_arm_runs": 0.2710283075743402,
+    "non_pitcher_arm_runs_unshrunk": 0.9485990765101907,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Tori Vidales",
+    "player_key": "torividales",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 33,
+    "arm_runs": 0.988178520141329,
+    "arm_runs_opposing_raw": 2.1536294884533147,
+    "arm_runs_unshrunk": 2.1859706657671825,
+    "attributed_runner_runs": -2.1536294884533147,
+    "non_pitcher_arm_opportunities": 33,
+    "non_pitcher_arm_runs": 0.988178520141329,
+    "non_pitcher_arm_runs_unshrunk": 2.1859706657671825,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Caroline Jacobsen",
+    "player_key": "carolinejacobsen",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 96,
+    "arm_runs": 1.4344566843980204,
+    "arm_runs_opposing_raw": 1.9380635446507912,
+    "arm_runs_unshrunk": 2.032146969563862,
+    "attributed_runner_runs": -1.9380635446507912,
+    "non_pitcher_arm_opportunities": 92,
+    "non_pitcher_arm_runs": 1.4398504223836657,
+    "non_pitcher_arm_runs_unshrunk": 2.0397880983768597,
+    "pitcher_arm_opportunities": 4,
+    "pitcher_arm_runs": -0.005393737985645405,
+    "pitcher_arm_runs_unshrunk": -0.007641128812997657,
+    "player": "Morgan Zerkle",
+    "player_key": "morganzerkle",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 33,
+    "arm_runs": 0.2116989450796702,
+    "arm_runs_opposing_raw": 0.4359625496805531,
+    "arm_runs_unshrunk": 0.46830372699442196,
+    "attributed_runner_runs": -0.4359625496805531,
+    "non_pitcher_arm_opportunities": 33,
+    "non_pitcher_arm_runs": 0.2116989450796702,
+    "non_pitcher_arm_runs_unshrunk": 0.46830372699442196,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Delanie Wisz",
+    "player_key": "delaniewisz",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 75,
+    "arm_runs": 1.1110661078758703,
+    "arm_runs_opposing_raw": 1.6301320230296625,
+    "arm_runs_unshrunk": 1.7036346987430013,
+    "attributed_runner_runs": -1.6301320230296625,
+    "non_pitcher_arm_opportunities": 75,
+    "non_pitcher_arm_runs": 1.1110661078758703,
+    "non_pitcher_arm_runs_unshrunk": 1.7036346987430013,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Bella Dayton",
+    "player_key": "belladayton",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 87,
+    "arm_runs": -0.7213082469160509,
+    "arm_runs_opposing_raw": -1.138207326337109,
+    "arm_runs_unshrunk": -1.0529442225096375,
+    "attributed_runner_runs": 1.138207326337109,
+    "non_pitcher_arm_opportunities": 87,
+    "non_pitcher_arm_runs": -0.7213082469160509,
+    "non_pitcher_arm_runs_unshrunk": -1.0529442225096375,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Bubba Nickles-Camarena",
+    "player_key": "bubbanicklescamarena",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 20,
+    "arm_runs": 0.47326399417152115,
+    "arm_runs_opposing_raw": 1.4001912689910068,
+    "arm_runs_unshrunk": 1.4197919825145635,
+    "attributed_runner_runs": -1.4001912689910068,
+    "non_pitcher_arm_opportunities": 20,
+    "non_pitcher_arm_runs": 0.47326399417152115,
+    "non_pitcher_arm_runs_unshrunk": 1.4197919825145635,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Aubrey Leach",
+    "player_key": "aubreyleach",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 18,
+    "arm_runs": 0.27335869396099377,
+    "arm_runs_opposing_raw": 0.8631818161475564,
+    "arm_runs_unshrunk": 0.8808224583187577,
+    "attributed_runner_runs": -0.8631818161475564,
+    "non_pitcher_arm_opportunities": 18,
+    "non_pitcher_arm_runs": 0.27335869396099377,
+    "non_pitcher_arm_runs_unshrunk": 0.8808224583187577,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sydney McKinney",
+    "player_key": "sydneymckinney",
+    "teams": [
+      "Bandits",
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 106,
+    "arm_runs": -0.5327862336228791,
+    "arm_runs_opposing_raw": -0.8377214242120227,
+    "arm_runs_unshrunk": -0.7338376425371731,
+    "attributed_runner_runs": 0.8377214242120227,
+    "non_pitcher_arm_opportunities": 106,
+    "non_pitcher_arm_runs": -0.5327862336228791,
+    "non_pitcher_arm_runs_unshrunk": -0.7338376425371731,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "McKenzie Clark",
+    "player_key": "mckenzieclark",
+    "teams": [
+      "Blaze",
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 89,
+    "arm_runs": -0.03829090006667995,
+    "arm_runs_opposing_raw": -0.14272346853490264,
+    "arm_runs_unshrunk": -0.055500293355075433,
+    "attributed_runner_runs": 0.14272346853490264,
+    "non_pitcher_arm_opportunities": 89,
+    "non_pitcher_arm_runs": -0.03829090006667995,
+    "non_pitcher_arm_runs_unshrunk": -0.055500293355075433,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Ciara Briggs",
+    "player_key": "ciarabriggs",
+    "teams": [
+      "Blaze",
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 1,
+    "arm_runs": 0.005602822402826447,
+    "arm_runs_opposing_raw": 0.2287356828397065,
+    "arm_runs_unshrunk": 0.22971571851588432,
+    "attributed_runner_runs": -0.2287356828397065,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 1,
+    "pitcher_arm_runs": 0.005602822402826447,
+    "pitcher_arm_runs_unshrunk": 0.22971571851588432,
+    "player": "Sam Landry",
+    "player_key": "samlandry",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 31,
+    "arm_runs": -0.786925098813246,
+    "arm_runs_opposing_raw": -1.832693429049914,
+    "arm_runs_unshrunk": -1.8023123230884024,
+    "attributed_runner_runs": 1.832693429049914,
+    "non_pitcher_arm_opportunities": 31,
+    "non_pitcher_arm_runs": -0.786925098813246,
+    "non_pitcher_arm_runs_unshrunk": -1.8023123230884024,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Jessi Warren",
+    "player_key": "jessiwarren",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 49,
+    "arm_runs": -0.5170311096205381,
+    "arm_runs_opposing_raw": -0.987119069688384,
+    "arm_runs_unshrunk": -0.9390973215556713,
+    "attributed_runner_runs": 0.987119069688384,
+    "non_pitcher_arm_opportunities": 49,
+    "non_pitcher_arm_runs": -0.5170311096205381,
+    "non_pitcher_arm_runs_unshrunk": -0.9390973215556713,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Danieca Coffey",
+    "player_key": "daniecacoffey",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 27,
+    "arm_runs": 0.18424026302642504,
+    "arm_runs_opposing_raw": 0.4307278375865493,
+    "arm_runs_unshrunk": 0.457188800843351,
+    "attributed_runner_runs": -0.4307278375865493,
+    "non_pitcher_arm_opportunities": 27,
+    "non_pitcher_arm_runs": 0.18424026302642504,
+    "non_pitcher_arm_runs_unshrunk": 0.457188800843351,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Tiare Jennings",
+    "player_key": "tiarejennings",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 115,
+    "arm_runs": -1.0645354072761994,
+    "arm_runs_opposing_raw": -1.5475126951761966,
+    "arm_runs_unshrunk": -1.434808592415747,
+    "attributed_runner_runs": 1.5475126951761966,
+    "non_pitcher_arm_opportunities": 115,
+    "non_pitcher_arm_runs": -1.0645354072761994,
+    "non_pitcher_arm_runs_unshrunk": -1.434808592415747,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Amanda Lorenz",
+    "player_key": "amandalorenz",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 36,
+    "arm_runs": -0.07028980861453359,
+    "arm_runs_opposing_raw": -0.1836708803064177,
+    "arm_runs_unshrunk": -0.14838959596401535,
+    "attributed_runner_runs": 0.1836708803064177,
+    "non_pitcher_arm_opportunities": 36,
+    "non_pitcher_arm_runs": -0.07028980861453359,
+    "non_pitcher_arm_runs_unshrunk": -0.14838959596401535,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sierra Romero",
+    "player_key": "sierraromero",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 45,
+    "arm_runs": -1.1856986365990694,
+    "arm_runs_opposing_raw": -2.283754585670687,
+    "arm_runs_unshrunk": -2.2396529802426866,
+    "attributed_runner_runs": 2.283754585670687,
+    "non_pitcher_arm_opportunities": 45,
+    "non_pitcher_arm_runs": -1.1856986365990694,
+    "non_pitcher_arm_runs_unshrunk": -2.2396529802426866,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Victoria Hayward",
+    "player_key": "victoriahayward",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 19,
+    "arm_runs": 0.0744723758417297,
+    "arm_runs_opposing_raw": 0.2884646239170878,
+    "arm_runs_unshrunk": 0.3070853017644667,
+    "attributed_runner_runs": -0.2884646239170878,
+    "non_pitcher_arm_opportunities": 19,
+    "non_pitcher_arm_runs": 0.0744723758417297,
+    "non_pitcher_arm_runs_unshrunk": 0.3070853017644667,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Ali Aguliar",
+    "player_key": "aliaguilar",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 25,
+    "arm_runs": 0.14565612360242092,
+    "arm_runs_opposing_raw": 0.3542050294618483,
+    "arm_runs_unshrunk": 0.37870592136629433,
+    "attributed_runner_runs": -0.3542050294618483,
+    "non_pitcher_arm_opportunities": 25,
+    "non_pitcher_arm_runs": 0.14565612360242092,
+    "non_pitcher_arm_runs_unshrunk": 0.37870592136629433,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Baylee Klingler",
+    "player_key": "bayleeklingler",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 26,
+    "arm_runs": -0.06310820222724331,
+    "arm_runs_opposing_raw": -0.18567867169593383,
+    "arm_runs_unshrunk": -0.16019774411530996,
+    "attributed_runner_runs": 0.18567867169593383,
+    "non_pitcher_arm_opportunities": 26,
+    "non_pitcher_arm_runs": -0.06310820222724331,
+    "non_pitcher_arm_runs_unshrunk": -0.16019774411530996,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sharlize Palacios",
+    "player_key": "sharlizepalacios",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 25,
+    "arm_runs": -0.0271484817839404,
+    "arm_runs_opposing_raw": -0.09508694454269115,
+    "arm_runs_unshrunk": -0.07058605263824504,
+    "attributed_runner_runs": 0.09508694454269115,
+    "non_pitcher_arm_opportunities": 25,
+    "non_pitcher_arm_runs": -0.0271484817839404,
+    "non_pitcher_arm_runs_unshrunk": -0.07058605263824504,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sydney Romero",
+    "player_key": "sydneyromero",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 25,
+    "arm_runs": 0.4228152351561463,
+    "arm_runs_opposing_raw": 1.0748187195015346,
+    "arm_runs_unshrunk": 1.0993196114059802,
+    "attributed_runner_runs": -1.0748187195015346,
+    "non_pitcher_arm_opportunities": 25,
+    "non_pitcher_arm_runs": 0.4228152351561463,
+    "non_pitcher_arm_runs_unshrunk": 1.0993196114059802,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Skylar Wallace",
+    "player_key": "skylarwallace",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": 0.013642880540025715,
+    "arm_runs_opposing_raw": 0.1461515432355715,
+    "arm_runs_unshrunk": 0.15007168594028286,
+    "attributed_runner_runs": -0.1461515432355715,
+    "non_pitcher_arm_opportunities": 4,
+    "non_pitcher_arm_runs": 0.013642880540025715,
+    "non_pitcher_arm_runs_unshrunk": 0.15007168594028286,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Jordan Roberts",
+    "player_key": "jordanroberts",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 19,
+    "arm_runs": 0.22410733532298785,
+    "arm_runs_opposing_raw": 0.5747920418632395,
+    "arm_runs_unshrunk": 0.5934127197106185,
+    "attributed_runner_runs": -0.5747920418632395,
+    "non_pitcher_arm_opportunities": 19,
+    "non_pitcher_arm_runs": 0.22410733532298785,
+    "non_pitcher_arm_runs_unshrunk": 0.5934127197106185,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Cori McMillian",
+    "player_key": "corimcmillan",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 5,
+    "arm_runs": 0.044997358081779244,
+    "arm_runs_opposing_raw": 0.4000760443551241,
+    "arm_runs_unshrunk": 0.40497622273601325,
+    "attributed_runner_runs": -0.4000760443551241,
+    "non_pitcher_arm_opportunities": 5,
+    "non_pitcher_arm_runs": 0.044997358081779244,
+    "non_pitcher_arm_runs_unshrunk": 0.40497622273601325,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Ali Newland",
+    "player_key": "alinewland",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 12,
+    "arm_runs": 0.1161172134186182,
+    "arm_runs_opposing_raw": 0.4914141633665447,
+    "arm_runs_unshrunk": 0.5031745914806789,
+    "attributed_runner_runs": -0.4914141633665447,
+    "non_pitcher_arm_opportunities": 12,
+    "non_pitcher_arm_runs": 0.1161172134186182,
+    "non_pitcher_arm_runs_unshrunk": 0.5031745914806789,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sis Bates",
+    "player_key": "sisbates",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 21,
+    "arm_runs": 0.6031347557550313,
+    "arm_runs_opposing_raw": 1.7313821127553564,
+    "arm_runs_unshrunk": 1.7519628619550909,
+    "attributed_runner_runs": -1.7313821127553564,
+    "non_pitcher_arm_opportunities": 21,
+    "non_pitcher_arm_runs": 0.6031347557550313,
+    "non_pitcher_arm_runs_unshrunk": 1.7519628619550909,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Danielle Gibson Whorton",
+    "player_key": "daniellegibsonwhorton",
+    "teams": [
+      "Bandits",
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 16,
+    "arm_runs": -0.731273208223946,
+    "arm_runs_opposing_raw": -2.575136799602656,
+    "arm_runs_unshrunk": -2.5594562287838114,
+    "attributed_runner_runs": 2.575136799602656,
+    "non_pitcher_arm_opportunities": 16,
+    "non_pitcher_arm_runs": -0.731273208223946,
+    "non_pitcher_arm_runs_unshrunk": -2.5594562287838114,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Kayla Kowalik",
+    "player_key": "kaylakowalik",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 19,
+    "arm_runs": 0.6148023053862636,
+    "arm_runs_opposing_raw": 1.8905022704573349,
+    "arm_runs_unshrunk": 1.9091229483047134,
+    "attributed_runner_runs": -1.8905022704573349,
+    "non_pitcher_arm_opportunities": 19,
+    "non_pitcher_arm_runs": 0.6148023053862636,
+    "non_pitcher_arm_runs_unshrunk": 1.9091229483047134,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Kalei Harding",
+    "player_key": "kaleiharding",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 8,
+    "arm_runs": -0.12186280971630138,
+    "arm_runs_opposing_raw": -0.7390171437072311,
+    "arm_runs_unshrunk": -0.7311768582978083,
+    "attributed_runner_runs": 0.7390171437072311,
+    "non_pitcher_arm_opportunities": 5,
+    "non_pitcher_arm_runs": 0.026945475659047178,
+    "non_pitcher_arm_runs_unshrunk": 0.16167285395428307,
+    "pitcher_arm_opportunities": 3,
+    "pitcher_arm_runs": -0.14880828537534857,
+    "pitcher_arm_runs_unshrunk": -0.8928497122520914,
+    "player": "Sam Show",
+    "player_key": "samshow",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 6,
+    "arm_runs": -0.00409005102381723,
+    "arm_runs_opposing_raw": -0.037237271906332414,
+    "arm_runs_unshrunk": -0.03135705784926543,
+    "attributed_runner_runs": 0.037237271906332414,
+    "non_pitcher_arm_opportunities": 6,
+    "non_pitcher_arm_runs": -0.00409005102381723,
+    "non_pitcher_arm_runs_unshrunk": -0.03135705784926543,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Michaela Edenfield",
+    "player_key": "michaelaedenfield",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 23,
+    "arm_runs": -0.9927091620967945,
+    "arm_runs_opposing_raw": -2.7417006993389625,
+    "arm_runs_unshrunk": -2.719159878786872,
+    "attributed_runner_runs": 2.7417006993389625,
+    "non_pitcher_arm_opportunities": 23,
+    "non_pitcher_arm_runs": -0.9927091620967945,
+    "non_pitcher_arm_runs_unshrunk": -2.719159878786872,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Erin Coffel",
+    "player_key": "erincoffel",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 17,
+    "arm_runs": -0.379664771440775,
+    "arm_runs_opposing_raw": -1.289654251914092,
+    "arm_runs_unshrunk": -1.2729936454190691,
+    "attributed_runner_runs": 1.289654251914092,
+    "non_pitcher_arm_opportunities": 17,
+    "non_pitcher_arm_runs": -0.379664771440775,
+    "non_pitcher_arm_runs_unshrunk": -1.2729936454190691,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Erika Piancastelli",
+    "player_key": "erikapiancastelli",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 5,
+    "arm_runs": 0.057314774001119784,
+    "arm_runs_opposing_raw": 0.5109327876291889,
+    "arm_runs_unshrunk": 0.5158329660100781,
+    "attributed_runner_runs": -0.5109327876291889,
+    "non_pitcher_arm_opportunities": 5,
+    "non_pitcher_arm_runs": 0.057314774001119784,
+    "non_pitcher_arm_runs_unshrunk": 0.5158329660100781,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Bri Ellis",
+    "player_key": "briellis",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 68,
+    "arm_runs": 0.16233446023671155,
+    "arm_runs_opposing_raw": 0.19118289321939036,
+    "arm_runs_unshrunk": 0.25782531919948304,
+    "attributed_runner_runs": -0.19118289321939036,
+    "non_pitcher_arm_opportunities": 68,
+    "non_pitcher_arm_runs": 0.16233446023671155,
+    "non_pitcher_arm_runs_unshrunk": 0.25782531919948304,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Jadelyn Allchin",
+    "player_key": "jadelynallchin",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 3,
+    "arm_runs": 0.0025432836193602024,
+    "arm_runs_opposing_raw": 0.033513624848962725,
+    "arm_runs_unshrunk": 0.03645373187749623,
+    "attributed_runner_runs": -0.033513624848962725,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 3,
+    "pitcher_arm_runs": 0.0025432836193602024,
+    "pitcher_arm_runs_unshrunk": 0.03645373187749623,
+    "player": "Aleshia Ocasio",
+    "player_key": "aleshiaocasio",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 5,
+    "arm_runs": 0.08229760425595516,
+    "arm_runs_opposing_raw": 0.7357782599227072,
+    "arm_runs_unshrunk": 0.7406784383035965,
+    "attributed_runner_runs": -0.7357782599227072,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 5,
+    "pitcher_arm_runs": 0.08229760425595516,
+    "pitcher_arm_runs_unshrunk": 0.7406784383035965,
+    "player": "Odicci Alexander",
+    "player_key": "odiccialexanderbennett",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 2,
+    "arm_runs": 0.012827270289447272,
+    "arm_runs_opposing_raw": 0.26741260472603706,
+    "arm_runs_unshrunk": 0.2693726760783927,
+    "attributed_runner_runs": -0.26741260472603706,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 2,
+    "pitcher_arm_runs": 0.012827270289447272,
+    "pitcher_arm_runs_unshrunk": 0.2693726760783927,
+    "player": "Montana Fouts",
+    "player_key": "montanafouts",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": 0.0301751497193786,
+    "arm_runs_opposing_raw": 0.32800650420845323,
+    "arm_runs_unshrunk": 0.3319266469131646,
+    "attributed_runner_runs": -0.32800650420845323,
+    "non_pitcher_arm_opportunities": 3,
+    "non_pitcher_arm_runs": 0.03006295501412892,
+    "non_pitcher_arm_runs_unshrunk": 0.3306925051554181,
+    "pitcher_arm_opportunities": 1,
+    "pitcher_arm_runs": 0.00011219470524968067,
+    "pitcher_arm_runs_unshrunk": 0.0012341417577464873,
+    "player": "Mary Iakopo",
+    "player_key": "maryiakopo",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 8,
+    "arm_runs": 0.02139064465018359,
+    "arm_runs_opposing_raw": 0.12050358249167892,
+    "arm_runs_unshrunk": 0.12834386790110155,
+    "attributed_runner_runs": -0.12050358249167892,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 8,
+    "pitcher_arm_runs": 0.02139064465018359,
+    "pitcher_arm_runs_unshrunk": 0.12834386790110155,
+    "player": "Alana Vawter",
+    "player_key": "alanavawter",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 5,
+    "arm_runs": -0.19990036474580153,
+    "arm_runs_opposing_raw": -1.804003461093103,
+    "arm_runs_unshrunk": -1.7991032827122138,
+    "attributed_runner_runs": 1.804003461093103,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 5,
+    "pitcher_arm_runs": -0.19990036474580153,
+    "pitcher_arm_runs_unshrunk": -1.7991032827122138,
+    "player": "Raelin Chaffin",
+    "player_key": "raelinchaffin",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 8,
+    "arm_runs": -0.026883457821551708,
+    "arm_runs_opposing_raw": -0.030966375900721987,
+    "arm_runs_unshrunk": -0.023126090491299323,
+    "attributed_runner_runs": 0.030966375900721987,
+    "non_pitcher_arm_opportunities": 8,
+    "non_pitcher_arm_runs": -0.026883457821551708,
+    "non_pitcher_arm_runs_unshrunk": -0.023126090491299323,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Deja Mulipola",
+    "player_key": "dejahmulipola",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 3,
+    "arm_runs": -0.09210990357352818,
+    "arm_runs_opposing_raw": -1.323182058249104,
+    "arm_runs_unshrunk": -1.3202419512205705,
+    "attributed_runner_runs": 1.323182058249104,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 3,
+    "pitcher_arm_runs": -0.09210990357352818,
+    "pitcher_arm_runs_unshrunk": -1.3202419512205705,
+    "player": "Payton Gotshall",
+    "player_key": "paytongottshall",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": 0.01217374833204314,
+    "arm_runs_opposing_raw": 0.12999108894776323,
+    "arm_runs_unshrunk": 0.13391123165247454,
+    "attributed_runner_runs": -0.12999108894776323,
+    "non_pitcher_arm_opportunities": 4,
+    "non_pitcher_arm_runs": 0.01217374833204314,
+    "non_pitcher_arm_runs_unshrunk": 0.13391123165247454,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Mia Scott",
+    "player_key": "miascott",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": 0.030009479438539752,
+    "arm_runs_opposing_raw": 0.32618413111922595,
+    "arm_runs_unshrunk": 0.33010427382393726,
+    "attributed_runner_runs": -0.32618413111922595,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 4,
+    "pitcher_arm_runs": 0.030009479438539752,
+    "pitcher_arm_runs_unshrunk": 0.33010427382393726,
+    "player": "Rachel Garcia",
+    "player_key": "rachelgarcia",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 5,
+    "arm_runs": 0.017386100782629744,
+    "arm_runs_opposing_raw": 0.1515747286627785,
+    "arm_runs_unshrunk": 0.1564749070436677,
+    "attributed_runner_runs": -0.1515747286627785,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 5,
+    "pitcher_arm_runs": 0.017386100782629744,
+    "pitcher_arm_runs_unshrunk": 0.1564749070436677,
+    "player": "Georgina Corrick",
+    "player_key": "georginacorrick",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 2,
+    "arm_runs": -0.01159571389093424,
+    "arm_runs_opposing_raw": -0.24547006306197475,
+    "arm_runs_unshrunk": -0.24350999170961907,
+    "attributed_runner_runs": 0.24547006306197475,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 2,
+    "pitcher_arm_runs": -0.01159571389093424,
+    "pitcher_arm_runs_unshrunk": -0.24350999170961907,
+    "player": "Mariah Mazón",
+    "player_key": "mariahmazon",
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": -0.01750222787944163,
+    "arm_runs_opposing_raw": -0.19644464937856923,
+    "arm_runs_unshrunk": -0.1925245066738579,
+    "attributed_runner_runs": 0.19644464937856923,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 4,
+    "pitcher_arm_runs": -0.01750222787944163,
+    "pitcher_arm_runs_unshrunk": -0.1925245066738579,
+    "player": "Lexi Kilfoyl",
+    "player_key": "lexikilfoyl",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 2,
+    "arm_runs": -0.008558699749002256,
+    "arm_runs_opposing_raw": -0.18169276608140303,
+    "arm_runs_unshrunk": -0.17973269472904738,
+    "attributed_runner_runs": 0.18169276608140303,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 2,
+    "pitcher_arm_runs": -0.008558699749002256,
+    "pitcher_arm_runs_unshrunk": -0.17973269472904738,
+    "player": "Taylor McQuillin",
+    "player_key": "taylormcquillin",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 3,
+    "arm_runs": 0.012022018739099727,
+    "arm_runs_opposing_raw": 0.16937549489856255,
+    "arm_runs_unshrunk": 0.17231560192709608,
+    "attributed_runner_runs": -0.16937549489856255,
+    "non_pitcher_arm_opportunities": 3,
+    "non_pitcher_arm_runs": 0.012022018739099727,
+    "non_pitcher_arm_runs_unshrunk": 0.17231560192709608,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Taylor Edwards",
+    "player_key": "tayloredwards",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 3,
+    "arm_runs": 0.0053345096879103765,
+    "arm_runs_opposing_raw": 0.07352119849818192,
+    "arm_runs_unshrunk": 0.0764613055267154,
+    "attributed_runner_runs": -0.07352119849818192,
+    "non_pitcher_arm_opportunities": 3,
+    "non_pitcher_arm_runs": 0.0053345096879103765,
+    "non_pitcher_arm_runs_unshrunk": 0.0764613055267154,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sahvanna Jaquish",
+    "player_key": "sahvannajaquish",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": -0.007817169945343545,
+    "arm_runs_opposing_raw": -0.08990901210349034,
+    "arm_runs_unshrunk": -0.08598886939877899,
+    "attributed_runner_runs": 0.08990901210349034,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 4,
+    "pitcher_arm_runs": -0.007817169945343545,
+    "pitcher_arm_runs_unshrunk": -0.08598886939877899,
+    "player": "Megan Faraimo",
+    "player_key": "meganfaraimo",
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "arm_opportunities": 5,
+    "arm_runs": -0.07698170828392434,
+    "arm_runs_opposing_raw": -0.6977355529362081,
+    "arm_runs_unshrunk": -0.6928353745553191,
+    "attributed_runner_runs": 0.6977355529362081,
+    "non_pitcher_arm_opportunities": 0,
+    "non_pitcher_arm_runs": 0.0,
+    "non_pitcher_arm_runs_unshrunk": 0.0,
+    "pitcher_arm_opportunities": 5,
+    "pitcher_arm_runs": -0.07698170828392434,
+    "pitcher_arm_runs_unshrunk": -0.6928353745553191,
+    "player": "Emiley Kennedy",
+    "player_key": "emileykennedy",
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "arm_opportunities": 4,
+    "arm_runs": -0.018068158117567193,
+    "arm_runs_opposing_raw": -0.2026698819979504,
+    "arm_runs_unshrunk": -0.1987497392932391,
+    "attributed_runner_runs": 0.2026698819979504,
+    "non_pitcher_arm_opportunities": 4,
+    "non_pitcher_arm_runs": -0.018068158117567193,
+    "non_pitcher_arm_runs_unshrunk": -0.1987497392932391,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Aliyah Binford",
+    "player_key": "aliyahbinford",
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "arm_opportunities": 1,
+    "arm_runs": 3.0101018481621644e-05,
+    "arm_runs_opposing_raw": 0.0002541060815686507,
+    "arm_runs_unshrunk": 0.0012341417577464873,
+    "attributed_runner_runs": -0.0002541060815686507,
+    "non_pitcher_arm_opportunities": 1,
+    "non_pitcher_arm_runs": 3.0101018481621644e-05,
+    "non_pitcher_arm_runs_unshrunk": 0.0012341417577464873,
+    "pitcher_arm_opportunities": 0,
+    "pitcher_arm_runs": 0.0,
+    "pitcher_arm_runs_unshrunk": 0.0,
+    "player": "Sarah Willis",
+    "player_key": "sarahwillis",
+    "teams": [
+      "Bandits"
+    ]
+  }
+]

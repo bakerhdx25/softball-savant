@@ -1,0 +1,2600 @@
+[
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-03c853891d304eb7",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emma Lemley",
+      "Aliyah Binford",
+      "Devyn Netz"
+    ],
+    "target_outs": [
+      9,
+      3,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-03c853891d304eb7",
+    "changed_plate_appearances": 7,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo",
+      "Mariah Lopez",
+      "Raelin Chaffin",
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      4,
+      1,
+      11,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-0c0fbffe84135ce2",
+    "changed_plate_appearances": 7,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sarah Willis",
+      "Emiley Kennedy",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      0,
+      14,
+      7
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-0c0fbffe84135ce2",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aleshia Ocasio"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-0c5f4aa5f4e29034",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emma Lemley",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      15,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-0c5f4aa5f4e29034",
+    "changed_plate_appearances": 6,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry",
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      13,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-11017d17ccf3a918",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emma Lemley",
+      "Brooke McCubbin",
+      "Hope Trautwein-Valdespino",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      3,
+      8,
+      7,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 13,
+    "canonical_id": "ausl-2025-11017d17ccf3a918",
+    "changed_plate_appearances": 16,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 8,
+    "pitchers": [
+      "Megan Faraimo",
+      "Lauren Derkowski",
+      "Mariah Lopez",
+      "Raelin Chaffin",
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      10,
+      3,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-1560424f1dabc9bb",
+    "changed_plate_appearances": 8,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Devyn Netz",
+      "Odicci Alexander",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      6,
+      12,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-1560424f1dabc9bb",
+    "changed_plate_appearances": 3,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lauren Derkowski",
+      "Raelin Chaffin",
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      9,
+      9,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-17b229c1b5b405cf",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Keilani Ricketts",
+      "Hope Trautwein-Valdespino",
+      "Brooke McCubbin"
+    ],
+    "target_outs": [
+      11,
+      9,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-17b229c1b5b405cf",
+    "changed_plate_appearances": 3,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Mazón",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      9,
+      12
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-29e173a5d3875b10",
+    "changed_plate_appearances": 10,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sarah Willis",
+      "Emiley Kennedy",
+      "Taylor McQuillin",
+      "Lexi Kilfoyl"
+    ],
+    "target_outs": [
+      6,
+      4,
+      8,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-29e173a5d3875b10",
+    "changed_plate_appearances": 17,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Mazón",
+      "Sam Show",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      3,
+      7,
+      11
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-2d89e837d661d280",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Raelin Chaffin",
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      9,
+      12
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-2d89e837d661d280",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Mazón",
+      "Sam Show",
+      "Sam Landry"
+    ],
+    "target_outs": [
+      7,
+      4,
+      7
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-31be0813d7d85a82",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Odicci Alexander"
+    ],
+    "target_outs": [
+      15,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-31be0813d7d85a82",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo",
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      18,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-39aed3a0a15dcb51",
+    "changed_plate_appearances": 6,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emma Lemley",
+      "Aleshia Ocasio",
+      "Alana Vawter"
+    ],
+    "target_outs": [
+      9,
+      6,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-39aed3a0a15dcb51",
+    "changed_plate_appearances": 3,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-3b8fb90d2fbdf314",
+    "changed_plate_appearances": 8,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sarah Willis",
+      "Odicci Alexander",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      4,
+      6,
+      11
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-3b8fb90d2fbdf314",
+    "changed_plate_appearances": 7,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aliyah Binford",
+      "Aleshia Ocasio",
+      "Emma Lemley",
+      "Alana Vawter"
+    ],
+    "target_outs": [
+      5,
+      4,
+      9,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-3c027045ee1f0b27",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo",
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      19,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-3c027045ee1f0b27",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry",
+      "Mariah Mazón"
+    ],
+    "target_outs": [
+      23,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-3e0f6d9570698503",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-3e0f6d9570698503",
+    "changed_plate_appearances": 6,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts",
+      "Mariah Lopez"
+    ],
+    "target_outs": [
+      12,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-40b2b02c0febd1f0",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Odicci Alexander"
+    ],
+    "target_outs": [
+      18,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 2,
+    "canonical_id": "ausl-2025-40b2b02c0febd1f0",
+    "changed_plate_appearances": 10,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 3,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Alana Vawter",
+      "Aliyah Binford",
+      "Emma Lemley"
+    ],
+    "target_outs": [
+      3,
+      10,
+      6,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-41e8a589154ad199",
+    "changed_plate_appearances": 7,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Odicci Alexander",
+      "Sarah Willis",
+      "Emiley Kennedy"
+    ],
+    "target_outs": [
+      6,
+      1,
+      8,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-41e8a589154ad199",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts",
+      "Raelin Chaffin"
+    ],
+    "target_outs": [
+      9,
+      12
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-487b21d788da8a4f",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emiley Kennedy",
+      "Devyn Netz"
+    ],
+    "target_outs": [
+      10,
+      8
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-487b21d788da8a4f",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-4d8268ae9282de9e",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Odicci Alexander"
+    ],
+    "target_outs": [
+      12,
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-4d8268ae9282de9e",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry",
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      11,
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-50a59ac70736572d",
+    "changed_plate_appearances": 5,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aliyah Binford",
+      "Devyn Netz",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      9,
+      5,
+      7
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-50a59ac70736572d",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-5731f8f564a5deb5",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Alana Vawter",
+      "Keilani Ricketts",
+      "Emma Lemley"
+    ],
+    "target_outs": [
+      6,
+      9,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-5731f8f564a5deb5",
+    "changed_plate_appearances": 3,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Mazón",
+      "Sam Show",
+      "Payton Gotshall",
+      "Sam Landry"
+    ],
+    "target_outs": [
+      6,
+      6,
+      6,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-5d0a04645769dc45",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Keilani Ricketts",
+      "Emma Lemley"
+    ],
+    "target_outs": [
+      11,
+      10
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-5d0a04645769dc45",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts",
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      18,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-5ef5cb37be8c4c36",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Alana Vawter",
+      "Emma Lemley"
+    ],
+    "target_outs": [
+      10,
+      2
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-5ef5cb37be8c4c36",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-77a89e65051de7cd",
+    "changed_plate_appearances": 5,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Emma Lemley",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      10,
+      9,
+      2
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-77a89e65051de7cd",
+    "changed_plate_appearances": 5,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Raelin Chaffin",
+      "Megan Faraimo",
+      "Mariah Lopez"
+    ],
+    "target_outs": [
+      11,
+      7,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-7ac9f8836b521485",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Odicci Alexander",
+      "Emiley Kennedy",
+      "Lexi Kilfoyl"
+    ],
+    "target_outs": [
+      7,
+      5,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-7ac9f8836b521485",
+    "changed_plate_appearances": 10,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Payton Gotshall",
+      "Sam Show"
+    ],
+    "target_outs": [
+      10,
+      6,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-7f64752e73f89966",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Raelin Chaffin",
+      "Mariah Lopez",
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      15,
+      5,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-7f64752e73f89966",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Payton Gotshall",
+      "Rachel Garcia",
+      "Sam Show",
+      "Mariah Mazón"
+    ],
+    "target_outs": [
+      7,
+      10,
+      2,
+      2
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-8f9abf551ebf50a0",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Devyn Netz",
+      "Lexi Kilfoyl",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      4,
+      11,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-8f9abf551ebf50a0",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Hope Trautwein-Valdespino",
+      "Alana Vawter"
+    ],
+    "target_outs": [
+      3,
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-9214d61e910e42df",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Alana Vawter",
+      "Emma Lemley"
+    ],
+    "target_outs": [
+      13,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-9214d61e910e42df",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-97624070dd6bf1fe",
+    "changed_plate_appearances": 16,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Emma Lemley",
+      "Brooke McCubbin"
+    ],
+    "target_outs": [
+      17,
+      4,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-97624070dd6bf1fe",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      24
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-9dd3560aa9c4150d",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Odicci Alexander",
+      "Emiley Kennedy",
+      "Lexi Kilfoyl"
+    ],
+    "target_outs": [
+      6,
+      6,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-9dd3560aa9c4150d",
+    "changed_plate_appearances": 6,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Lopez",
+      "Montana Fouts",
+      "Lauren Derkowski",
+      "Raelin Chaffin"
+    ],
+    "target_outs": [
+      3,
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-a90cda2a506a8254",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sarah Willis",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-a90cda2a506a8254",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      0,
+      18
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-a94876c9855e5c1b",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-a94876c9855e5c1b",
+    "changed_plate_appearances": 3,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      13,
+      8
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-c9da8860118ff2a2",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Odicci Alexander",
+      "Sarah Willis"
+    ],
+    "target_outs": [
+      12,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 3,
+    "canonical_id": "ausl-2025-c9da8860118ff2a2",
+    "changed_plate_appearances": 13,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 4,
+    "pitchers": [
+      "Megan Faraimo",
+      "Raelin Chaffin",
+      "Mariah Lopez",
+      "Elena Escobar"
+    ],
+    "target_outs": [
+      6,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-d6ce7f42a0f63c17",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Raelin Chaffin",
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-d6ce7f42a0f63c17",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Show",
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      6,
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-d712820ab5686f4e",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-d712820ab5686f4e",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      12,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-e010dee43a565f86",
+    "changed_plate_appearances": 2,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Alana Vawter",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      12,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-e010dee43a565f86",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Georgina Corrick",
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-e23d1ecc674f7a54",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emiley Kennedy",
+      "Devyn Netz"
+    ],
+    "target_outs": [
+      11,
+      10
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-e23d1ecc674f7a54",
+    "changed_plate_appearances": 4,
+    "fielding_team": "AUSL Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Mazón",
+      "Payton Gotshall"
+    ],
+    "target_outs": [
+      4,
+      14
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-e78cb576505a9770",
+    "changed_plate_appearances": 1,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor McQuillin",
+      "Lexi Kilfoyl"
+    ],
+    "target_outs": [
+      9,
+      14
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-e78cb576505a9770",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Georgina Corrick",
+      "Raelin Chaffin"
+    ],
+    "target_outs": [
+      15,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-f5aa3c6a2f1972fe",
+    "changed_plate_appearances": 3,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Odicci Alexander",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      9,
+      9,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-f5aa3c6a2f1972fe",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emma Lemley"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-f92fdc3f3b625344",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor McQuillin",
+      "Sarah Willis"
+    ],
+    "target_outs": [
+      9,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2025-f92fdc3f3b625344",
+    "changed_plate_appearances": 0,
+    "fielding_team": "AUSL Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Alana Vawter",
+      "Brooke Yanez",
+      "Hope Trautwein-Valdespino"
+    ],
+    "target_outs": [
+      8,
+      2,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-00d72870d15ca8fa",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Karlyn Pickens"
+    ],
+    "target_outs": [
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 2,
+    "canonical_id": "ausl-2026-00d72870d15ca8fa",
+    "changed_plate_appearances": 5,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 2,
+    "pitchers": [
+      "Sam Landry",
+      "Payton Gottshall",
+      "Mariah Mazon"
+    ],
+    "target_outs": [
+      8,
+      3,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-07f968f1ddba7f9e",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kat Sandercock",
+      "Amber Fiser",
+      "Taylor McQuillin",
+      "Lexi Kilfoyl"
+    ],
+    "target_outs": [
+      12,
+      3,
+      0,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-07f968f1ddba7f9e",
+    "changed_plate_appearances": 6,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson",
+      "Jailyn Ford",
+      "Alana Vawter",
+      "Maddie Penta"
+    ],
+    "target_outs": [
+      3,
+      10,
+      5,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-0ab2caaab52a1239",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "NiJaree Canady",
+      "Aliyah Binford",
+      "Sydney Berzon"
+    ],
+    "target_outs": [
+      15,
+      3,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-0ab2caaab52a1239",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1279d891a356ac3f",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson"
+    ],
+    "target_outs": [
+      18
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1279d891a356ac3f",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Aliyah Binford",
+      "Jessica Mullins"
+    ],
+    "target_outs": [
+      5,
+      8,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1c3b23d2b40ccb11",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Karlyn Pickens"
+    ],
+    "target_outs": [
+      18
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1c3b23d2b40ccb11",
+    "changed_plate_appearances": 3,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Jessica Mullins",
+      "NiJaree Canady"
+    ],
+    "target_outs": [
+      10,
+      7
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1d90d44046b872f3",
+    "changed_plate_appearances": 3,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Jala Wright",
+      "Devyn Netz",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      4,
+      8,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1d90d44046b872f3",
+    "changed_plate_appearances": 3,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Amber Fiser",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      16,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1f0d2a98bd8af5d0",
+    "changed_plate_appearances": 4,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Ruby Meylan",
+      "Cassidy Curd",
+      "Peja Goold"
+    ],
+    "target_outs": [
+      9,
+      7,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-1f0d2a98bd8af5d0",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Alyssa Denham",
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      18,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-2afa123c443e6ef1",
+    "changed_plate_appearances": 5,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Amber Fiser",
+      "Kat Sandercock"
+    ],
+    "target_outs": [
+      9,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-2afa123c443e6ef1",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Ally Carda",
+      "Aliyah Binford"
+    ],
+    "target_outs": [
+      9,
+      12
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-40e57742130c93ca",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl",
+      "Emiley Kennedy"
+    ],
+    "target_outs": [
+      12,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-40e57742130c93ca",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry",
+      "Payton Gottshall"
+    ],
+    "target_outs": [
+      4,
+      8
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-411d48ad1f32e729",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Bri Copeland",
+      "Mariah Lopez"
+    ],
+    "target_outs": [
+      4,
+      11
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-411d48ad1f32e729",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson",
+      "Ruby Meylan"
+    ],
+    "target_outs": [
+      12,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-43af7256fec38fef",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Aliyah Binford"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-43af7256fec38fef",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-49c63461dad3d039",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor McQuillin",
+      "Bri Copeland",
+      "Emiley Kennedy"
+    ],
+    "target_outs": [
+      12,
+      3,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-49c63461dad3d039",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "NiJaree Canady",
+      "Aliyah Binford"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-4d78434658678802",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Amber Fiser"
+    ],
+    "target_outs": [
+      18
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-4d78434658678802",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Peja Goold",
+      "Cassidy Curd",
+      "Lyndsey Grein"
+    ],
+    "target_outs": [
+      4,
+      7,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-4fb9c31739b3dc79",
+    "changed_plate_appearances": 3,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Amber Fiser",
+      "Odicci Alexander-Bennett"
+    ],
+    "target_outs": [
+      12,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-4fb9c31739b3dc79",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-564d56163b693743",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lyndsey Grein",
+      "Maya Johnson",
+      "Cassidy Curd",
+      "Peja Goold"
+    ],
+    "target_outs": [
+      6,
+      7,
+      5,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-564d56163b693743",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aliyah Binford",
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      10,
+      10
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-5e1d130211e5aabd",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Emma Lemley",
+      "Jala Wright"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-5e1d130211e5aabd",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-5e63fe1d99d3db0c",
+    "changed_plate_appearances": 8,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Keilani Ricketts",
+      "Emma Lemley",
+      "Karlyn Pickens"
+    ],
+    "target_outs": [
+      8,
+      7,
+      3,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-5e63fe1d99d3db0c",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Aliyah Binford",
+      "Jessica Mullins"
+    ],
+    "target_outs": [
+      18,
+      1,
+      5
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-620672750a40e4c9",
+    "changed_plate_appearances": 3,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Mariah Lopez",
+      "Amber Fiser",
+      "Odicci Alexander-Bennett",
+      "Bri Copeland"
+    ],
+    "target_outs": [
+      6,
+      9,
+      6,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-620672750a40e4c9",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo",
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      15,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-62b06a142846270a",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-62b06a142846270a",
+    "changed_plate_appearances": 7,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kelly Maxwell",
+      "Mariah Mazon",
+      "Payton Gottshall"
+    ],
+    "target_outs": [
+      11,
+      4,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-63f7bfc816fcc6ec",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-63f7bfc816fcc6ec",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Jessica Mullins"
+    ],
+    "target_outs": [
+      20,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-6578cc114b9c1adf",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Keilani Ricketts",
+      "Karlyn Pickens"
+    ],
+    "target_outs": [
+      12,
+      3,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-6578cc114b9c1adf",
+    "changed_plate_appearances": 3,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo",
+      "Dallas Escobedo Magee"
+    ],
+    "target_outs": [
+      4,
+      14
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-688ade051c6a8cc7",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kenzie Brown",
+      "Payton Gottshall"
+    ],
+    "target_outs": [
+      7,
+      14
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-688ade051c6a8cc7",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "NiJaree Canady",
+      "Aliyah Binford",
+      "Jessica Mullins"
+    ],
+    "target_outs": [
+      10,
+      7,
+      4
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-7a2532058c5a7568",
+    "changed_plate_appearances": 9,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Keilani Ricketts",
+      "Emma Lemley",
+      "Aleshia Ocasio"
+    ],
+    "target_outs": [
+      3,
+      9,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-7a2532058c5a7568",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Amber Fiser"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-80fda7ca05b7c2e8",
+    "changed_plate_appearances": 10,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Jessica Mullins",
+      "Sydney Berzon",
+      "Rachel Garcia"
+    ],
+    "target_outs": [
+      9,
+      3,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-80fda7ca05b7c2e8",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor Tinsley"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-9dc65ffe33b04861",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson",
+      "Maddie Penta",
+      "Jailyn Ford"
+    ],
+    "target_outs": [
+      7,
+      5,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-9dc65ffe33b04861",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo",
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      15,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-a0a1f3e31a5b107e",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kelly Maxwell",
+      "Sam Landry"
+    ],
+    "target_outs": [
+      19,
+      2
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-a0a1f3e31a5b107e",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 14,
+    "canonical_id": "ausl-2026-a14aa0af904e9067",
+    "changed_plate_appearances": 14,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 5,
+    "pitchers": [
+      "Ruby Meylan",
+      "Peja Goold",
+      "Lyndsey Grein",
+      "Alana Vawter"
+    ],
+    "target_outs": [
+      7,
+      1,
+      6,
+      4
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-a14aa0af904e9067",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-a24cb00a6bb34b2e",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kat Sandercock"
+    ],
+    "target_outs": [
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-a24cb00a6bb34b2e",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kenzie Brown",
+      "Carley Hoover",
+      "Kelly Maxwell"
+    ],
+    "target_outs": [
+      5,
+      7,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ac943b3c9f410a72",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Karlyn Pickens"
+    ],
+    "target_outs": [
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ac943b3c9f410a72",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor McQuillin",
+      "Amber Fiser",
+      "Mariah Lopez"
+    ],
+    "target_outs": [
+      7,
+      2,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-bbf7ed91bb6f0009",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kenzie Brown"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-bbf7ed91bb6f0009",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-c350c2a4bba176ef",
+    "changed_plate_appearances": 12,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Karlyn Pickens",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      9,
+      12
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-c350c2a4bba176ef",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson",
+      "Lyndsey Grein",
+      "Jailyn Ford"
+    ],
+    "target_outs": [
+      14,
+      4,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-c3cfee37ee995d4a",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Lexi Kilfoyl"
+    ],
+    "target_outs": [
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-c3cfee37ee995d4a",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Jailyn Ford",
+      "Maddie Penta",
+      "Alana Vawter",
+      "Peja Goold"
+    ],
+    "target_outs": [
+      11,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ca1589268361bd28",
+    "changed_plate_appearances": 5,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor McQuillin",
+      "Bri Copeland"
+    ],
+    "target_outs": [
+      8,
+      10
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ca1589268361bd28",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sarah Willis",
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      15,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d099954173c2e103",
+    "changed_plate_appearances": 5,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Rachel Garcia",
+      "Aliyah Binford",
+      "Ally Carda"
+    ],
+    "target_outs": [
+      9,
+      5,
+      4
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d099954173c2e103",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Montana Fouts",
+      "Megan Faraimo"
+    ],
+    "target_outs": [
+      18,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d5738e68857ab5e7",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson",
+      "Ruby Meylan"
+    ],
+    "target_outs": [
+      14,
+      4
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d5738e68857ab5e7",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d8caf7d2326f0426",
+    "changed_plate_appearances": 9,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "NiJaree Canady",
+      "Aliyah Binford",
+      "Ally Carda"
+    ],
+    "target_outs": [
+      8,
+      3,
+      7
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d8caf7d2326f0426",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d94dca75a1b579a5",
+    "changed_plate_appearances": 5,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Karlyn Pickens",
+      "Keilani Ricketts"
+    ],
+    "target_outs": [
+      22,
+      2
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-d94dca75a1b579a5",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      24
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-da3f0d324b2114b2",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kelly Maxwell",
+      "Carley Hoover"
+    ],
+    "target_outs": [
+      6,
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-da3f0d324b2114b2",
+    "changed_plate_appearances": 7,
+    "fielding_team": "Texas Volts",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Ally Carda",
+      "Jessica Mullins",
+      "Aliyah Binford"
+    ],
+    "target_outs": [
+      10,
+      3,
+      8
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-df00aee444a8828c",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Keilani Ricketts",
+      "Karlyn Pickens"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-df00aee444a8828c",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Taylor Tinsley",
+      "Georgina Corrick"
+    ],
+    "target_outs": [
+      0,
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-e42f4f113f566877",
+    "changed_plate_appearances": 16,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Cassidy Curd",
+      "Lyndsey Grein",
+      "Peja Goold"
+    ],
+    "target_outs": [
+      7,
+      8,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-e42f4f113f566877",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kelly Maxwell",
+      "Payton Gottshall"
+    ],
+    "target_outs": [
+      7,
+      14
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ea33a654a1bc5c26",
+    "changed_plate_appearances": 1,
+    "fielding_team": "Chicago Bandits",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Odicci Alexander-Bennett",
+      "Taylor McQuillin"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ea33a654a1bc5c26",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Ruby Meylan",
+      "Maya Johnson"
+    ],
+    "target_outs": [
+      4,
+      15
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ec795573890de580",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sam Landry"
+    ],
+    "target_outs": [
+      21
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-ec795573890de580",
+    "changed_plate_appearances": 2,
+    "fielding_team": "Utah Talons",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Sarah Willis",
+      "Dallas Escobedo Magee"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 1,
+    "canonical_id": "ausl-2026-f7f9b54250efa7fa",
+    "changed_plate_appearances": 5,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 2,
+    "pitchers": [
+      "Aleshia Ocasio",
+      "Jala Wright",
+      "Devyn Netz"
+    ],
+    "target_outs": [
+      6,
+      6,
+      6
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-f7f9b54250efa7fa",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maddie Penta",
+      "Jailyn Ford"
+    ],
+    "target_outs": [
+      12,
+      9
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-f9c8f732ec4c70fa",
+    "changed_plate_appearances": 8,
+    "fielding_team": "Oklahoma City Spark",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Maya Johnson",
+      "Peja Goold",
+      "Cassidy Curd",
+      "Lyndsey Grein",
+      "Ruby Meylan"
+    ],
+    "target_outs": [
+      4,
+      1,
+      1,
+      13,
+      2
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-f9c8f732ec4c70fa",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kenzie Brown",
+      "Sam Landry"
+    ],
+    "target_outs": [
+      18,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-fcb96c9ef665f7f6",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Carolina Blaze",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Jala Wright",
+      "Emma Lemley",
+      "Keilani Ricketts",
+      "Devyn Netz"
+    ],
+    "target_outs": [
+      3,
+      1,
+      8,
+      3
+    ]
+  },
+  {
+    "ambiguous_blocks": 0,
+    "canonical_id": "ausl-2026-fcb96c9ef665f7f6",
+    "changed_plate_appearances": 0,
+    "fielding_team": "Portland Cascade",
+    "optimal_paths": 1,
+    "pitchers": [
+      "Kenzie Brown"
+    ],
+    "target_outs": [
+      15
+    ]
+  }
+]

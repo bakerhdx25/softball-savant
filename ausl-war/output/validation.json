@@ -1,0 +1,374 @@
+{
+  "checks": [
+    {
+      "expected": 0,
+      "name": "canonical IDs are unique",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "canonical source pairs have no quality flags",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "all completed contests have immutable HTML artifacts",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 249,
+      "name": "raw manifest contains three artifacts per game",
+      "observed": 249,
+      "passed": true
+    },
+    {
+      "expected": [],
+      "name": "raw manifest SHA-256 values match current files",
+      "observed": [],
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "normalization covers every completed contest",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "all games reconcile runs",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "all games reconcile hits",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "all games reconcile walks",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "all games reconcile strikeouts",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 83,
+      "name": "all games satisfy runner-state invariants",
+      "observed": 83,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "no play rows remain unresolved",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "no plate appearances have unknown outcomes",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": {
+        "3": 1020
+      },
+      "name": "every completed non-walkoff half-inning reaches three outs",
+      "observed": {
+        "3": 1020
+      },
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "no normalized event begins with three outs",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 24,
+      "name": "every RE24 state has observations",
+      "observed": 24,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "position RAA balances to zero",
+      "observed": -3.34297476853318e-15,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "2025 position RAA balances to zero",
+      "observed": -1.2212453270876722e-15,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "expanded baserunning balances to zero",
+      "observed": -6.59211183903774e-15,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "double-play avoidance balances to zero",
+      "observed": 9.298117831235686e-16,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "expanded advancement has no unresolved candidates",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "raw arm and attributed runner value are opposing",
+      "observed": 0.0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "unshrunk arm opportunities are league centered",
+      "observed": 2.0539125955565396e-15,
+      "passed": true
+    },
+    {
+      "expected": ">= 0.75",
+      "name": "arm attribution coverage clears inclusion gate",
+      "observed": 0.8246498599439775,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "RA7 pitching RAA balances to zero",
+      "observed": 8.153200337090993e-16,
+      "passed": true
+    },
+    {
+      "expected": 19.75308641975309,
+      "name": "WAR pool matches conventional replacement calibration",
+      "observed": 19.75308641975309,
+      "passed": true
+    },
+    {
+      "expected": 121,
+      "name": "combined player keys are unique",
+      "observed": 121,
+      "passed": true
+    },
+    {
+      "expected": 41,
+      "name": "every pitcher has opponent-adjusted RA7 context",
+      "observed": 41,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "stored total WAR equals position plus pitcher WAR",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "position WAR equals offensive plus defensive WAR",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "pitcher WAR decomposes into pitching and pitcher defense WAR",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "pitching RAA plus pitcher defense reconstructs RA7 RAA",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "wRAA is the public alias for wOBA-derived batting runs",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "Batting WAR converts wRAA",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "Baserunning WAR converts the complete baserunning component",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "Defense WAR converts range arm catcher and positional runs exactly once",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "catcher throwing runs are league centered",
+      "observed": -6.938893903907228e-18,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "2025 catcher throwing runs are league centered",
+      "observed": -1.6653345369377348e-16,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "display Arm Runs fold catcher throwing into other arm value",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 68,
+      "name": "FIP is present for every pitcher",
+      "observed": 68,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "FIP comparison arithmetic is exact",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 2.8099241674909328,
+      "name": "2025 FIP constant matches the season run environment",
+      "observed": 2.8099241674909328,
+      "passed": true
+    },
+    {
+      "expected": 2.303274288781535,
+      "name": "2026 FIP constant matches the season run environment",
+      "observed": 2.303274288781535,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "FIP is excluded from WAR arithmetic",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 50,
+      "name": "official schedule supplies all 50 completed 2025 games",
+      "observed": 50,
+      "passed": true
+    },
+    {
+      "expected": 12,
+      "name": "the exact 12-game 2025 gap is supplemented",
+      "observed": 12,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "supplemental games reconcile official runs",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "supplemental games have valid reconstructed runner states",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 923,
+      "name": "supplemental PA reconstruction is complete",
+      "observed": 923,
+      "passed": true
+    },
+    {
+      "expected": 98,
+      "name": "all completed official games reach the full PA dataset",
+      "observed": 98,
+      "passed": true
+    },
+    {
+      "expected": 121,
+      "name": "primary rows contain role-specific WAR fields",
+      "observed": 121,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "obsolete WAR and interval fields are absent",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": true,
+      "name": "old-versus-new impact report exists",
+      "observed": true,
+      "passed": true
+    },
+    {
+      "expected": "implement only if every gate passes",
+      "name": "positional research decision follows reliability gates",
+      "observed": "insufficient_data",
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "insufficient positional evidence leaves official adjustment at zero",
+      "observed": 0,
+      "passed": true
+    },
+    {
+      "expected": 0,
+      "name": "positional candidates are research-only",
+      "observed": 0,
+      "passed": true
+    }
+  ],
+  "coverage": {
+    "advancement_opportunities_2026": 1785,
+    "arm_attributable_opportunities_2026": 1472,
+    "arm_attribution_coverage_2026": 0.8246498599439775,
+    "attributable_general_direction_batted_balls_2026": 1805,
+    "batted_balls_2026": 1916,
+    "boxscore_position_availability_2026": 0.8595564941921858,
+    "combined_players_2026": 121,
+    "completed_games_2025": 50,
+    "completed_games_2026": 48,
+    "completed_games_all_seasons": 98,
+    "completed_games_source_snapshot": 83,
+    "confirmed_position_innings_coverage": 0.06421180766889836,
+    "double_play_opportunities_2026": 209,
+    "fielding_direction_coverage_2026": 0.9420668058455115,
+    "normalized_events_all_seasons": 5304,
+    "pitcher_attribution_2026": 1.0,
+    "pitchers_2025": 27,
+    "pitchers_2026": 41,
+    "plate_appearances_2026": 2696,
+    "plate_appearances_all_seasons": 6019,
+    "position_players_2025": 73,
+    "position_players_2026": 118,
+    "positional_adjustment_recommendation": "insufficient_data",
+    "re24_maximum_state_sample": 1143,
+    "re24_minimum_state_sample": 17,
+    "runner_state_corrections": 8
+  },
+  "passed": true,
+  "snapshot_id": "20260704T165430Z"
+}

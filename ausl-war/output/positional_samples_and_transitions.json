@@ -1,0 +1,310 @@
+[
+  {
+    "mean_position_relative_conversion_residual": 9.25185853854297e-18,
+    "opportunities": 60,
+    "players": 17,
+    "position": "C",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": 1.0002009230857266e-18,
+    "opportunities": 222,
+    "players": 22,
+    "position": "1B",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": 1.0424629339203347e-17,
+    "opportunities": 426,
+    "players": 19,
+    "position": "2B",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": 1.1102230246251566e-17,
+    "opportunities": 420,
+    "players": 23,
+    "position": "3B",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": -9.555198162757495e-18,
+    "opportunities": 488,
+    "players": 16,
+    "position": "SS",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": 1.856560241848088e-17,
+    "opportunities": 598,
+    "players": 21,
+    "position": "LF",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": 2.2087183412437095e-17,
+    "opportunities": 568,
+    "players": 17,
+    "position": "CF",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "mean_position_relative_conversion_residual": -1.7989724936055777e-17,
+    "opportunities": 432,
+    "players": 33,
+    "position": "RF",
+    "record_type": "fielding_opportunity_sample"
+  },
+  {
+    "opportunities_a": 13,
+    "opportunities_b": 39,
+    "players": 3,
+    "position_a": "C",
+    "position_b": "1B",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -2.0526987632250795
+  },
+  {
+    "opportunities_a": 5,
+    "opportunities_b": 38,
+    "players": 2,
+    "position_a": "C",
+    "position_b": "2B",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -13.888098624940726
+  },
+  {
+    "opportunities_a": 12,
+    "opportunities_b": 48,
+    "players": 3,
+    "position_a": "C",
+    "position_b": "3B",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -6.318200805042911
+  },
+  {
+    "opportunities_a": 0,
+    "opportunities_b": 0,
+    "players": 0,
+    "position_a": "C",
+    "position_b": "SS",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 0.0
+  },
+  {
+    "opportunities_a": 4,
+    "opportunities_b": 5,
+    "players": 1,
+    "position_a": "C",
+    "position_b": "LF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -20.216049952892057
+  },
+  {
+    "opportunities_a": 2,
+    "opportunities_b": 3,
+    "players": 1,
+    "position_a": "C",
+    "position_b": "CF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 63.63636363636363
+  },
+  {
+    "opportunities_a": 2,
+    "opportunities_b": 9,
+    "players": 1,
+    "position_a": "C",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -12.740391609205437
+  },
+  {
+    "opportunities_a": 14,
+    "opportunities_b": 70,
+    "players": 3,
+    "position_a": "1B",
+    "position_b": "2B",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 1.8793666115094698
+  },
+  {
+    "opportunities_a": 96,
+    "opportunities_b": 66,
+    "players": 6,
+    "position_a": "1B",
+    "position_b": "3B",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 2.215517594778959
+  },
+  {
+    "opportunities_a": 12,
+    "opportunities_b": 67,
+    "players": 1,
+    "position_a": "1B",
+    "position_b": "SS",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -2.481514614383128
+  },
+  {
+    "opportunities_a": 9,
+    "opportunities_b": 1,
+    "players": 1,
+    "position_a": "1B",
+    "position_b": "LF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 72.91366041366042
+  },
+  {
+    "opportunities_a": 0,
+    "opportunities_b": 0,
+    "players": 0,
+    "position_a": "1B",
+    "position_b": "CF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 0.0
+  },
+  {
+    "opportunities_a": 37,
+    "opportunities_b": 61,
+    "players": 6,
+    "position_a": "1B",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 3.7480678531249643
+  },
+  {
+    "opportunities_a": 72,
+    "opportunities_b": 95,
+    "players": 6,
+    "position_a": "2B",
+    "position_b": "3B",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -7.472990129569077
+  },
+  {
+    "opportunities_a": 181,
+    "opportunities_b": 160,
+    "players": 7,
+    "position_a": "2B",
+    "position_b": "SS",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -2.5442104972601265
+  },
+  {
+    "opportunities_a": 23,
+    "opportunities_b": 24,
+    "players": 3,
+    "position_a": "2B",
+    "position_b": "LF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -4.911238878630183
+  },
+  {
+    "opportunities_a": 56,
+    "opportunities_b": 20,
+    "players": 1,
+    "position_a": "2B",
+    "position_b": "CF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 10.055349358575166
+  },
+  {
+    "opportunities_a": 138,
+    "opportunities_b": 87,
+    "players": 5,
+    "position_a": "2B",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 0.6929145639513526
+  },
+  {
+    "opportunities_a": 123,
+    "opportunities_b": 160,
+    "players": 5,
+    "position_a": "3B",
+    "position_b": "SS",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 0.343310866316031
+  },
+  {
+    "opportunities_a": 49,
+    "opportunities_b": 21,
+    "players": 2,
+    "position_a": "3B",
+    "position_b": "LF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 4.872481811257321
+  },
+  {
+    "opportunities_a": 0,
+    "opportunities_b": 0,
+    "players": 0,
+    "position_a": "3B",
+    "position_b": "CF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 0.0
+  },
+  {
+    "opportunities_a": 36,
+    "opportunities_b": 60,
+    "players": 5,
+    "position_a": "3B",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 10.932349530542773
+  },
+  {
+    "opportunities_a": 1,
+    "opportunities_b": 3,
+    "players": 1,
+    "position_a": "SS",
+    "position_b": "LF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -27.06529066045682
+  },
+  {
+    "opportunities_a": 62,
+    "opportunities_b": 23,
+    "players": 2,
+    "position_a": "SS",
+    "position_b": "CF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 12.497764253602107
+  },
+  {
+    "opportunities_a": 2,
+    "opportunities_b": 5,
+    "players": 1,
+    "position_a": "SS",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -31.163807822603207
+  },
+  {
+    "opportunities_a": 193,
+    "opportunities_b": 320,
+    "players": 9,
+    "position_a": "LF",
+    "position_b": "CF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -0.8791786027490311
+  },
+  {
+    "opportunities_a": 403,
+    "opportunities_b": 127,
+    "players": 11,
+    "position_a": "LF",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": 3.593599901480039
+  },
+  {
+    "opportunities_a": 393,
+    "opportunities_b": 127,
+    "players": 10,
+    "position_a": "CF",
+    "position_b": "RF",
+    "record_type": "within_player_transition",
+    "residual_difference_b_minus_a_per_100_opportunities": -3.0995668228016457
+  }
+]

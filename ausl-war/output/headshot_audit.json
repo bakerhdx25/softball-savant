@@ -1,0 +1,25 @@
+{
+  "seasons": {
+    "2025": {
+      "ambiguous": {},
+      "directory_headshots": 78,
+      "leaderboard_players": 78,
+      "matched": 78,
+      "source_url": "https://theausl.com/players/?season=2025-ausl",
+      "unmatched": []
+    },
+    "2026": {
+      "ambiguous": {},
+      "directory_headshots": 119,
+      "leaderboard_players": 121,
+      "matched": 118,
+      "source_url": "https://theausl.com/players/?season=2026-ausl",
+      "unmatched": [
+        "Billie Andrews",
+        "Maddie Moore",
+        "Taylor Biehl"
+      ]
+    }
+  },
+  "source": "official AUSL player directory"
+}

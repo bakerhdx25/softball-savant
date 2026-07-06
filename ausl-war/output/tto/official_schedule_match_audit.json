@@ -1,0 +1,1247 @@
+[
+  {
+    "canonical_id": "ausl-2025-03c853891d304eb7",
+    "canonical_score": [
+      4,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 786,
+    "official_score": [
+      4,
+      5
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-0c0fbffe84135ce2",
+    "canonical_score": [
+      7,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 768,
+    "official_score": [
+      7,
+      9
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-0c5f4aa5f4e29034",
+    "canonical_score": [
+      1,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 752,
+    "official_score": [
+      1,
+      3
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-11017d17ccf3a918",
+    "canonical_score": [
+      12,
+      14
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 757,
+    "official_score": [
+      12,
+      14
+    ],
+    "official_venue": "Jim Frost Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-1560424f1dabc9bb",
+    "canonical_score": [
+      3,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 750,
+    "official_score": [
+      3,
+      6
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-17b229c1b5b405cf",
+    "canonical_score": [
+      3,
+      10
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 751,
+    "official_score": [
+      3,
+      10
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-29e173a5d3875b10",
+    "canonical_score": [
+      1,
+      9
+    ],
+    "match_method": "teams_datetime_nearest_score_disagreement",
+    "official_game_id": 787,
+    "official_score": [
+      2,
+      9
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-2d89e837d661d280",
+    "canonical_score": [
+      0,
+      2
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 777,
+    "official_score": [
+      0,
+      2
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-31be0813d7d85a82",
+    "canonical_score": [
+      4,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 762,
+    "official_score": [
+      4,
+      5
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-39aed3a0a15dcb51",
+    "canonical_score": [
+      6,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 779,
+    "official_score": [
+      6,
+      11
+    ],
+    "official_venue": "Husky Softball Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-3b8fb90d2fbdf314",
+    "canonical_score": [
+      10,
+      12
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 774,
+    "official_score": [
+      10,
+      12
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-3c027045ee1f0b27",
+    "canonical_score": [
+      3,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 769,
+    "official_score": [
+      3,
+      8
+    ],
+    "official_venue": "Love's Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-3e0f6d9570698503",
+    "canonical_score": [
+      1,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 748,
+    "official_score": [
+      1,
+      3
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-40b2b02c0febd1f0",
+    "canonical_score": [
+      4,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 776,
+    "official_score": [
+      4,
+      5
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-41e8a589154ad199",
+    "canonical_score": [
+      3,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 782,
+    "official_score": [
+      3,
+      6
+    ],
+    "official_venue": "Connie Claussen Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-487b21d788da8a4f",
+    "canonical_score": [
+      3,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 772,
+    "official_score": [
+      3,
+      5
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-4d8268ae9282de9e",
+    "canonical_score": [
+      5,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 754,
+    "official_score": [
+      5,
+      6
+    ],
+    "official_venue": "McMurry Park",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-50a59ac70736572d",
+    "canonical_score": [
+      1,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 781,
+    "official_score": [
+      1,
+      3
+    ],
+    "official_venue": "Husky Softball Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-5731f8f564a5deb5",
+    "canonical_score": [
+      2,
+      10
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 783,
+    "official_score": [
+      2,
+      10
+    ],
+    "official_venue": "Husky Softball Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-5d0a04645769dc45",
+    "canonical_score": [
+      6,
+      7
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 755,
+    "official_score": [
+      6,
+      7
+    ],
+    "official_venue": "Jim Frost Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-5ef5cb37be8c4c36",
+    "canonical_score": [
+      1,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 773,
+    "official_score": [
+      1,
+      9
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-77a89e65051de7cd",
+    "canonical_score": [
+      8,
+      10
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 759,
+    "official_score": [
+      8,
+      10
+    ],
+    "official_venue": "Jim Frost Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-7ac9f8836b521485",
+    "canonical_score": [
+      7,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 785,
+    "official_score": [
+      7,
+      8
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-7f64752e73f89966",
+    "canonical_score": [
+      6,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 771,
+    "official_score": [
+      6,
+      8
+    ],
+    "official_venue": "Love's Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-8f9abf551ebf50a0",
+    "canonical_score": [
+      3,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 770,
+    "official_score": [
+      3,
+      11
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-9214d61e910e42df",
+    "canonical_score": [
+      1,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 763,
+    "official_score": [
+      1,
+      6
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-97624070dd6bf1fe",
+    "canonical_score": [
+      1,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 749,
+    "official_score": [
+      1,
+      5
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-9dd3560aa9c4150d",
+    "canonical_score": [
+      0,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 753,
+    "official_score": [
+      0,
+      8
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-a90cda2a506a8254",
+    "canonical_score": [
+      0,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 758,
+    "official_score": [
+      0,
+      6
+    ],
+    "official_venue": "McMurry Park",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-a94876c9855e5c1b",
+    "canonical_score": [
+      0,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 766,
+    "official_score": [
+      0,
+      4
+    ],
+    "official_venue": "Love's Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-c9da8860118ff2a2",
+    "canonical_score": [
+      1,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 780,
+    "official_score": [
+      1,
+      9
+    ],
+    "official_venue": "Connie Claussen Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-d6ce7f42a0f63c17",
+    "canonical_score": [
+      2,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 765,
+    "official_score": [
+      2,
+      3
+    ],
+    "official_venue": "Love's Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-d712820ab5686f4e",
+    "canonical_score": [
+      0,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 775,
+    "official_score": [
+      0,
+      4
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-e010dee43a565f86",
+    "canonical_score": [
+      1,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 784,
+    "official_score": [
+      1,
+      4
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-e23d1ecc674f7a54",
+    "canonical_score": [
+      1,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 756,
+    "official_score": [
+      1,
+      6
+    ],
+    "official_venue": "McMurry Park",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-e78cb576505a9770",
+    "canonical_score": [
+      7,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 778,
+    "official_score": [
+      7,
+      8
+    ],
+    "official_venue": "Connie Claussen Field",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-f5aa3c6a2f1972fe",
+    "canonical_score": [
+      3,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 767,
+    "official_score": [
+      3,
+      11
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2025-f92fdc3f3b625344",
+    "canonical_score": [
+      2,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 764,
+    "official_score": [
+      2,
+      11
+    ],
+    "official_venue": "Wilkins Stadium",
+    "season": 2025
+  },
+  {
+    "canonical_id": "ausl-2026-00d72870d15ca8fa",
+    "canonical_score": [
+      2,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 917,
+    "official_score": [
+      2,
+      11
+    ],
+    "official_venue": "Smith Family Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-07f968f1ddba7f9e",
+    "canonical_score": [
+      6,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 949,
+    "official_score": [
+      6,
+      8
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-0ab2caaab52a1239",
+    "canonical_score": [
+      1,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 934,
+    "official_score": [
+      1,
+      6
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-1279d891a356ac3f",
+    "canonical_score": [
+      5,
+      13
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 915,
+    "official_score": [
+      5,
+      13
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-1c3b23d2b40ccb11",
+    "canonical_score": [
+      1,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 923,
+    "official_score": [
+      1,
+      9
+    ],
+    "official_venue": "Smith Family Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-1d90d44046b872f3",
+    "canonical_score": [
+      3,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 930,
+    "official_score": [
+      3,
+      4
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-1f0d2a98bd8af5d0",
+    "canonical_score": [
+      5,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 918,
+    "official_score": [
+      5,
+      8
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-2afa123c443e6ef1",
+    "canonical_score": [
+      4,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 942,
+    "official_score": [
+      4,
+      6
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-40e57742130c93ca",
+    "canonical_score": [
+      3,
+      13
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 952,
+    "official_score": [
+      3,
+      13
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-411d48ad1f32e729",
+    "canonical_score": [
+      1,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 922,
+    "official_score": [
+      1,
+      9
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-43af7256fec38fef",
+    "canonical_score": [
+      3,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 932,
+    "official_score": [
+      3,
+      4
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-49c63461dad3d039",
+    "canonical_score": [
+      2,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 940,
+    "official_score": [
+      2,
+      6
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-4d78434658678802",
+    "canonical_score": [
+      3,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 925,
+    "official_score": [
+      3,
+      11
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-4fb9c31739b3dc79",
+    "canonical_score": [
+      2,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 913,
+    "official_score": [
+      2,
+      5
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-564d56163b693743",
+    "canonical_score": [
+      4,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 921,
+    "official_score": [
+      4,
+      5
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-5e1d130211e5aabd",
+    "canonical_score": [
+      0,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 944,
+    "official_score": [
+      0,
+      3
+    ],
+    "official_venue": "Durham Bulls Athletic Park",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-5e63fe1d99d3db0c",
+    "canonical_score": [
+      5,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 927,
+    "official_score": [
+      5,
+      6
+    ],
+    "official_venue": "Smith Family Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-620672750a40e4c9",
+    "canonical_score": [
+      8,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 919,
+    "official_score": [
+      8,
+      9
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-62b06a142846270a",
+    "canonical_score": [
+      1,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 914,
+    "official_score": [
+      1,
+      4
+    ],
+    "official_venue": "Smith Family Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-63f7bfc816fcc6ec",
+    "canonical_score": [
+      1,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 945,
+    "official_score": [
+      1,
+      5
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-6578cc114b9c1adf",
+    "canonical_score": [
+      1,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 947,
+    "official_score": [
+      1,
+      6
+    ],
+    "official_venue": "Durham Bulls Athletic Park",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-688ade051c6a8cc7",
+    "canonical_score": [
+      3,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 948,
+    "official_score": [
+      3,
+      6
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-7a2532058c5a7568",
+    "canonical_score": [
+      1,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 1144,
+    "official_score": [
+      1,
+      5
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-80fda7ca05b7c2e8",
+    "canonical_score": [
+      0,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 936,
+    "official_score": [
+      0,
+      8
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-9dc65ffe33b04861",
+    "canonical_score": [
+      3,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 941,
+    "official_score": [
+      3,
+      6
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-a0a1f3e31a5b107e",
+    "canonical_score": [
+      2,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 928,
+    "official_score": [
+      2,
+      3
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-a14aa0af904e9067",
+    "canonical_score": [
+      1,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 939,
+    "official_score": [
+      1,
+      5
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-a24cb00a6bb34b2e",
+    "canonical_score": [
+      3,
+      11
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 956,
+    "official_score": [
+      3,
+      11
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-ac943b3c9f410a72",
+    "canonical_score": [
+      0,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 935,
+    "official_score": [
+      0,
+      8
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-bbf7ed91bb6f0009",
+    "canonical_score": [
+      1,
+      2
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 926,
+    "official_score": [
+      1,
+      2
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-c350c2a4bba176ef",
+    "canonical_score": [
+      4,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 951,
+    "official_score": [
+      4,
+      5
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-c3cfee37ee995d4a",
+    "canonical_score": [
+      0,
+      14
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 946,
+    "official_score": [
+      0,
+      14
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-ca1589268361bd28",
+    "canonical_score": [
+      0,
+      1
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 916,
+    "official_score": [
+      0,
+      1
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-d099954173c2e103",
+    "canonical_score": [
+      4,
+      8
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 955,
+    "official_score": [
+      4,
+      8
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-d5738e68857ab5e7",
+    "canonical_score": [
+      0,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 931,
+    "official_score": [
+      0,
+      3
+    ],
+    "official_venue": "Hillsboro Ballpark",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-d8caf7d2326f0426",
+    "canonical_score": [
+      2,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 953,
+    "official_score": [
+      2,
+      5
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-d94dca75a1b579a5",
+    "canonical_score": [
+      2,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 943,
+    "official_score": [
+      2,
+      3
+    ],
+    "official_venue": "Durham Bulls Athletic Park",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-da3f0d324b2114b2",
+    "canonical_score": [
+      2,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 950,
+    "official_score": [
+      2,
+      5
+    ],
+    "official_venue": "Dell Diamond",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-df00aee444a8828c",
+    "canonical_score": [
+      2,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 957,
+    "official_score": [
+      2,
+      4
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-e42f4f113f566877",
+    "canonical_score": [
+      1,
+      6
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 933,
+    "official_score": [
+      1,
+      6
+    ],
+    "official_venue": "Hillsboro Ballpark",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-ea33a654a1bc5c26",
+    "canonical_score": [
+      4,
+      5
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 929,
+    "official_score": [
+      4,
+      5
+    ],
+    "official_venue": "The Stadium at Parkway Bank Sports Complex",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-ec795573890de580",
+    "canonical_score": [
+      1,
+      3
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 924,
+    "official_score": [
+      1,
+      3
+    ],
+    "official_venue": "Dumke Family Softball Stadium",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-f7f9b54250efa7fa",
+    "canonical_score": [
+      3,
+      9
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 954,
+    "official_score": [
+      3,
+      9
+    ],
+    "official_venue": "Tom Heath Field",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-f9c8f732ec4c70fa",
+    "canonical_score": [
+      3,
+      4
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 938,
+    "official_score": [
+      3,
+      4
+    ],
+    "official_venue": "Hillsboro Ballpark",
+    "season": 2026
+  },
+  {
+    "canonical_id": "ausl-2026-fcb96c9ef665f7f6",
+    "canonical_score": [
+      4,
+      12
+    ],
+    "match_method": "teams_date_score",
+    "official_game_id": 920,
+    "official_score": [
+      4,
+      12
+    ],
+    "official_venue": "Smith Family Stadium",
+    "season": 2026
+  }
+]

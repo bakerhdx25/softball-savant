@@ -1,0 +1,12 @@
+{
+  "failed_gates": [
+    "defensible_position_innings",
+    "adequate_transition_samples",
+    "leave_one_season_out_stability"
+  ],
+  "next_data_requirement": "Structured starting defensive lineups and timestamped defensive substitutions sufficient to allocate outs at each position.",
+  "official_positional_adjustment_runs": 0.0,
+  "reason": "GameChanger identifies positions played but does not provide reliable innings at each position; transition samples and between-season stability also fail.",
+  "recommendation": "insufficient_data",
+  "snapshot_id": "20260704T165430Z"
+}

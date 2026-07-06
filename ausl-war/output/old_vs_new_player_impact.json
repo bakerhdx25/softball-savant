@@ -1,0 +1,2060 @@
+[
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -1.2936910780601552,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.03687858748554097,
+    "player": "Peja Goold",
+    "player_key": "pejagoold",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": -1.256812490574614
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.7314841887608837,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.00037832090866852364,
+    "player": "Mariah Lopez",
+    "player_key": "mariahlopez",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.7311058678522152
+  },
+  {
+    "arm_runs": 0.9911323100732158,
+    "double_play_avoidance_runs": 1.0818627394708418,
+    "new_position_war": 1.515958382620022,
+    "new_total_war": 1.515958382620022,
+    "non_steal_advancement_runs": 4.894715023694493,
+    "old_position_war": 0.7890721602044535,
+    "old_total_war": 0.7890721602044535,
+    "player": "Jadelyn Allchin",
+    "player_key": "jadelynallchin",
+    "position_war_change": 0.7268862224155686,
+    "sb_cs_runs": 0.30112030743289897,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.7268862224155686
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 1.0903356812144163,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.4112855864535299,
+    "player": "Lexi Kilfoyl",
+    "player_key": "lexikilfoyl",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.6790500947608864
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.460795976540508,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 1.0453355283054755,
+    "player": "Sam Landry",
+    "player_key": "samlandry",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.5845395517649674
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.5623530497865857,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.008282153691699908,
+    "player": "Payton Gottshall",
+    "player_key": "paytongottshall",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.5540708960948858
+  },
+  {
+    "arm_runs": -3.8733391488115965,
+    "double_play_avoidance_runs": 0.09911577495850368,
+    "new_position_war": -0.6579607430270676,
+    "new_total_war": -0.6579607430270676,
+    "non_steal_advancement_runs": 0.19625012658245483,
+    "old_position_war": -0.1184514803933543,
+    "old_total_war": -0.1184514803933543,
+    "player": "McKenzie Clark",
+    "player_key": "mckenzieclark",
+    "position_war_change": -0.5395092626337133,
+    "sb_cs_runs": 0.054749146805981634,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": -0.5395092626337133
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.3188769655838992,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.18889699532009496,
+    "player": "Emma Lemley",
+    "player_key": "emmalemley",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": -0.5077739609039942
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.37241943641134784,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.12944698549884165,
+    "player": "Odicci Alexander-Bennett",
+    "player_key": "odiccialexanderbennett",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.5018664219101895
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 1.3605368218115081,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.8703571506517886,
+    "player": "Karlyn Pickens",
+    "player_key": "karlynpickens",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.4901796711597195
+  },
+  {
+    "arm_runs": 1.8076978402901815,
+    "double_play_avoidance_runs": 0.3469571524848435,
+    "new_position_war": 0.24056557868334372,
+    "new_total_war": 0.24056557868334372,
+    "non_steal_advancement_runs": -0.6467125917190037,
+    "old_position_war": -0.24696131730305165,
+    "old_total_war": -0.24696131730305165,
+    "player": "Bubba Nickles-Camarena",
+    "player_key": "bubbanicklescamarena",
+    "position_war_change": 0.48752689598639537,
+    "sb_cs_runs": 0.19162201382093572,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.48752689598639537
+  },
+  {
+    "arm_runs": -0.030771461924371562,
+    "double_play_avoidance_runs": -0.4203958582033743,
+    "new_position_war": 0.20022660945560442,
+    "new_total_war": 1.3954533391180932,
+    "non_steal_advancement_runs": -1.1735879084187992,
+    "old_position_war": 0.4582701062103998,
+    "old_total_war": 0.9267485602516119,
+    "player": "Aliyah Binford",
+    "player_key": "aliyahbinford",
+    "position_war_change": -0.25804349675479543,
+    "sb_cs_runs": -0.37554183860281054,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.4687047788664813
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 1.4238960006928882,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.9975469939170589,
+    "player": "Georgina Corrick",
+    "player_key": "georginacorrick",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.4263490067758293
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.2988297491461826,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.12643064480424537,
+    "player": "Kelly Maxwell",
+    "player_key": "kellymaxwell",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.425260393950428
+  },
+  {
+    "arm_runs": 0.32405316448765953,
+    "double_play_avoidance_runs": 0.1393174458473072,
+    "new_position_war": 0.16690447779319392,
+    "new_total_war": 0.35024761284056977,
+    "non_steal_advancement_runs": 1.6014927195523556,
+    "old_position_war": -0.09046333509145033,
+    "old_total_war": -0.0731577257528415,
+    "player": "Aleshia Ocasio",
+    "player_key": "aleshiaocasio",
+    "position_war_change": 0.2573678128846443,
+    "sb_cs_runs": 0.13687286701495407,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.4234053385934113
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 2.5585616525959876,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 2.147117508956048,
+    "player": "Montana Fouts",
+    "player_key": "montanafouts",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.4114441436399394
+  },
+  {
+    "arm_runs": -0.4919796959114413,
+    "double_play_avoidance_runs": -0.645017824269347,
+    "new_position_war": -0.11389340885821203,
+    "new_total_war": -0.11389340885821203,
+    "non_steal_advancement_runs": -1.3561973319750635,
+    "old_position_war": 0.28278980313135854,
+    "old_total_war": 0.28278980313135854,
+    "player": "Tiare Jennings",
+    "player_key": "tiarejennings",
+    "position_war_change": -0.39668321198957057,
+    "sb_cs_runs": -0.33058866173663815,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.39668321198957057
+  },
+  {
+    "arm_runs": 0.1398400192866711,
+    "double_play_avoidance_runs": -0.7835939030299799,
+    "new_position_war": -0.1196847196933811,
+    "new_total_war": -0.1196847196933811,
+    "non_steal_advancement_runs": -1.3490302666851977,
+    "old_position_war": 0.25218890723370285,
+    "old_total_war": 0.25218890723370285,
+    "player": "Baylee Klingler",
+    "player_key": "bayleeklingler",
+    "position_war_change": -0.3718736269270839,
+    "sb_cs_runs": 0.07299886240797551,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": -0.3718736269270839
+  },
+  {
+    "arm_runs": 0.12037930509372347,
+    "double_play_avoidance_runs": 0.5018616248139306,
+    "new_position_war": 0.1773773076510319,
+    "new_total_war": 0.1773773076510319,
+    "non_steal_advancement_runs": -0.37509999174070935,
+    "old_position_war": 0.5425661921264209,
+    "old_total_war": 0.5425661921264209,
+    "player": "Jocelyn Erickson",
+    "player_key": "jocelynerickson",
+    "position_war_change": -0.365188884475389,
+    "sb_cs_runs": 0.2098717294229296,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.365188884475389
+  },
+  {
+    "arm_runs": -1.9440502961543074,
+    "double_play_avoidance_runs": 0.3188664872640029,
+    "new_position_war": 0.1918688212756981,
+    "new_total_war": 0.1918688212756981,
+    "non_steal_advancement_runs": -0.3261708629043409,
+    "old_position_war": 0.5540310547966195,
+    "old_total_war": 0.5540310547966195,
+    "player": "Korbe Otis",
+    "player_key": "korbeotis",
+    "position_war_change": -0.3621622335209214,
+    "sb_cs_runs": -0.6541890310200227,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.3621622335209214
+  },
+  {
+    "arm_runs": 0.043031735684348794,
+    "double_play_avoidance_runs": 0.3543137978984976,
+    "new_position_war": 0.9990551858090979,
+    "new_total_war": 0.9990551858090979,
+    "non_steal_advancement_runs": 1.1903476270228728,
+    "old_position_war": 0.6495008543050778,
+    "old_total_war": 0.6495008543050778,
+    "player": "Megan Grant",
+    "player_key": "megangrant",
+    "position_war_change": 0.34955433150402015,
+    "sb_cs_runs": 0.24637116062691736,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.34955433150402015
+  },
+  {
+    "arm_runs": -0.02747303069999596,
+    "double_play_avoidance_runs": 0.13722294928496964,
+    "new_position_war": -0.1538498705428821,
+    "new_total_war": -0.6842451490924198,
+    "non_steal_advancement_runs": -0.7403245279842742,
+    "old_position_war": -0.06424769025097267,
+    "old_total_war": -0.34986183036128216,
+    "player": "Rachel Garcia",
+    "player_key": "rachelgarcia",
+    "position_war_change": -0.08960218029190943,
+    "sb_cs_runs": 0.04562428900498469,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.3343833187311377
+  },
+  {
+    "arm_runs": 0.01081809671460251,
+    "double_play_avoidance_runs": 0.07708551010876237,
+    "new_position_war": 0.3333939385970281,
+    "new_total_war": 0.3333939385970281,
+    "non_steal_advancement_runs": 1.3937337844390236,
+    "old_position_war": 0.0,
+    "old_total_war": 0.0,
+    "player": "Kailey Wyckoff",
+    "player_key": "kaileywyckoff",
+    "position_war_change": 0.3333939385970281,
+    "sb_cs_runs": 0.18249715601993877,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.3333939385970281
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.029176744013626812,
+    "new_total_war": 0.4416653641532314,
+    "non_steal_advancement_runs": 0,
+    "old_position_war": -0.026157953647933104,
+    "old_total_war": 0.12285178342308867,
+    "player": "Sarah Willis",
+    "player_key": "sarahwillis",
+    "position_war_change": -0.0030187903656937083,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.3188135807301427
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.552154541323454,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.2588863010666194,
+    "player": "Jailyn Ford",
+    "player_key": "jailynford",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.29326824025683457
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.6241521819931881,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.33791440232218084,
+    "player": "Jessica Mullins",
+    "player_key": "jessicamullins",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.2862377796710073
+  },
+  {
+    "arm_runs": 0.571835880080408,
+    "double_play_avoidance_runs": -1.3665196879200252,
+    "new_position_war": -0.2881307202769489,
+    "new_total_war": -0.2881307202769489,
+    "non_steal_advancement_runs": 1.593822769971942,
+    "old_position_war": -0.005163223654618835,
+    "old_total_war": -0.005163223654618835,
+    "player": "Tori Vidales",
+    "player_key": "torividales",
+    "position_war_change": -0.28296749662233006,
+    "sb_cs_runs": 0.10037343581096633,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.28296749662233006
+  },
+  {
+    "arm_runs": 0.8807834720715978,
+    "double_play_avoidance_runs": 0.7145311220315566,
+    "new_position_war": 0.6207283557882096,
+    "new_total_war": 0.6207283557882096,
+    "non_steal_advancement_runs": -0.8444980051959208,
+    "old_position_war": 0.34200668975337645,
+    "old_total_war": 0.34200668975337645,
+    "player": "Morgan Zerkle",
+    "player_key": "morganzerkle",
+    "position_war_change": 0.27872166603483317,
+    "sb_cs_runs": 0.26462087622891123,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.27872166603483317
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.19192704670111924,
+    "new_total_war": -0.49815732077133046,
+    "non_steal_advancement_runs": 0.034910457390960103,
+    "old_position_war": -0.20326266686021105,
+    "old_total_war": -0.7695855584865796,
+    "player": "Bri Copeland",
+    "player_key": "bricopeland",
+    "position_war_change": 0.011335620159091814,
+    "sb_cs_runs": -0.5397892790207555,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.27142823771524915
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.2379453432869396,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.03311327490467149,
+    "player": "Sydney Berzon",
+    "player_key": "sydneyberzon",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.2710586181916111
+  },
+  {
+    "arm_runs": 0.037197456804692795,
+    "double_play_avoidance_runs": -1.4165476789230393,
+    "new_position_war": -0.05926041689551256,
+    "new_total_war": -0.05926041689551256,
+    "non_steal_advancement_runs": 1.16668948247987,
+    "old_position_war": -0.3273405828741887,
+    "old_total_war": -0.3273405828741887,
+    "player": "Sahvanna Jaquish",
+    "player_key": "sahvannajaquish",
+    "position_war_change": 0.2680801659786761,
+    "sb_cs_runs": 0.20074687162193267,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.2680801659786761
+  },
+  {
+    "arm_runs": -2.1309602752733197,
+    "double_play_avoidance_runs": 0.3415117348351549,
+    "new_position_war": -0.5706402077327601,
+    "new_total_war": -0.5706402077327601,
+    "non_steal_advancement_runs": -1.366361896610275,
+    "old_position_war": -0.3076298012596782,
+    "old_total_war": -0.3076298012596782,
+    "player": "Jaydyn Goodwin",
+    "player_key": "jaydyngoodwin",
+    "position_war_change": -0.26301040647308194,
+    "sb_cs_runs": 0.014598920980856606,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.26301040647308194
+  },
+  {
+    "arm_runs": -0.005121012219352145,
+    "double_play_avoidance_runs": -1.4293452194700578,
+    "new_position_war": 0.052485875132876045,
+    "new_total_war": 0.052485875132876045,
+    "non_steal_advancement_runs": -0.5492226888789657,
+    "old_position_war": 0.3137931813771934,
+    "old_total_war": 0.3137931813771934,
+    "player": "Mary Iakopo",
+    "player_key": "maryiakopo",
+    "position_war_change": -0.26130730624431736,
+    "sb_cs_runs": 0.18249715601993877,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.26130730624431736
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.02680105252586909,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.227283753152934,
+    "player": "Ally Carda",
+    "player_key": "allycarda",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.2540848056788031
+  },
+  {
+    "arm_runs": -0.049206046604770695,
+    "double_play_avoidance_runs": 0.35791307839882525,
+    "new_position_war": 0.8598020160566486,
+    "new_total_war": 0.8598020160566486,
+    "non_steal_advancement_runs": 0.7179062380524546,
+    "old_position_war": 0.6081402633086724,
+    "old_total_war": 0.6081402633086724,
+    "player": "Delanie Wisz",
+    "player_key": "delaniewisz",
+    "position_war_change": 0.2516617527479762,
+    "sb_cs_runs": -0.511065273137113,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.2516617527479762
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.34605920939956725,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.5824960948826594,
+    "player": "Kenzie Brown",
+    "player_key": "kenziebrown",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.23643688548309216
+  },
+  {
+    "arm_runs": -0.8568574267714782,
+    "double_play_avoidance_runs": 0.2024363050356017,
+    "new_position_war": -0.5650768177671649,
+    "new_total_war": -0.5650768177671649,
+    "non_steal_advancement_runs": -0.1322820899461592,
+    "old_position_war": -0.3367526145826935,
+    "old_total_war": -0.3367526145826935,
+    "player": "Leighann Goode",
+    "player_key": "leighanngoode",
+    "position_war_change": -0.22832420318447139,
+    "sb_cs_runs": 0.08212372020897245,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.22832420318447139
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.23817779602829314,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.02295229988806892,
+    "player": "Alyssa Denham",
+    "player_key": "alyssadenham",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.21522549614022424
+  },
+  {
+    "arm_runs": 0.12680214093302694,
+    "double_play_avoidance_runs": -0.23388445071810948,
+    "new_position_war": 0.18268646393456373,
+    "new_total_war": 0.18268646393456373,
+    "non_steal_advancement_runs": -2.340674099635591,
+    "old_position_war": 0.39556491701115226,
+    "old_total_war": 0.39556491701115226,
+    "player": "Dakota Kennedy",
+    "player_key": "dakotakennedy",
+    "position_war_change": -0.21287845307658854,
+    "sb_cs_runs": 0.20074687162193267,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": -0.21287845307658854
+  },
+  {
+    "arm_runs": -0.004646430259733588,
+    "double_play_avoidance_runs": -0.4806795200449245,
+    "new_position_war": 0.8496172961217968,
+    "new_total_war": 0.8496172961217968,
+    "non_steal_advancement_runs": 0.6206409589041815,
+    "old_position_war": 0.6381415159795816,
+    "old_total_war": 0.6381415159795816,
+    "player": "Reese Atwood",
+    "player_key": "reeseatwood",
+    "position_war_change": 0.21147578014221524,
+    "sb_cs_runs": 0.19162201382093572,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.21147578014221524
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.2174709287690114,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.018059694512257887,
+    "player": "Cassidy Curd",
+    "player_key": "cassidycurd",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.1994112342567535
+  },
+  {
+    "arm_runs": 0.044133327484467015,
+    "double_play_avoidance_runs": 0.05045025867115829,
+    "new_position_war": -0.23689512188557396,
+    "new_total_war": -0.23689512188557396,
+    "non_steal_advancement_runs": -0.28608866242609376,
+    "old_position_war": -0.4305402324505777,
+    "old_total_war": -0.4305402324505777,
+    "player": "Jenna Laird",
+    "player_key": "jennalaird",
+    "position_war_change": 0.19364511056500375,
+    "sb_cs_runs": -0.3664169808018136,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.19364511056500375
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.049924545303812844,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.14223831037030804,
+    "player": "Emiley Kennedy",
+    "player_key": "emileykennedy",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.1921628556741209
+  },
+  {
+    "arm_runs": 0.12473137068837913,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.006882715514218044,
+    "new_total_war": 0.006882715514218044,
+    "non_steal_advancement_runs": -0.8880470698106324,
+    "old_position_war": 0.19014420646100064,
+    "old_total_war": 0.19014420646100064,
+    "player": "Elon Butler",
+    "player_key": "elonbutler",
+    "position_war_change": -0.1832614909467826,
+    "sb_cs_runs": 0.06387400460697858,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.1832614909467826
+  },
+  {
+    "arm_runs": 0.13042605187077477,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.3937479743500677,
+    "new_total_war": 0.3937479743500677,
+    "non_steal_advancement_runs": 0.9452895124789497,
+    "old_position_war": 0.2171048215128499,
+    "old_total_war": 0.2171048215128499,
+    "player": "Kenleigh Cahalan",
+    "player_key": "kenleighcahalan",
+    "position_war_change": 0.1766431528372178,
+    "sb_cs_runs": 0.15512258261694797,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.1766431528372178
+  },
+  {
+    "arm_runs": 0.2840712895231095,
+    "double_play_avoidance_runs": 0.17471930088591217,
+    "new_position_war": 0.13464322952590324,
+    "new_total_war": 0.13464322952590324,
+    "non_steal_advancement_runs": 0.6145427829943955,
+    "old_position_war": -0.03635709721305447,
+    "old_total_war": -0.03635709721305447,
+    "player": "Jessica Clements",
+    "player_key": "jessicaclements",
+    "position_war_change": 0.1710003267389577,
+    "sb_cs_runs": 0.08212372020897245,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.1710003267389577
+  },
+  {
+    "arm_runs": 0.025354148421035387,
+    "double_play_avoidance_runs": 0.40230674802064514,
+    "new_position_war": 0.19574127652793066,
+    "new_total_war": 0.19574127652793066,
+    "non_steal_advancement_runs": 0.3011097934413473,
+    "old_position_war": 0.032123073222904634,
+    "old_total_war": 0.032123073222904634,
+    "player": "Jessi Warren",
+    "player_key": "jessiwarren",
+    "position_war_change": 0.16361820330502602,
+    "sb_cs_runs": 0.13687286701495407,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.16361820330502602
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.4321328001779908,
+    "new_position_war": 0.04981548218183186,
+    "new_total_war": 0.04981548218183186,
+    "non_steal_advancement_runs": -1.7459909586621163,
+    "old_position_war": 0.20420675180898484,
+    "old_total_war": 0.20420675180898484,
+    "player": "Sharlize Palacios",
+    "player_key": "sharlizepalacios",
+    "position_war_change": -0.154391269627153,
+    "sb_cs_runs": 0.13687286701495407,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": -0.154391269627153
+  },
+  {
+    "arm_runs": 0.09670144456966087,
+    "double_play_avoidance_runs": 0.6035567222408386,
+    "new_position_war": 0.5789649508034006,
+    "new_total_war": 0.5789649508034006,
+    "non_steal_advancement_runs": -0.0673001238020556,
+    "old_position_war": 0.42482952376046673,
+    "old_total_war": 0.42482952376046673,
+    "player": "Sydney Sherrill",
+    "player_key": "sydneysherrill",
+    "position_war_change": 0.15413542704293387,
+    "sb_cs_runs": 0.22812144502492349,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.15413542704293387
+  },
+  {
+    "arm_runs": 0.06659576784793773,
+    "double_play_avoidance_runs": 0.5464698733420628,
+    "new_position_war": 0.2800837286203998,
+    "new_total_war": 0.2800837286203998,
+    "non_steal_advancement_runs": 1.5651030096754968,
+    "old_position_war": 0.12900370518831994,
+    "old_total_war": 0.12900370518831994,
+    "player": "Jackie Lis",
+    "player_key": "jackielis",
+    "position_war_change": 0.15108002343207988,
+    "sb_cs_runs": -0.1600240410042519,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.15108002343207988
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.7357792775133365,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.5858830865548603,
+    "player": "Keilani Ricketts",
+    "player_key": "keilaniricketts",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.14989619095847617
+  },
+  {
+    "arm_runs": 0.11728402324427437,
+    "double_play_avoidance_runs": 0.1059885862137469,
+    "new_position_war": 0.2100994914630648,
+    "new_total_war": 0.2100994914630648,
+    "non_steal_advancement_runs": -0.0692862493668557,
+    "old_position_war": 0.06349595868104431,
+    "old_total_war": 0.06349595868104431,
+    "player": "Ana Gold",
+    "player_key": "anagold",
+    "position_war_change": 0.14660353278202048,
+    "sb_cs_runs": 0.1642474404179449,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.14660353278202048
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.10224952140498646,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.24872788269370474,
+    "player": "Carley Hoover",
+    "player_key": "carleyhoover",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.14647836128871827
+  },
+  {
+    "arm_runs": 0.01812999939558304,
+    "double_play_avoidance_runs": -1.3964319386423822,
+    "new_position_war": 0.3195982731983343,
+    "new_total_war": 0.3195982731983343,
+    "non_steal_advancement_runs": 2.42405268028491,
+    "old_position_war": 0.17427090920963062,
+    "old_total_war": 0.17427090920963062,
+    "player": "Sydney Stewart",
+    "player_key": "sydneystewart",
+    "position_war_change": 0.14532736398870366,
+    "sb_cs_runs": 0.18249715601993877,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.14532736398870366
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.30007757419487857,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.15502452195439836,
+    "player": "Maya Johnson",
+    "player_key": "mayajohnson",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.1450530522404802
+  },
+  {
+    "arm_runs": -0.04597310022691027,
+    "double_play_avoidance_runs": 0.18307409632250926,
+    "new_position_war": 0.09840607550056332,
+    "new_total_war": 0.09840607550056332,
+    "non_steal_advancement_runs": 1.0592515453275286,
+    "old_position_war": -0.04481093562045156,
+    "old_total_war": -0.04481093562045156,
+    "player": "Kennedy Powell",
+    "player_key": "kennedypowell",
+    "position_war_change": 0.14321701112101487,
+    "sb_cs_runs": 0.1186231514129602,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.14321701112101487
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.6106175193675446,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.47374938032569164,
+    "player": "Lyndsey Grein",
+    "player_key": "lyndseygrein",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.13686813904185297
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.3569834412221139,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.4914435371477212,
+    "player": "NiJaree Canady",
+    "player_key": "nijareecanady",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.13446009592560731
+  },
+  {
+    "arm_runs": -0.13131807609168838,
+    "double_play_avoidance_runs": 1.0890906770553594,
+    "new_position_war": 0.24014198222532399,
+    "new_total_war": 0.24014198222532399,
+    "non_steal_advancement_runs": 0.37982762842357226,
+    "old_position_war": 0.11753336142436645,
+    "old_total_war": 0.11753336142436645,
+    "player": "Ailana Agbayani",
+    "player_key": "ailanaagbayani",
+    "position_war_change": 0.12260862080095754,
+    "sb_cs_runs": 0.15512258261694797,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.12260862080095754
+  },
+  {
+    "arm_runs": 1.4633399369301086,
+    "double_play_avoidance_runs": 0.886518968919591,
+    "new_position_war": 0.15424300741227395,
+    "new_total_war": 0.15424300741227395,
+    "non_steal_advancement_runs": -0.7858576239591267,
+    "old_position_war": 0.03208853419735515,
+    "old_total_war": 0.03208853419735515,
+    "player": "Aliyah Andrews",
+    "player_key": "aliyahandrews",
+    "position_war_change": 0.1221544732149188,
+    "sb_cs_runs": 0.2372463028259204,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.1221544732149188
+  },
+  {
+    "arm_runs": -1.045060983401978,
+    "double_play_avoidance_runs": 0.40240158814544874,
+    "new_position_war": -0.18153907792782273,
+    "new_total_war": -0.18153907792782273,
+    "non_steal_advancement_runs": 0.41428894438438135,
+    "old_position_war": -0.05969374788352575,
+    "old_total_war": -0.05969374788352575,
+    "player": "Kendra Falby",
+    "player_key": "kendrafalby",
+    "position_war_change": -0.12184533004429698,
+    "sb_cs_runs": 0.12774800921395715,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.12184533004429698
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.4846937473566604,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.3642536938824505,
+    "player": "Maddie Penta",
+    "player_key": "maddiepenta",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": -0.12044005347420988
+  },
+  {
+    "arm_runs": 0.004638673334060852,
+    "double_play_avoidance_runs": 0.26987164237608113,
+    "new_position_war": 1.228756829778396,
+    "new_total_war": 1.228756829778396,
+    "non_steal_advancement_runs": -1.0262050234813747,
+    "old_position_war": 1.1102783235699303,
+    "old_total_war": 1.1102783235699303,
+    "player": "Erin Coffel",
+    "player_key": "erincoffel",
+    "position_war_change": 0.11847850620846567,
+    "sb_cs_runs": 0.31024516523389595,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.11847850620846567
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.034482195526432856,
+    "new_total_war": -0.014206091741764616,
+    "non_steal_advancement_runs": -0.3529844073454649,
+    "old_position_war": 0.0,
+    "old_total_war": 0.09595283304181357,
+    "player": "Jala Wright",
+    "player_key": "jalawright",
+    "position_war_change": -0.034482195526432856,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": -0.11015892478357818
+  },
+  {
+    "arm_runs": -0.031138862467455997,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.09294974540420488,
+    "new_total_war": -0.09294974540420488,
+    "non_steal_advancement_runs": 1.2096219271519155,
+    "old_position_war": -0.1993123084010959,
+    "old_total_war": -0.1993123084010959,
+    "player": "KK Madrey",
+    "player_key": "kkmadrey",
+    "position_war_change": 0.10636256299689102,
+    "sb_cs_runs": -0.768983605804319,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.10636256299689102
+  },
+  {
+    "arm_runs": -0.3838955439457287,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.10483636092531642,
+    "new_total_war": 0.10483636092531642,
+    "non_steal_advancement_runs": 0.6631702217460018,
+    "old_position_war": 0.0,
+    "old_total_war": 0.0,
+    "player": "Jalia Lassiter",
+    "player_key": "jalialassiter",
+    "position_war_change": 0.10483636092531642,
+    "sb_cs_runs": 0.10949829361196327,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.10483636092531642
+  },
+  {
+    "arm_runs": -0.5234671168351066,
+    "double_play_avoidance_runs": 0.09911577495850368,
+    "new_position_war": 0.2103655597452372,
+    "new_total_war": 0.2103655597452372,
+    "non_steal_advancement_runs": -0.0740266174387233,
+    "old_position_war": 0.10642330362688854,
+    "old_total_war": 0.10642330362688854,
+    "player": "Sydney McKinney",
+    "player_key": "sydneymckinney",
+    "position_war_change": 0.10394225611834867,
+    "sb_cs_runs": 0.1186231514129602,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.10394225611834867
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.013980880670909189,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.08655105648623625,
+    "player": "Taylor McQuillin",
+    "player_key": "taylormcquillin",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.10053193715714544
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": -0.7941615902308649,
+    "new_position_war": -0.1033477908515463,
+    "new_total_war": -0.1033477908515463,
+    "non_steal_advancement_runs": -0.10196319348227101,
+    "old_position_war": -0.00583268047894171,
+    "old_total_war": -0.00583268047894171,
+    "player": "Jordyn Rudd-Lee",
+    "player_key": "jordynruddlee",
+    "position_war_change": -0.09751511037260459,
+    "sb_cs_runs": 0.027374573402990817,
+    "teams": [
+      "Carolina Blaze",
+      "Texas Volts"
+    ],
+    "total_war_change": -0.09751511037260459
+  },
+  {
+    "arm_runs": 0.021880591105554997,
+    "double_play_avoidance_runs": 0.27866481637519935,
+    "new_position_war": 1.905005196984582,
+    "new_total_war": 1.905005196984582,
+    "non_steal_advancement_runs": -1.0900974182353713,
+    "old_position_war": 1.807792045173415,
+    "old_total_war": 1.807792045173415,
+    "player": "Sami Williams",
+    "player_key": "samiwilliams",
+    "position_war_change": 0.09721315181116696,
+    "sb_cs_runs": -0.5679561661341177,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.09721315181116696
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.7477576842816271,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.6509797869255738,
+    "player": "Megan Faraimo",
+    "player_key": "meganfaraimo",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.09677789735605336
+  },
+  {
+    "arm_runs": 0.3080835090237598,
+    "double_play_avoidance_runs": 0.6555110847650932,
+    "new_position_war": 0.3309933602865428,
+    "new_total_war": 0.3309933602865428,
+    "non_steal_advancement_runs": -1.9026167755714554,
+    "old_position_war": 0.23556253788422146,
+    "old_total_war": 0.23556253788422146,
+    "player": "Jayda Coleman",
+    "player_key": "jaydacoleman",
+    "position_war_change": 0.09543082240232134,
+    "sb_cs_runs": 0.14599772481595102,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.09543082240232134
+  },
+  {
+    "arm_runs": 0.09346782907104637,
+    "double_play_avoidance_runs": -0.5524582732488624,
+    "new_position_war": 0.00886186571369873,
+    "new_total_war": 0.00886186571369873,
+    "non_steal_advancement_runs": -0.3110686340400719,
+    "old_position_war": 0.10424345032044652,
+    "old_total_war": 0.10424345032044652,
+    "player": "Taryn Kern",
+    "player_key": "tarynkern",
+    "position_war_change": -0.09538158460674778,
+    "sb_cs_runs": 0.1186231514129602,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.09538158460674778
+  },
+  {
+    "arm_runs": 0.0011356182731091869,
+    "double_play_avoidance_runs": 0.45414722759396003,
+    "new_position_war": 0.4976103261491818,
+    "new_total_war": 0.4976103261491818,
+    "non_steal_advancement_runs": 2.0344198924932915,
+    "old_position_war": 0.40616252522425383,
+    "old_total_war": 0.40616252522425383,
+    "player": "Jordan Woolery",
+    "player_key": "jordanwoolery",
+    "position_war_change": 0.09144780092492799,
+    "sb_cs_runs": 0.17337229821894184,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.09144780092492799
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.4787449215460217,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.3875740881044359,
+    "player": "Amber Fiser",
+    "player_key": "amberfiser",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.09117083344158583
+  },
+  {
+    "arm_runs": -0.028033490202510433,
+    "double_play_avoidance_runs": -0.7852725351123211,
+    "new_position_war": -0.3670875992531786,
+    "new_total_war": -0.3670875992531786,
+    "non_steal_advancement_runs": -0.17676750648905043,
+    "old_position_war": -0.27760002359662034,
+    "old_total_war": -0.27760002359662034,
+    "player": "Keirstin Roose",
+    "player_key": "keirstinroose",
+    "position_war_change": -0.08948757565655824,
+    "sb_cs_runs": 0.009124857800996939,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": -0.08948757565655824
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.26365845000501237,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.17422173583634992,
+    "player": "Dallas Escobedo Magee",
+    "player_key": "dallasescobedomagee",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.08943671416866245
+  },
+  {
+    "arm_runs": -0.479844107688258,
+    "double_play_avoidance_runs": -0.6255002193756249,
+    "new_position_war": 0.6631742730147316,
+    "new_total_war": 0.6631742730147316,
+    "non_steal_advancement_runs": 1.1253482378864264,
+    "old_position_war": 0.5765851831113026,
+    "old_total_war": 0.5765851831113026,
+    "player": "Amari Harper",
+    "player_key": "amariharper",
+    "position_war_change": 0.08658908990342906,
+    "sb_cs_runs": 0.2098717294229296,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.08658908990342906
+  },
+  {
+    "arm_runs": 0.014779568235230998,
+    "double_play_avoidance_runs": 0.6830144801926546,
+    "new_position_war": 0.27410489805710325,
+    "new_total_war": 0.27410489805710325,
+    "non_steal_advancement_runs": -0.19950119358382296,
+    "old_position_war": 0.19109359604418735,
+    "old_total_war": 0.19109359604418735,
+    "player": "Kayla Kowalik",
+    "player_key": "kaylakowalik",
+    "position_war_change": 0.0830113020129159,
+    "sb_cs_runs": 0.14599772481595102,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.0830113020129159
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.07961586301641776,
+    "new_total_war": -0.07961586301641776,
+    "non_steal_advancement_runs": -0.8150048972550205,
+    "old_position_war": 0.0,
+    "old_total_war": 0.0,
+    "player": "Kyleigh Sand",
+    "player_key": "kyleighsand",
+    "position_war_change": -0.07961586301641776,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.07961586301641776
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": -1.6098394007983639,
+    "new_position_war": -0.34616562928208855,
+    "new_total_war": -0.34616562928208855,
+    "non_steal_advancement_runs": 0.4711528404450543,
+    "old_position_war": -0.27025159179960595,
+    "old_total_war": -0.27025159179960595,
+    "player": "Mia Davidson",
+    "player_key": "miadavidson",
+    "position_war_change": -0.0759140374824826,
+    "sb_cs_runs": 0.04562428900498469,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.0759140374824826
+  },
+  {
+    "arm_runs": 0.02260034883594552,
+    "double_play_avoidance_runs": 0.10891217039212939,
+    "new_position_war": 0.976202404196526,
+    "new_total_war": 0.976202404196526,
+    "non_steal_advancement_runs": -0.7749688825066066,
+    "old_position_war": 0.9004906523486818,
+    "old_total_war": 0.9004906523486818,
+    "player": "Bri Ellis",
+    "player_key": "briellis",
+    "position_war_change": 0.07571175184784429,
+    "sb_cs_runs": 0.20074687162193267,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.07571175184784429
+  },
+  {
+    "arm_runs": 0.15869324543445254,
+    "double_play_avoidance_runs": -0.5831741272438988,
+    "new_position_war": -0.38016884533496775,
+    "new_total_war": -0.38016884533496775,
+    "non_steal_advancement_runs": 0.21161351564681147,
+    "old_position_war": -0.3070344919078424,
+    "old_total_war": -0.3070344919078424,
+    "player": "Sierra Romero",
+    "player_key": "sierraromero",
+    "position_war_change": -0.07313435342712538,
+    "sb_cs_runs": 0.06387400460697858,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.07313435342712538
+  },
+  {
+    "arm_runs": -0.031975411418678844,
+    "double_play_avoidance_runs": 0.335454499201977,
+    "new_position_war": -0.41033501613922735,
+    "new_total_war": -0.41033501613922735,
+    "non_steal_advancement_runs": -0.5161261471199774,
+    "old_position_war": -0.3378365992198722,
+    "old_total_war": -0.3378365992198722,
+    "player": "Haley Lee",
+    "player_key": "haleylee",
+    "position_war_change": -0.07249841691935516,
+    "sb_cs_runs": 0.14599772481595102,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": -0.07249841691935516
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.10891217039212939,
+    "new_position_war": -0.05339747674192469,
+    "new_total_war": -0.05339747674192469,
+    "non_steal_advancement_runs": 0.7107795486718286,
+    "old_position_war": -0.12425528660867004,
+    "old_total_war": -0.12425528660867004,
+    "player": "Kelly Torres",
+    "player_key": "kellytorres",
+    "position_war_change": 0.07085780986674535,
+    "sb_cs_runs": -0.7591216873387682,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.07085780986674535
+  },
+  {
+    "arm_runs": 0.008905817544991698,
+    "double_play_avoidance_runs": 0.1059885862137469,
+    "new_position_war": -0.26935526254944225,
+    "new_total_war": -0.26935526254944225,
+    "non_steal_advancement_runs": -0.43920786120376426,
+    "old_position_war": -0.19988355205256608,
+    "old_total_war": -0.19988355205256608,
+    "player": "Michaela Edenfield",
+    "player_key": "michaelaedenfield",
+    "position_war_change": -0.06947171049687617,
+    "sb_cs_runs": 0.04562428900498469,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": -0.06947171049687617
+  },
+  {
+    "arm_runs": 0.05558960492994537,
+    "double_play_avoidance_runs": 0.42662958667951656,
+    "new_position_war": 0.027441371720791845,
+    "new_total_war": 0.027441371720791845,
+    "non_steal_advancement_runs": -0.7740011643593618,
+    "old_position_war": -0.03974746547644335,
+    "old_total_war": -0.03974746547644335,
+    "player": "Sis Bates",
+    "player_key": "sisbates",
+    "position_war_change": 0.0671888371972352,
+    "sb_cs_runs": 0.18249715601993877,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.0671888371972352
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.0651268196773189,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.13207989199739342,
+    "player": "Alana Vawter",
+    "player_key": "alanavawter",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.06695307232007452
+  },
+  {
+    "arm_runs": 1.1729127145554326,
+    "double_play_avoidance_runs": 0.1059885862137469,
+    "new_position_war": -0.354756974959101,
+    "new_total_war": -0.354756974959101,
+    "non_steal_advancement_runs": -0.3905844613741464,
+    "old_position_war": -0.42015836805442924,
+    "old_total_war": -0.42015836805442924,
+    "player": "Danieca Coffey",
+    "player_key": "daniecacoffey",
+    "position_war_change": 0.06540139309532822,
+    "sb_cs_runs": -0.2238980456112305,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.06540139309532822
+  },
+  {
+    "arm_runs": 0.38368446725179645,
+    "double_play_avoidance_runs": 0.662022885337268,
+    "new_position_war": 0.05398797659935327,
+    "new_total_war": 0.05398797659935327,
+    "non_steal_advancement_runs": 0.8823658423648931,
+    "old_position_war": -0.007294924157835653,
+    "old_total_war": -0.007294924157835653,
+    "player": "Bella Dayton",
+    "player_key": "belladayton",
+    "position_war_change": 0.061282900757188924,
+    "sb_cs_runs": -0.33971351953763507,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.061282900757188924
+  },
+  {
+    "arm_runs": -0.650575924687848,
+    "double_play_avoidance_runs": -0.3781779434512703,
+    "new_position_war": 0.13157875930445262,
+    "new_total_war": 0.3379103076492542,
+    "non_steal_advancement_runs": 1.0429040278876593,
+    "old_position_war": 0.25782715561333414,
+    "old_total_war": 0.2788980775328124,
+    "player": "Devyn Netz",
+    "player_key": "devynnetz",
+    "position_war_change": -0.12624839630888152,
+    "sb_cs_runs": 0.14599772481595102,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.0590122301164418
+  },
+  {
+    "arm_runs": 0.3922708869907253,
+    "double_play_avoidance_runs": 0.21709084861352795,
+    "new_position_war": 0.1461476250924616,
+    "new_total_war": 0.1461476250924616,
+    "non_steal_advancement_runs": 0.1842829409777289,
+    "old_position_war": 0.08787701436061074,
+    "old_total_war": 0.08787701436061074,
+    "player": "Alyssa Brito",
+    "player_key": "alyssabrito",
+    "position_war_change": 0.05827061073185086,
+    "sb_cs_runs": 0.14599772481595102,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.05827061073185086
+  },
+  {
+    "arm_runs": 0.7962798221767023,
+    "double_play_avoidance_runs": -0.5488256334892259,
+    "new_position_war": -0.4631716330622884,
+    "new_total_war": -0.4631716330622884,
+    "non_steal_advancement_runs": -1.1036214721997109,
+    "old_position_war": -0.40505797749742867,
+    "old_total_war": -0.40505797749742867,
+    "player": "Grace Jenkins",
+    "player_key": "gracejenkins",
+    "position_war_change": -0.058113655564859756,
+    "sb_cs_runs": 0.12774800921395715,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": -0.058113655564859756
+  },
+  {
+    "arm_runs": -0.2708601110013747,
+    "double_play_avoidance_runs": 0.17075586741757745,
+    "new_position_war": 1.4157649690708713,
+    "new_total_war": 1.4157649690708713,
+    "non_steal_advancement_runs": -0.19252616511818704,
+    "old_position_war": 1.3584311010431838,
+    "old_total_war": 1.3584311010431838,
+    "player": "Maya Brady",
+    "player_key": "mayabrady",
+    "position_war_change": 0.057333868027687585,
+    "sb_cs_runs": 0.26462087622891123,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.057333868027687585
+  },
+  {
+    "arm_runs": -0.15377844096997945,
+    "double_play_avoidance_runs": 0.0976337907771498,
+    "new_position_war": 0.24677888232919543,
+    "new_total_war": 0.24677888232919543,
+    "non_steal_advancement_runs": 0.6234124427975638,
+    "old_position_war": 0.19120345952015788,
+    "old_total_war": 0.19120345952015788,
+    "player": "Valerie Cagle",
+    "player_key": "valeriecagle",
+    "position_war_change": 0.055575422809037545,
+    "sb_cs_runs": 0.06387400460697858,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.055575422809037545
+  },
+  {
+    "arm_runs": 0.08417955527741518,
+    "double_play_avoidance_runs": 0.26298930217333794,
+    "new_position_war": -0.0011159347077445807,
+    "new_total_war": -0.0011159347077445807,
+    "non_steal_advancement_runs": -0.9919946037869279,
+    "old_position_war": 0.05399042795206696,
+    "old_total_war": 0.05399042795206696,
+    "player": "Aubrey Leach",
+    "player_key": "aubreyleach",
+    "position_war_change": -0.055106362659811545,
+    "sb_cs_runs": 0.2098717294229296,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": -0.055106362659811545
+  },
+  {
+    "arm_runs": -0.1011857065202167,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.010642385432459668,
+    "new_total_war": -0.010642385432459668,
+    "non_steal_advancement_runs": -0.09335553847272246,
+    "old_position_war": 0.04273586513203046,
+    "old_total_war": 0.04273586513203046,
+    "player": "Sierra Sacco-Ferrie",
+    "player_key": "sierrasaccoferrie",
+    "position_war_change": -0.05337825056449013,
+    "sb_cs_runs": 0.09124857800996938,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.05337825056449013
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.10963540509090668,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.061333944433531996,
+    "player": "Taylor Tinsley",
+    "player_key": "taylortinsley",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.04830146065737468
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.058353488027253625,
+    "new_total_war": -0.01828893386404875,
+    "non_steal_advancement_runs": 0,
+    "old_position_war": -0.05904731630525318,
+    "old_total_war": 0.026747098363645895,
+    "player": "Mariah Mazon",
+    "player_key": "mariahmazon",
+    "position_war_change": 0.0006938282779995544,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": -0.045036032227694645
+  },
+  {
+    "arm_runs": -0.03682459004507978,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.045041048778342876,
+    "new_total_war": 0.045041048778342876,
+    "non_steal_advancement_runs": -0.12464789862416914,
+    "old_position_war": 0.000713226331972719,
+    "old_total_war": 0.000713226331972719,
+    "player": "Dejah Mulipola",
+    "player_key": "dejahmulipola",
+    "position_war_change": 0.04432782244637016,
+    "sb_cs_runs": 0.07299886240797551,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.04432782244637016
+  },
+  {
+    "arm_runs": -0.004661015473651129,
+    "double_play_avoidance_runs": 0.33938912612282895,
+    "new_position_war": 0.6515070164016502,
+    "new_total_war": 0.6515070164016502,
+    "non_steal_advancement_runs": -0.44731774989976836,
+    "old_position_war": 0.6914418147429182,
+    "old_total_war": 0.6914418147429182,
+    "player": "Skylar Wallace",
+    "player_key": "skylarwallace",
+    "position_war_change": -0.03993479834126801,
+    "sb_cs_runs": -0.16914889880524886,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.03993479834126801
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.095591312578489,
+    "new_position_war": 0.16687198918987264,
+    "new_total_war": 0.16687198918987264,
+    "non_steal_advancement_runs": -0.6153579022570531,
+    "old_position_war": 0.20575966335772247,
+    "old_total_war": 0.20575966335772247,
+    "player": "Sarah Gordon",
+    "player_key": "sarahgordon",
+    "position_war_change": -0.03888767416784983,
+    "sb_cs_runs": 0.06387400460697858,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": -0.03888767416784983
+  },
+  {
+    "arm_runs": 0.08597869416706695,
+    "double_play_avoidance_runs": -0.47561508632743277,
+    "new_position_war": -0.41934446707874434,
+    "new_total_war": -0.41934446707874434,
+    "non_steal_advancement_runs": -0.029202609869726726,
+    "old_position_war": -0.3815098016681116,
+    "old_total_war": -0.3815098016681116,
+    "player": "Rachel Becker",
+    "player_key": "rachelbecker",
+    "position_war_change": -0.03783466541063274,
+    "sb_cs_runs": 0.04562428900498469,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": -0.03783466541063274
+  },
+  {
+    "arm_runs": 0.0009594170837091602,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.013083301125694684,
+    "new_total_war": 0.013083301125694684,
+    "non_steal_advancement_runs": 0.30168315286189124,
+    "old_position_war": -0.024455681033183095,
+    "old_total_war": -0.024455681033183095,
+    "player": "Karli Spaid",
+    "player_key": "karlispaid",
+    "position_war_change": 0.03753898215887778,
+    "sb_cs_runs": 0.009124857800996939,
+    "teams": [
+      "Carolina Blaze"
+    ],
+    "total_war_change": 0.03753898215887778
+  },
+  {
+    "arm_runs": 0.33881489850214563,
+    "double_play_avoidance_runs": 0.3277555423825466,
+    "new_position_war": -0.32886364211821856,
+    "new_total_war": -0.32886364211821856,
+    "non_steal_advancement_runs": -0.8670116521714563,
+    "old_position_war": -0.3660898513459678,
+    "old_total_war": -0.3660898513459678,
+    "player": "Taylor Biehl",
+    "player_key": "taylorbiehl",
+    "position_war_change": 0.03722620922774922,
+    "sb_cs_runs": -0.8292780915090892,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.03722620922774922
+  },
+  {
+    "arm_runs": 0.1575551470372522,
+    "double_play_avoidance_runs": 0.10891217039212939,
+    "new_position_war": -0.263569135149185,
+    "new_total_war": -0.263569135149185,
+    "non_steal_advancement_runs": 0.2742094780782891,
+    "old_position_war": -0.23228878977810863,
+    "old_total_war": -0.23228878977810863,
+    "player": "Maddie Moore",
+    "player_key": "maddiemoore",
+    "position_war_change": -0.03128034537107638,
+    "sb_cs_runs": 0.04562428900498469,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": -0.03128034537107638
+  },
+  {
+    "arm_runs": 0.18933442903878966,
+    "double_play_avoidance_runs": -1.8846188974720928,
+    "new_position_war": 0.7681978910490842,
+    "new_total_war": 0.7681978910490842,
+    "non_steal_advancement_runs": -1.2115918352017,
+    "old_position_war": 0.7383214234135523,
+    "old_total_war": 0.7383214234135523,
+    "player": "Sydney Romero",
+    "player_key": "sydneyromero",
+    "position_war_change": 0.029876467635531867,
+    "sb_cs_runs": 0.2828705918309051,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.029876467635531867
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.13722294928496964,
+    "new_position_war": 0.2662299903103047,
+    "new_total_war": 0.2662299903103047,
+    "non_steal_advancement_runs": -1.3232294104207303,
+    "old_position_war": 0.2922970142523542,
+    "old_total_war": 0.2922970142523542,
+    "player": "Mac Barbara",
+    "player_key": "macbarbara",
+    "position_war_change": -0.026067023942049516,
+    "sb_cs_runs": -0.4983618723517246,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.026067023942049516
+  },
+  {
+    "arm_runs": 0.2143418805198271,
+    "double_play_avoidance_runs": -0.9664760337715634,
+    "new_position_war": -0.22095348214372587,
+    "new_total_war": -0.22095348214372587,
+    "non_steal_advancement_runs": -0.08903641149271385,
+    "old_position_war": -0.24307345974265906,
+    "old_total_war": -0.24307345974265906,
+    "player": "Hannah Flippen",
+    "player_key": "hannahflippen",
+    "position_war_change": 0.022119977598933194,
+    "sb_cs_runs": 0.13687286701495407,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.022119977598933194
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": -0.022929093754264173,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": -0.04365257082994275,
+    "player": "Ruby Meylan",
+    "player_key": "rubymeylan",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.020723477075678575
+  },
+  {
+    "arm_runs": 0.002301888661121318,
+    "double_play_avoidance_runs": 0.20802794535063307,
+    "new_position_war": 0.10171384416790942,
+    "new_total_war": 0.10171384416790942,
+    "non_steal_advancement_runs": 0.04583896118359149,
+    "old_position_war": 0.08295616317660909,
+    "old_total_war": 0.08295616317660909,
+    "player": "Tianna Bell",
+    "player_key": "tiannabell",
+    "position_war_change": 0.018757680991300332,
+    "sb_cs_runs": 0.054749146805981634,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": 0.018757680991300332
+  },
+  {
+    "arm_runs": -0.06438485108166303,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.01829722680084707,
+    "new_total_war": 0.01829722680084707,
+    "non_steal_advancement_runs": 0.4060018342919371,
+    "old_position_war": 0.0,
+    "old_total_war": 0.0,
+    "player": "Ashton Maloney",
+    "player_key": "ashtonmaloney",
+    "position_war_change": 0.01829722680084707,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.01829722680084707
+  },
+  {
+    "arm_runs": 0.03262624932827513,
+    "double_play_avoidance_runs": 0.5349494598595016,
+    "new_position_war": 0.30524522575384333,
+    "new_total_war": 0.30524522575384333,
+    "non_steal_advancement_runs": -0.4381737007509821,
+    "old_position_war": 0.28714353320040326,
+    "old_total_war": 0.28714353320040326,
+    "player": "Aminah Vega",
+    "player_key": "aminahvega",
+    "position_war_change": 0.018101692553440074,
+    "sb_cs_runs": 0.1642474404179449,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.018101692553440074
+  },
+  {
+    "arm_runs": -1.2143486904047653,
+    "double_play_avoidance_runs": 0.5730615744436007,
+    "new_position_war": 0.10578782358350962,
+    "new_total_war": 0.10578782358350962,
+    "non_steal_advancement_runs": 0.35706678934538505,
+    "old_position_war": 0.09376761416754051,
+    "old_total_war": 0.09376761416754051,
+    "player": "Rylie Boone",
+    "player_key": "rylieboone",
+    "position_war_change": 0.01202020941596911,
+    "sb_cs_runs": -0.5773615919833832,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.01202020941596911
+  },
+  {
+    "arm_runs": -0.026016953953803407,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.21902120253150822,
+    "new_total_war": -0.21902120253150822,
+    "non_steal_advancement_runs": -0.105601463941149,
+    "old_position_war": -0.22988795107003338,
+    "old_total_war": -0.22988795107003338,
+    "player": "Ali Newland",
+    "player_key": "alinewland",
+    "position_war_change": 0.01086674853852515,
+    "sb_cs_runs": 0.018249715601993878,
+    "teams": [
+      "Portland Cascade"
+    ],
+    "total_war_change": 0.01086674853852515
+  },
+  {
+    "arm_runs": 0.213000537688731,
+    "double_play_avoidance_runs": 0.45921707922640254,
+    "new_position_war": -0.4436251340019009,
+    "new_total_war": -0.4436251340019009,
+    "non_steal_advancement_runs": -0.433416426531153,
+    "old_position_war": -0.4542927592238003,
+    "old_total_war": -0.4542927592238003,
+    "player": "Caroline Jacobsen",
+    "player_key": "carolinejacobsen",
+    "position_war_change": 0.010667625221899402,
+    "sb_cs_runs": -0.8019035181060983,
+    "teams": [
+      "Utah Talons"
+    ],
+    "total_war_change": 0.010667625221899402
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.25432657808731046,
+    "new_total_war": -0.25432657808731046,
+    "non_steal_advancement_runs": 0.04423038850556088,
+    "old_position_war": -0.26278182177148884,
+    "old_total_war": -0.26278182177148884,
+    "player": "Billie Andrews",
+    "player_key": "billieandrews",
+    "position_war_change": 0.008455243684178382,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Oklahoma City Spark"
+    ],
+    "total_war_change": 0.008455243684178382
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.00604898522342108,
+    "new_total_war": 0.00604898522342108,
+    "non_steal_advancement_runs": 0.3514708922149668,
+    "old_position_war": 0.0,
+    "old_total_war": 0.0,
+    "player": "Kelsey Stewart-Hunter",
+    "player_key": "kelseystewarthunter",
+    "position_war_change": 0.00604898522342108,
+    "sb_cs_runs": 0.009124857800996939,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.00604898522342108
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 0.0,
+    "new_total_war": 0.25164840648810927,
+    "non_steal_advancement_runs": 0.0,
+    "old_position_war": 0.0,
+    "old_total_war": 0.25324216716084724,
+    "player": "Kat Sandercock",
+    "player_key": "katsandercock",
+    "position_war_change": 0.0,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Chicago Bandits"
+    ],
+    "total_war_change": -0.001593760672737976
+  },
+  {
+    "arm_runs": 0.002142309305868231,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": -0.12076834606008119,
+    "new_total_war": -0.12076834606008119,
+    "non_steal_advancement_runs": 0,
+    "old_position_war": -0.12145187103569285,
+    "old_total_war": -0.12145187103569285,
+    "player": "Makayla McClain",
+    "player_key": "makaylamcclain",
+    "position_war_change": 0.0006835249756116657,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 0.0006835249756116657
+  },
+  {
+    "arm_runs": 0.0,
+    "double_play_avoidance_runs": 0.0,
+    "new_position_war": 3.8484444936878315e-05,
+    "new_total_war": 3.8484444936878315e-05,
+    "non_steal_advancement_runs": 0.00039395429382244035,
+    "old_position_war": 0.0,
+    "old_total_war": 0.0,
+    "player": "Kaiah Altmeyer",
+    "player_key": "kaiahaltmeyer",
+    "position_war_change": 3.8484444936878315e-05,
+    "sb_cs_runs": 0.0,
+    "teams": [
+      "Texas Volts"
+    ],
+    "total_war_change": 3.8484444936878315e-05
+  }
+]

@@ -1,0 +1,167 @@
+canonical_id,fielding_team,pitchers,target_outs,optimal_paths,ambiguous_blocks,changed_plate_appearances
+ausl-2025-03c853891d304eb7,AUSL Blaze,"[""Emma Lemley"", ""Aliyah Binford"", ""Devyn Netz""]","[9, 3, 6]",1,0,4
+ausl-2025-03c853891d304eb7,AUSL Talons,"[""Megan Faraimo"", ""Mariah Lopez"", ""Raelin Chaffin"", ""Georgina Corrick""]","[4, 1, 11, 5]",1,0,7
+ausl-2025-0c0fbffe84135ce2,AUSL Bandits,"[""Sarah Willis"", ""Emiley Kennedy"", ""Taylor McQuillin""]","[0, 14, 7]",1,0,7
+ausl-2025-0c0fbffe84135ce2,AUSL Blaze,"[""Aleshia Ocasio""]",[21],1,0,0
+ausl-2025-0c5f4aa5f4e29034,AUSL Blaze,"[""Emma Lemley"", ""Keilani Ricketts""]","[15, 6]",1,0,0
+ausl-2025-0c5f4aa5f4e29034,AUSL Volts,"[""Sam Landry"", ""Rachel Garcia""]","[13, 5]",1,0,6
+ausl-2025-11017d17ccf3a918,AUSL Blaze,"[""Emma Lemley"", ""Brooke McCubbin"", ""Hope Trautwein-Valdespino"", ""Keilani Ricketts""]","[3, 8, 7, 3]",1,0,4
+ausl-2025-11017d17ccf3a918,AUSL Talons,"[""Megan Faraimo"", ""Lauren Derkowski"", ""Mariah Lopez"", ""Raelin Chaffin"", ""Montana Fouts""]","[10, 3, 2, 3, 3]",8,13,16
+ausl-2025-1560424f1dabc9bb,AUSL Bandits,"[""Devyn Netz"", ""Odicci Alexander"", ""Taylor McQuillin""]","[6, 12, 3]",1,0,8
+ausl-2025-1560424f1dabc9bb,AUSL Talons,"[""Lauren Derkowski"", ""Raelin Chaffin"", ""Montana Fouts""]","[9, 9, 3]",1,0,3
+ausl-2025-17b229c1b5b405cf,AUSL Blaze,"[""Keilani Ricketts"", ""Hope Trautwein-Valdespino"", ""Brooke McCubbin""]","[11, 9, 1]",1,0,0
+ausl-2025-17b229c1b5b405cf,AUSL Volts,"[""Mariah Mazón"", ""Payton Gotshall""]","[9, 12]",1,0,3
+ausl-2025-29e173a5d3875b10,AUSL Bandits,"[""Sarah Willis"", ""Emiley Kennedy"", ""Taylor McQuillin"", ""Lexi Kilfoyl""]","[6, 4, 8, 3]",1,0,10
+ausl-2025-29e173a5d3875b10,AUSL Volts,"[""Mariah Mazón"", ""Sam Show"", ""Payton Gotshall""]","[3, 7, 11]",1,0,17
+ausl-2025-2d89e837d661d280,AUSL Talons,"[""Raelin Chaffin"", ""Megan Faraimo""]","[9, 12]",1,0,2
+ausl-2025-2d89e837d661d280,AUSL Volts,"[""Mariah Mazón"", ""Sam Show"", ""Sam Landry""]","[7, 4, 7]",1,0,4
+ausl-2025-31be0813d7d85a82,AUSL Bandits,"[""Lexi Kilfoyl"", ""Odicci Alexander""]","[15, 5]",1,0,2
+ausl-2025-31be0813d7d85a82,AUSL Talons,"[""Megan Faraimo"", ""Georgina Corrick""]","[18, 3]",1,0,2
+ausl-2025-39aed3a0a15dcb51,AUSL Blaze,"[""Emma Lemley"", ""Aleshia Ocasio"", ""Alana Vawter""]","[9, 6, 3]",1,0,6
+ausl-2025-39aed3a0a15dcb51,AUSL Volts,"[""Rachel Garcia"", ""Payton Gotshall""]","[12, 9]",1,0,3
+ausl-2025-3b8fb90d2fbdf314,AUSL Bandits,"[""Sarah Willis"", ""Odicci Alexander"", ""Taylor McQuillin""]","[4, 6, 11]",1,0,8
+ausl-2025-3b8fb90d2fbdf314,AUSL Blaze,"[""Aliyah Binford"", ""Aleshia Ocasio"", ""Emma Lemley"", ""Alana Vawter""]","[5, 4, 9, 3]",1,0,7
+ausl-2025-3c027045ee1f0b27,AUSL Talons,"[""Megan Faraimo"", ""Georgina Corrick""]","[19, 5]",1,0,2
+ausl-2025-3c027045ee1f0b27,AUSL Volts,"[""Sam Landry"", ""Mariah Mazón""]","[23, 1]",1,0,0
+ausl-2025-3e0f6d9570698503,AUSL Bandits,"[""Lexi Kilfoyl"", ""Taylor McQuillin""]","[12, 9]",1,0,0
+ausl-2025-3e0f6d9570698503,AUSL Talons,"[""Montana Fouts"", ""Mariah Lopez""]","[12, 6]",1,0,6
+ausl-2025-40b2b02c0febd1f0,AUSL Bandits,"[""Lexi Kilfoyl"", ""Odicci Alexander""]","[18, 6]",1,0,4
+ausl-2025-40b2b02c0febd1f0,AUSL Blaze,"[""Aleshia Ocasio"", ""Alana Vawter"", ""Aliyah Binford"", ""Emma Lemley""]","[3, 10, 6, 3]",3,2,10
+ausl-2025-41e8a589154ad199,AUSL Bandits,"[""Lexi Kilfoyl"", ""Odicci Alexander"", ""Sarah Willis"", ""Emiley Kennedy""]","[6, 1, 8, 3]",1,0,7
+ausl-2025-41e8a589154ad199,AUSL Talons,"[""Montana Fouts"", ""Raelin Chaffin""]","[9, 12]",1,0,0
+ausl-2025-487b21d788da8a4f,AUSL Bandits,"[""Emiley Kennedy"", ""Devyn Netz""]","[10, 8]",1,0,0
+ausl-2025-487b21d788da8a4f,AUSL Volts,"[""Rachel Garcia""]",[21],1,0,0
+ausl-2025-4d8268ae9282de9e,AUSL Bandits,"[""Lexi Kilfoyl"", ""Odicci Alexander""]","[12, 15]",1,0,4
+ausl-2025-4d8268ae9282de9e,AUSL Volts,"[""Sam Landry"", ""Rachel Garcia""]","[11, 15]",1,0,1
+ausl-2025-50a59ac70736572d,AUSL Blaze,"[""Aliyah Binford"", ""Devyn Netz"", ""Keilani Ricketts""]","[9, 5, 7]",1,0,5
+ausl-2025-50a59ac70736572d,AUSL Volts,"[""Sam Landry"", ""Payton Gotshall""]","[12, 9]",1,0,1
+ausl-2025-5731f8f564a5deb5,AUSL Blaze,"[""Alana Vawter"", ""Keilani Ricketts"", ""Emma Lemley""]","[6, 9, 6]",1,0,2
+ausl-2025-5731f8f564a5deb5,AUSL Volts,"[""Mariah Mazón"", ""Sam Show"", ""Payton Gotshall"", ""Sam Landry""]","[6, 6, 6, 3]",1,0,3
+ausl-2025-5d0a04645769dc45,AUSL Blaze,"[""Keilani Ricketts"", ""Emma Lemley""]","[11, 10]",1,0,4
+ausl-2025-5d0a04645769dc45,AUSL Talons,"[""Montana Fouts"", ""Megan Faraimo""]","[18, 3]",1,0,0
+ausl-2025-5ef5cb37be8c4c36,AUSL Blaze,"[""Alana Vawter"", ""Emma Lemley""]","[10, 2]",1,0,0
+ausl-2025-5ef5cb37be8c4c36,AUSL Talons,"[""Megan Faraimo""]",[15],1,0,0
+ausl-2025-77a89e65051de7cd,AUSL Blaze,"[""Aleshia Ocasio"", ""Emma Lemley"", ""Keilani Ricketts""]","[10, 9, 2]",1,0,5
+ausl-2025-77a89e65051de7cd,AUSL Talons,"[""Raelin Chaffin"", ""Megan Faraimo"", ""Mariah Lopez""]","[11, 7, 3]",1,0,5
+ausl-2025-7ac9f8836b521485,AUSL Bandits,"[""Odicci Alexander"", ""Emiley Kennedy"", ""Lexi Kilfoyl""]","[7, 5, 9]",1,0,2
+ausl-2025-7ac9f8836b521485,AUSL Volts,"[""Rachel Garcia"", ""Payton Gotshall"", ""Sam Show""]","[10, 6, 5]",1,0,10
+ausl-2025-7f64752e73f89966,AUSL Talons,"[""Raelin Chaffin"", ""Mariah Lopez"", ""Georgina Corrick""]","[15, 5, 1]",1,0,0
+ausl-2025-7f64752e73f89966,AUSL Volts,"[""Payton Gotshall"", ""Rachel Garcia"", ""Sam Show"", ""Mariah Mazón""]","[7, 10, 2, 2]",1,0,1
+ausl-2025-8f9abf551ebf50a0,AUSL Bandits,"[""Devyn Netz"", ""Lexi Kilfoyl"", ""Taylor McQuillin""]","[4, 11, 1]",1,0,2
+ausl-2025-8f9abf551ebf50a0,AUSL Blaze,"[""Hope Trautwein-Valdespino"", ""Alana Vawter""]","[3, 15]",1,0,0
+ausl-2025-9214d61e910e42df,AUSL Blaze,"[""Alana Vawter"", ""Emma Lemley""]","[13, 5]",1,0,0
+ausl-2025-9214d61e910e42df,AUSL Volts,"[""Rachel Garcia""]",[21],1,0,0
+ausl-2025-97624070dd6bf1fe,AUSL Blaze,"[""Aleshia Ocasio"", ""Emma Lemley"", ""Brooke McCubbin""]","[17, 4, 3]",1,0,16
+ausl-2025-97624070dd6bf1fe,AUSL Volts,"[""Rachel Garcia""]",[24],1,0,0
+ausl-2025-9dd3560aa9c4150d,AUSL Bandits,"[""Odicci Alexander"", ""Emiley Kennedy"", ""Lexi Kilfoyl""]","[6, 6, 3]",1,0,4
+ausl-2025-9dd3560aa9c4150d,AUSL Talons,"[""Mariah Lopez"", ""Montana Fouts"", ""Lauren Derkowski"", ""Raelin Chaffin""]","[3, 6, 3, 1]",1,0,6
+ausl-2025-a90cda2a506a8254,AUSL Bandits,"[""Sarah Willis"", ""Taylor McQuillin""]","[12, 9]",1,0,0
+ausl-2025-a90cda2a506a8254,AUSL Volts,"[""Rachel Garcia"", ""Payton Gotshall""]","[0, 18]",1,0,4
+ausl-2025-a94876c9855e5c1b,AUSL Talons,"[""Georgina Corrick""]",[21],1,0,0
+ausl-2025-a94876c9855e5c1b,AUSL Volts,"[""Rachel Garcia"", ""Payton Gotshall""]","[13, 8]",1,0,3
+ausl-2025-c9da8860118ff2a2,AUSL Bandits,"[""Odicci Alexander"", ""Sarah Willis""]","[12, 6]",1,0,1
+ausl-2025-c9da8860118ff2a2,AUSL Talons,"[""Megan Faraimo"", ""Raelin Chaffin"", ""Mariah Lopez"", ""Elena Escobar""]","[6, 2, 4, 6]",4,3,13
+ausl-2025-d6ce7f42a0f63c17,AUSL Talons,"[""Raelin Chaffin"", ""Megan Faraimo""]","[12, 9]",1,0,0
+ausl-2025-d6ce7f42a0f63c17,AUSL Volts,"[""Sam Show"", ""Rachel Garcia""]","[6, 15]",1,0,0
+ausl-2025-d712820ab5686f4e,AUSL Talons,"[""Georgina Corrick""]",[21],1,0,0
+ausl-2025-d712820ab5686f4e,AUSL Volts,"[""Sam Landry"", ""Payton Gotshall""]","[12, 6]",1,0,0
+ausl-2025-e010dee43a565f86,AUSL Blaze,"[""Alana Vawter"", ""Keilani Ricketts""]","[12, 6]",1,0,2
+ausl-2025-e010dee43a565f86,AUSL Talons,"[""Georgina Corrick"", ""Montana Fouts""]","[12, 9]",1,0,1
+ausl-2025-e23d1ecc674f7a54,AUSL Bandits,"[""Emiley Kennedy"", ""Devyn Netz""]","[11, 10]",1,0,1
+ausl-2025-e23d1ecc674f7a54,AUSL Volts,"[""Mariah Mazón"", ""Payton Gotshall""]","[4, 14]",1,0,4
+ausl-2025-e78cb576505a9770,AUSL Bandits,"[""Taylor McQuillin"", ""Lexi Kilfoyl""]","[9, 14]",1,0,1
+ausl-2025-e78cb576505a9770,AUSL Talons,"[""Georgina Corrick"", ""Raelin Chaffin""]","[15, 9]",1,0,0
+ausl-2025-f5aa3c6a2f1972fe,AUSL Bandits,"[""Lexi Kilfoyl"", ""Odicci Alexander"", ""Taylor McQuillin""]","[9, 9, 3]",1,0,3
+ausl-2025-f5aa3c6a2f1972fe,AUSL Blaze,"[""Emma Lemley""]",[21],1,0,0
+ausl-2025-f92fdc3f3b625344,AUSL Bandits,"[""Taylor McQuillin"", ""Sarah Willis""]","[9, 6]",1,0,0
+ausl-2025-f92fdc3f3b625344,AUSL Blaze,"[""Alana Vawter"", ""Brooke Yanez"", ""Hope Trautwein-Valdespino""]","[8, 2, 5]",1,0,0
+ausl-2026-00d72870d15ca8fa,Carolina Blaze,"[""Karlyn Pickens""]",[15],1,0,0
+ausl-2026-00d72870d15ca8fa,Portland Cascade,"[""Sam Landry"", ""Payton Gottshall"", ""Mariah Mazon""]","[8, 3, 1]",2,2,5
+ausl-2026-07f968f1ddba7f9e,Chicago Bandits,"[""Kat Sandercock"", ""Amber Fiser"", ""Taylor McQuillin"", ""Lexi Kilfoyl""]","[12, 3, 0, 6]",1,0,1
+ausl-2026-07f968f1ddba7f9e,Oklahoma City Spark,"[""Maya Johnson"", ""Jailyn Ford"", ""Alana Vawter"", ""Maddie Penta""]","[3, 10, 5, 3]",1,0,6
+ausl-2026-0ab2caaab52a1239,Texas Volts,"[""NiJaree Canady"", ""Aliyah Binford"", ""Sydney Berzon""]","[15, 3, 3]",1,0,0
+ausl-2026-0ab2caaab52a1239,Utah Talons,"[""Megan Faraimo""]",[21],1,0,0
+ausl-2026-1279d891a356ac3f,Oklahoma City Spark,"[""Maya Johnson""]",[18],1,0,0
+ausl-2026-1279d891a356ac3f,Texas Volts,"[""Rachel Garcia"", ""Aliyah Binford"", ""Jessica Mullins""]","[5, 8, 3]",1,0,1
+ausl-2026-1c3b23d2b40ccb11,Carolina Blaze,"[""Karlyn Pickens""]",[18],1,0,0
+ausl-2026-1c3b23d2b40ccb11,Texas Volts,"[""Jessica Mullins"", ""NiJaree Canady""]","[10, 7]",1,0,3
+ausl-2026-1d90d44046b872f3,Carolina Blaze,"[""Jala Wright"", ""Devyn Netz"", ""Keilani Ricketts""]","[4, 8, 6]",1,0,3
+ausl-2026-1d90d44046b872f3,Chicago Bandits,"[""Amber Fiser"", ""Taylor McQuillin""]","[16, 5]",1,0,3
+ausl-2026-1f0d2a98bd8af5d0,Oklahoma City Spark,"[""Ruby Meylan"", ""Cassidy Curd"", ""Peja Goold""]","[9, 7, 5]",1,0,4
+ausl-2026-1f0d2a98bd8af5d0,Texas Volts,"[""Alyssa Denham"", ""Rachel Garcia""]","[18, 3]",1,0,0
+ausl-2026-2afa123c443e6ef1,Chicago Bandits,"[""Amber Fiser"", ""Kat Sandercock""]","[9, 9]",1,0,5
+ausl-2026-2afa123c443e6ef1,Texas Volts,"[""Ally Carda"", ""Aliyah Binford""]","[9, 12]",1,0,0
+ausl-2026-40e57742130c93ca,Chicago Bandits,"[""Lexi Kilfoyl"", ""Emiley Kennedy""]","[12, 3]",1,0,2
+ausl-2026-40e57742130c93ca,Portland Cascade,"[""Sam Landry"", ""Payton Gottshall""]","[4, 8]",1,0,0
+ausl-2026-411d48ad1f32e729,Chicago Bandits,"[""Bri Copeland"", ""Mariah Lopez""]","[4, 11]",1,0,2
+ausl-2026-411d48ad1f32e729,Oklahoma City Spark,"[""Maya Johnson"", ""Ruby Meylan""]","[12, 3]",1,0,0
+ausl-2026-43af7256fec38fef,Texas Volts,"[""Rachel Garcia"", ""Aliyah Binford""]","[12, 9]",1,0,0
+ausl-2026-43af7256fec38fef,Utah Talons,"[""Montana Fouts""]",[21],1,0,0
+ausl-2026-49c63461dad3d039,Chicago Bandits,"[""Taylor McQuillin"", ""Bri Copeland"", ""Emiley Kennedy""]","[12, 3, 3]",1,0,2
+ausl-2026-49c63461dad3d039,Texas Volts,"[""NiJaree Canady"", ""Aliyah Binford""]","[12, 9]",1,0,0
+ausl-2026-4d78434658678802,Chicago Bandits,"[""Amber Fiser""]",[18],1,0,0
+ausl-2026-4d78434658678802,Oklahoma City Spark,"[""Peja Goold"", ""Cassidy Curd"", ""Lyndsey Grein""]","[4, 7, 6]",1,0,2
+ausl-2026-4fb9c31739b3dc79,Chicago Bandits,"[""Amber Fiser"", ""Odicci Alexander-Bennett""]","[12, 6]",1,0,3
+ausl-2026-4fb9c31739b3dc79,Utah Talons,"[""Montana Fouts""]",[21],1,0,0
+ausl-2026-564d56163b693743,Oklahoma City Spark,"[""Lyndsey Grein"", ""Maya Johnson"", ""Cassidy Curd"", ""Peja Goold""]","[6, 7, 5, 3]",1,0,2
+ausl-2026-564d56163b693743,Texas Volts,"[""Aliyah Binford"", ""Rachel Garcia""]","[10, 10]",1,0,0
+ausl-2026-5e1d130211e5aabd,Carolina Blaze,"[""Emma Lemley"", ""Jala Wright""]","[12, 9]",1,0,0
+ausl-2026-5e1d130211e5aabd,Utah Talons,"[""Montana Fouts""]",[21],1,0,0
+ausl-2026-5e63fe1d99d3db0c,Carolina Blaze,"[""Aleshia Ocasio"", ""Keilani Ricketts"", ""Emma Lemley"", ""Karlyn Pickens""]","[8, 7, 3, 9]",1,0,8
+ausl-2026-5e63fe1d99d3db0c,Texas Volts,"[""Rachel Garcia"", ""Aliyah Binford"", ""Jessica Mullins""]","[18, 1, 5]",1,0,2
+ausl-2026-620672750a40e4c9,Chicago Bandits,"[""Mariah Lopez"", ""Amber Fiser"", ""Odicci Alexander-Bennett"", ""Bri Copeland""]","[6, 9, 6, 1]",1,0,3
+ausl-2026-620672750a40e4c9,Utah Talons,"[""Megan Faraimo"", ""Montana Fouts""]","[15, 9]",1,0,0
+ausl-2026-62b06a142846270a,Carolina Blaze,"[""Aleshia Ocasio"", ""Keilani Ricketts""]","[12, 9]",1,0,1
+ausl-2026-62b06a142846270a,Portland Cascade,"[""Kelly Maxwell"", ""Mariah Mazon"", ""Payton Gottshall""]","[11, 4, 3]",1,0,7
+ausl-2026-63f7bfc816fcc6ec,Portland Cascade,"[""Sam Landry""]",[21],1,0,0
+ausl-2026-63f7bfc816fcc6ec,Texas Volts,"[""Rachel Garcia"", ""Jessica Mullins""]","[20, 1]",1,0,0
+ausl-2026-6578cc114b9c1adf,Carolina Blaze,"[""Aleshia Ocasio"", ""Keilani Ricketts"", ""Karlyn Pickens""]","[12, 3, 6]",1,0,0
+ausl-2026-6578cc114b9c1adf,Utah Talons,"[""Megan Faraimo"", ""Dallas Escobedo Magee""]","[4, 14]",1,0,3
+ausl-2026-688ade051c6a8cc7,Portland Cascade,"[""Kenzie Brown"", ""Payton Gottshall""]","[7, 14]",1,0,0
+ausl-2026-688ade051c6a8cc7,Texas Volts,"[""NiJaree Canady"", ""Aliyah Binford"", ""Jessica Mullins""]","[10, 7, 4]",1,0,1
+ausl-2026-7a2532058c5a7568,Carolina Blaze,"[""Keilani Ricketts"", ""Emma Lemley"", ""Aleshia Ocasio""]","[3, 9, 6]",1,0,9
+ausl-2026-7a2532058c5a7568,Chicago Bandits,"[""Amber Fiser""]",[21],1,0,0
+ausl-2026-80fda7ca05b7c2e8,Texas Volts,"[""Jessica Mullins"", ""Sydney Berzon"", ""Rachel Garcia""]","[9, 3, 9]",1,0,10
+ausl-2026-80fda7ca05b7c2e8,Utah Talons,"[""Taylor Tinsley""]",[21],1,0,0
+ausl-2026-9dc65ffe33b04861,Oklahoma City Spark,"[""Maya Johnson"", ""Maddie Penta"", ""Jailyn Ford""]","[7, 5, 6]",1,0,0
+ausl-2026-9dc65ffe33b04861,Utah Talons,"[""Megan Faraimo"", ""Georgina Corrick""]","[15, 6]",1,0,1
+ausl-2026-a0a1f3e31a5b107e,Portland Cascade,"[""Kelly Maxwell"", ""Sam Landry""]","[19, 2]",1,0,0
+ausl-2026-a0a1f3e31a5b107e,Utah Talons,"[""Megan Faraimo""]",[21],1,0,0
+ausl-2026-a14aa0af904e9067,Oklahoma City Spark,"[""Ruby Meylan"", ""Peja Goold"", ""Lyndsey Grein"", ""Alana Vawter""]","[7, 1, 6, 4]",5,14,14
+ausl-2026-a14aa0af904e9067,Utah Talons,"[""Montana Fouts""]",[21],1,0,0
+ausl-2026-a24cb00a6bb34b2e,Chicago Bandits,"[""Kat Sandercock""]",[15],1,0,0
+ausl-2026-a24cb00a6bb34b2e,Portland Cascade,"[""Kenzie Brown"", ""Carley Hoover"", ""Kelly Maxwell""]","[5, 7, 1]",1,0,1
+ausl-2026-ac943b3c9f410a72,Carolina Blaze,"[""Karlyn Pickens""]",[15],1,0,0
+ausl-2026-ac943b3c9f410a72,Chicago Bandits,"[""Taylor McQuillin"", ""Amber Fiser"", ""Mariah Lopez""]","[7, 2, 6]",1,0,0
+ausl-2026-bbf7ed91bb6f0009,Portland Cascade,"[""Kenzie Brown""]",[21],1,0,0
+ausl-2026-bbf7ed91bb6f0009,Utah Talons,"[""Montana Fouts""]",[21],1,0,0
+ausl-2026-c350c2a4bba176ef,Carolina Blaze,"[""Karlyn Pickens"", ""Keilani Ricketts""]","[9, 12]",1,0,12
+ausl-2026-c350c2a4bba176ef,Oklahoma City Spark,"[""Maya Johnson"", ""Lyndsey Grein"", ""Jailyn Ford""]","[14, 4, 3]",1,0,0
+ausl-2026-c3cfee37ee995d4a,Chicago Bandits,"[""Lexi Kilfoyl""]",[15],1,0,0
+ausl-2026-c3cfee37ee995d4a,Oklahoma City Spark,"[""Jailyn Ford"", ""Maddie Penta"", ""Alana Vawter"", ""Peja Goold""]","[11, 1, 2, 1]",1,0,1
+ausl-2026-ca1589268361bd28,Chicago Bandits,"[""Taylor McQuillin"", ""Bri Copeland""]","[8, 10]",1,0,5
+ausl-2026-ca1589268361bd28,Utah Talons,"[""Sarah Willis"", ""Megan Faraimo""]","[15, 6]",1,0,1
+ausl-2026-d099954173c2e103,Texas Volts,"[""Rachel Garcia"", ""Aliyah Binford"", ""Ally Carda""]","[9, 5, 4]",1,0,5
+ausl-2026-d099954173c2e103,Utah Talons,"[""Montana Fouts"", ""Megan Faraimo""]","[18, 3]",1,0,1
+ausl-2026-d5738e68857ab5e7,Oklahoma City Spark,"[""Maya Johnson"", ""Ruby Meylan""]","[14, 4]",1,0,0
+ausl-2026-d5738e68857ab5e7,Portland Cascade,"[""Sam Landry""]",[21],1,0,0
+ausl-2026-d8caf7d2326f0426,Texas Volts,"[""NiJaree Canady"", ""Aliyah Binford"", ""Ally Carda""]","[8, 3, 7]",1,0,9
+ausl-2026-d8caf7d2326f0426,Utah Talons,"[""Georgina Corrick""]",[21],1,0,0
+ausl-2026-d94dca75a1b579a5,Carolina Blaze,"[""Karlyn Pickens"", ""Keilani Ricketts""]","[22, 2]",1,0,5
+ausl-2026-d94dca75a1b579a5,Utah Talons,"[""Georgina Corrick""]",[24],1,0,0
+ausl-2026-da3f0d324b2114b2,Portland Cascade,"[""Kelly Maxwell"", ""Carley Hoover""]","[6, 15]",1,0,0
+ausl-2026-da3f0d324b2114b2,Texas Volts,"[""Ally Carda"", ""Jessica Mullins"", ""Aliyah Binford""]","[10, 3, 8]",1,0,7
+ausl-2026-df00aee444a8828c,Carolina Blaze,"[""Keilani Ricketts"", ""Karlyn Pickens""]","[12, 9]",1,0,0
+ausl-2026-df00aee444a8828c,Utah Talons,"[""Taylor Tinsley"", ""Georgina Corrick""]","[0, 21]",1,0,1
+ausl-2026-e42f4f113f566877,Oklahoma City Spark,"[""Cassidy Curd"", ""Lyndsey Grein"", ""Peja Goold""]","[7, 8, 6]",1,0,16
+ausl-2026-e42f4f113f566877,Portland Cascade,"[""Kelly Maxwell"", ""Payton Gottshall""]","[7, 14]",1,0,0
+ausl-2026-ea33a654a1bc5c26,Chicago Bandits,"[""Odicci Alexander-Bennett"", ""Taylor McQuillin""]","[12, 9]",1,0,1
+ausl-2026-ea33a654a1bc5c26,Oklahoma City Spark,"[""Ruby Meylan"", ""Maya Johnson""]","[4, 15]",1,0,0
+ausl-2026-ec795573890de580,Portland Cascade,"[""Sam Landry""]",[21],1,0,0
+ausl-2026-ec795573890de580,Utah Talons,"[""Sarah Willis"", ""Dallas Escobedo Magee""]","[12, 9]",1,0,2
+ausl-2026-f7f9b54250efa7fa,Carolina Blaze,"[""Aleshia Ocasio"", ""Jala Wright"", ""Devyn Netz""]","[6, 6, 6]",2,1,5
+ausl-2026-f7f9b54250efa7fa,Oklahoma City Spark,"[""Maddie Penta"", ""Jailyn Ford""]","[12, 9]",1,0,0
+ausl-2026-f9c8f732ec4c70fa,Oklahoma City Spark,"[""Maya Johnson"", ""Peja Goold"", ""Cassidy Curd"", ""Lyndsey Grein"", ""Ruby Meylan""]","[4, 1, 1, 13, 2]",1,0,8
+ausl-2026-f9c8f732ec4c70fa,Portland Cascade,"[""Kenzie Brown"", ""Sam Landry""]","[18, 3]",1,0,0
+ausl-2026-fcb96c9ef665f7f6,Carolina Blaze,"[""Jala Wright"", ""Emma Lemley"", ""Keilani Ricketts"", ""Devyn Netz""]","[3, 1, 8, 3]",1,0,0
+ausl-2026-fcb96c9ef665f7f6,Portland Cascade,"[""Kenzie Brown""]",[15],1,0,0

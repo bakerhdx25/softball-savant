@@ -1,0 +1,12 @@
+.DS_Store
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/.venv/
+collector/node_modules/
+collector/user_data/
+collector/reports/gc-token.json
+collector/error_screenshot.png
+ausl-scouting-web/output/pdf/
+ausl-scouting-web/tmp/
+

@@ -1,0 +1,71 @@
+{
+  "bootstrap_replicates": 300,
+  "completed_games": 45,
+  "league_ip": 583.3333333333334,
+  "league_ra7": 4.787999999999999,
+  "league_runs": 399,
+  "park_factor": 1.0,
+  "pitching": {
+    "coefficients": {
+      "BB_HBP": 2.3333333333333335,
+      "HR": 10.11111111111111,
+      "K_IFFB": -1.5555555555555556
+    },
+    "fip_constant": 2.245333333333332,
+    "league_era7": 4.007999999999999,
+    "league_fip7": 4.007999999999999,
+    "league_ip": 583.3333333333334,
+    "league_ra7": 4.787999999999999,
+    "leverage_adjustment": "unavailable",
+    "replacement_pitcher_wins": 7.962962962962963,
+    "replacement_runs_per_ip": 0.13899238095238092
+  },
+  "position_replacement_wins": 10.555555555555555,
+  "replacement_runs_per_pa": 0.03986523244312561,
+  "replacement_sensitivity": [
+    {
+      "league_total_war": 22.5,
+      "pitcher_war_pool_43pct": 9.675,
+      "position_player_war_pool_57pct": 12.825,
+      "replacement_winning_percentage": 0.25
+    },
+    {
+      "league_total_war": 18.540000000000003,
+      "pitcher_war_pool_43pct": 7.972200000000001,
+      "position_player_war_pool_57pct": 10.5678,
+      "replacement_winning_percentage": 0.294
+    },
+    {
+      "league_total_war": 13.500000000000002,
+      "pitcher_war_pool_43pct": 5.805000000000001,
+      "position_player_war_pool_57pct": 7.695,
+      "replacement_winning_percentage": 0.35
+    }
+  ],
+  "runs_per_win": 10.181999999999999,
+  "season": 2026,
+  "snapshot_id": "20260704T165430Z",
+  "woba": {
+    "calibration_pa": 2668,
+    "league_obp": 0.35794602698650674,
+    "league_woba": 0.35794602698650674,
+    "out_run_value": -0.36378471780135246,
+    "raw_weights": {
+      "double": 1.1374824137660382,
+      "hit_by_pitch": 0.7231384784405086,
+      "home_run": 1.8190260091994483,
+      "single": 0.8757787501512768,
+      "triple": 1.2362588206338678,
+      "walk": 0.7289404991450831
+    },
+    "scaled_weights": {
+      "double": 1.2006592469065696,
+      "hit_by_pitch": 0.7633022633369058,
+      "home_run": 1.9200564086770067,
+      "single": 0.9244203179651864,
+      "triple": 1.3049217874494239,
+      "walk": 0.7694265336776018
+    },
+    "woba_scale": 1.0555409317770128
+  }
+}
