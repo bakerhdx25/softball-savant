@@ -95,6 +95,8 @@ class SoftballSavantBuildTests(unittest.TestCase):
         self.assertIn("Times Through the Order", self.javascript)
         for label in ("Off WAR", "Def WAR", "wOBA", "wRAA", "BsR", "Range Runs", "Arm Runs", "RAA", "RA7", "ERA", "FIP", "ERA − FIP"):
             self.assertIn(label, self.javascript)
+        for removed_label in ("Hit Runs", "Lg Adj Runs", "Repl Runs", "Pos Adj Runs", "Raw BsR Runs", "Throwing Runs", "Arm Opp", "Total Def WAR", "Flags"):
+            self.assertNotIn(removed_label, self.javascript)
 
     def test_responsive_shell_and_mobile_navigation_exist(self):
         self.assertIn("@media (max-width: 760px)", self.css)
