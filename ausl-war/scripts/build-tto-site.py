@@ -10,6 +10,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "output" / "tto" / "plate_appearances.json"
+SUMMARY = ROOT / "output" / "tto" / "summary.json"
 DESTINATION = ROOT / "output" / "tto" / "player-explorer.html"
 HEADSHOT_SOURCES = (
     ROOT / "output" / "headshots_2026.json",
@@ -76,6 +77,12 @@ def team_name(value: str) -> str:
     return (value or "Unknown").replace("AUSL ", "").strip()
 
 
+def summary_metadata() -> dict[str, Any]:
+    if not SUMMARY.exists():
+        return {}
+    return json.loads(SUMMARY.read_text(encoding="utf-8"))
+
+
 def grouped_stats(
     rows: list[dict[str, Any]], labels: tuple[str, ...], classifier
 ) -> list[dict[str, Any]]:
@@ -131,6 +138,7 @@ def period_payload(rows: list[dict[str, Any]]) -> dict[str, Any]:
 
 
 def build_payload(rows: list[dict[str, Any]]) -> dict[str, Any]:
+    summary = summary_metadata()
     headshots: dict[str, dict[str, Any]] = {}
     for source in reversed(HEADSHOT_SOURCES):
         if source.exists():
@@ -185,11 +193,14 @@ def build_payload(rows: list[dict[str, Any]]) -> dict[str, Any]:
         league[period] = period_payload(selected)
     return {
         "meta": {
-            "snapshot": "20260704T165430Z",
+            "snapshot": summary.get("snapshot_id"),
             "plate_appearances": len(rows),
             "games": len({row["canonical_id"] for row in rows}),
             "pitchers": len(players),
             "league_logo": LEAGUE_LOGO,
+            "official_completed_games": summary.get("official_completed_games"),
+            "validation_passed": summary.get("validation_passed"),
+            "pitch_text_coverage": summary.get("pitch_text_coverage"),
         },
         "league": league,
         "teams": teams,
@@ -307,7 +318,7 @@ HTML = r'''<!doctype html>
   <main class="shell">
     <div class="topline">
       <div class="brand">AUSL <span>TTO Lab</span></div>
-      <div class="snapshot">2025–26 · 98 completed games</div>
+      <div class="snapshot">__SUMMARY_LABEL__</div>
     </div>
     <header class="hero">
       <p class="eyebrow">AUSL pitching research</p>
@@ -499,7 +510,11 @@ def main() -> None:
     rows = json.loads(SOURCE.read_text(encoding="utf-8"))
     payload = build_payload(rows)
     serialized = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    DESTINATION.write_text(HTML.replace("__DATA__", serialized), encoding="utf-8")
+    summary_label = f"2025–26 · {payload['meta']['games']:,} completed games"
+    DESTINATION.write_text(
+        HTML.replace("__DATA__", serialized).replace("__SUMMARY_LABEL__", summary_label),
+        encoding="utf-8",
+    )
     print(
         f"Wrote {DESTINATION} ({len(payload['players'])} pitchers, "
         f"{payload['meta']['plate_appearances']:,} PA)"

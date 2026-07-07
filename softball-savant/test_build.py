@@ -1,8 +1,19 @@
 import json
 import math
 import unittest
+from collections import defaultdict
 from pathlib import Path
-from build import CONTACT_EVENT_TYPES, field_location, parse_pitch_sequence
+from build import (
+    CONTACT_EVENT_TYPES,
+    NORMALIZED_EVENTS_SOURCE,
+    OFFICIAL_EVENTS_SOURCE,
+    PA_SOURCE,
+    TEAM_META,
+    field_location,
+    number,
+    parse_pitch_sequence,
+    team_key,
+)
 
 
 ROOT = Path(__file__).resolve().parent
@@ -143,6 +154,146 @@ class SoftballSavantBuildTests(unittest.TestCase):
         self.assertEqual(site_spray_total("2025"), official_located_contact(2025))
         self.assertEqual(site_spray_total("combined"), official_located_contact())
         self.assertGreater(site_spray_total("2026"), 2000)
+
+    def test_tto_payload_reconciles_to_current_source_snapshot_and_periods(self):
+        plate_appearances = json.loads(PA_SOURCE.read_text(encoding="utf-8"))
+        summary = json.loads(
+            (ROOT.parent / "ausl-war" / "output" / "tto" / "summary.json").read_text(
+                encoding="utf-8"
+            )
+        )
+        tto = self.site["tto"]
+
+        self.assertEqual(tto["meta"]["snapshot"], self.site["meta"]["snapshot"])
+        self.assertEqual(tto["meta"]["snapshot"], summary["snapshot_id"])
+        self.assertEqual(tto["meta"]["plate_appearances"], len(plate_appearances))
+        self.assertEqual(tto["meta"]["plate_appearances"], summary["plate_appearances"])
+        self.assertEqual(tto["meta"]["games"], len({row["canonical_id"] for row in plate_appearances}))
+        self.assertEqual(tto["meta"]["games"], summary["games"])
+        self.assertTrue(tto["meta"]["validation_passed"])
+
+        period_seasons = {"combined": {2025, 2026}, "2025": {2025}, "2026": {2026}}
+        for period, seasons in period_seasons.items():
+            source_rows = [row for row in plate_appearances if row["season"] in seasons]
+            self.assertEqual(tto["league"][period]["PA"], len(source_rows))
+            self.assertEqual(
+                tto["league"][period]["games"], len({row["canonical_id"] for row in source_rows})
+            )
+            self.assertEqual(
+                sum(row["PA"] for row in tto["league"][period]["same_game"]), len(source_rows)
+            )
+            self.assertEqual(
+                sum(row["PA"] for row in tto["league"][period]["prior_series"]), len(source_rows)
+            )
+            self.assertEqual(
+                sum(
+                    team["periods"][period]["PA"]
+                    for team in tto["teams"]
+                    if team["periods"].get(period)
+                ),
+                len(source_rows),
+            )
+            self.assertEqual(
+                sum(
+                    player["periods"][period]["PA"]
+                    for player in tto["players"]
+                    if player["periods"].get(period)
+                ),
+                len(source_rows),
+            )
+
+    def test_period_metadata_and_team_records_reconcile_to_official_events(self):
+        normalized_events = json.loads(NORMALIZED_EVENTS_SOURCE.read_text(encoding="utf-8"))
+        supplemental_events = json.loads(OFFICIAL_EVENTS_SOURCE.read_text(encoding="utf-8"))
+        plate_appearances = json.loads(PA_SOURCE.read_text(encoding="utf-8"))
+
+        period_seasons = {"2026": {2026}, "2025": {2025}, "combined": {2025, 2026}}
+        for period, seasons in period_seasons.items():
+            period_events = [
+                row
+                for row in [*normalized_events, *supplemental_events]
+                if row.get("season") in seasons
+            ]
+            period_pas = [row for row in plate_appearances if row.get("season") in seasons]
+            game_scores = defaultdict(lambda: defaultdict(int))
+            game_teams = defaultdict(set)
+
+            for event in period_events:
+                game_id = event["canonical_id"]
+                batting = team_key(event.get("batting_team"))
+                fielding = team_key(event.get("fielding_team"))
+                game_teams[game_id].update((batting, fielding))
+                game_scores[game_id][batting] += int(number(event.get("runs_scored")))
+
+            self.assertEqual(self.site["periods"][period]["meta"]["games"], len(game_teams))
+            self.assertEqual(
+                self.site["periods"][period]["meta"]["plateAppearances"], len(period_pas)
+            )
+
+            expected_by_team = {}
+            for key in TEAM_META:
+                games = [game_id for game_id, teams in game_teams.items() if key in teams]
+                wins = losses = ties = runs_for = runs_allowed = 0
+                for game_id in games:
+                    opponent = next(iter(game_teams[game_id] - {key}), None)
+                    scored = game_scores[game_id].get(key, 0)
+                    allowed = game_scores[game_id].get(opponent, 0)
+                    runs_for += scored
+                    runs_allowed += allowed
+                    wins += int(scored > allowed)
+                    losses += int(scored < allowed)
+                    ties += int(scored == allowed)
+                expected_by_team[key] = {
+                    "games": len(games),
+                    "record": {"wins": wins, "losses": losses, "ties": ties},
+                    "runs": runs_for,
+                    "runsAllowed": runs_allowed,
+                }
+
+            for team in self.site["periods"][period]["teams"]:
+                expected = expected_by_team[team["key"]]
+                self.assertEqual(team["games"], expected["games"], (period, team["key"]))
+                self.assertEqual(team["record"], expected["record"], (period, team["key"]))
+                self.assertEqual(team["summary"]["runs"], expected["runs"], (period, team["key"]))
+                self.assertEqual(
+                    team["summary"]["runsAllowed"], expected["runsAllowed"], (period, team["key"])
+                )
+
+    def test_leaderboards_preserve_all_source_war_rows_and_stats(self):
+        source_fields = {
+            "total_war",
+            "position_war",
+            "pitcher_war",
+            "offensive_war",
+            "defensive_war",
+            "baserunning_runs",
+            "range_runs",
+            "arm_runs",
+            "pitching_war",
+            "pitcher_defense_war",
+            "RA7",
+            "ERA",
+            "FIP",
+            "ERA_minus_FIP",
+            "teams",
+        }
+        for season in (2025, 2026):
+            source_rows = json.loads(
+                (ROOT.parent / "ausl-war" / "output" / f"combined_{season}.json").read_text(
+                    encoding="utf-8"
+                )
+            )
+            site_rows = self.site["leaderboards"][str(season)]
+            source_by_key = {row["player_key"]: row for row in source_rows}
+            site_by_key = {row["player_key"]: row for row in site_rows}
+
+            self.assertEqual(set(site_by_key), set(source_by_key))
+            for key, source in source_by_key.items():
+                row = site_by_key[key]
+                self.assertFalse(set(source) - set(row), key)
+                for field in source_fields:
+                    if field in source:
+                        self.assertEqual(row[field], source[field], (season, key, field))
 
     def test_matchup_data_reaches_player_pages(self):
         players = self.site["periods"]["2026"]["players"]
