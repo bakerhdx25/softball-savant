@@ -2,7 +2,7 @@ import json
 import math
 import unittest
 from pathlib import Path
-from build import parse_pitch_sequence
+from build import field_location, parse_pitch_sequence
 
 
 ROOT = Path(__file__).resolve().parent
@@ -111,6 +111,20 @@ class SoftballSavantBuildTests(unittest.TestCase):
         self.assertEqual(hbp[-1]["count"], "1-1")
         self.assertFalse(hbp[-1]["swing"])
         self.assertFalse(hbp[-1]["called"])
+
+    def test_official_spray_locations_include_shorthand_and_hits(self):
+        self.assertEqual(field_location("Morgan Zerkle doubled to left center (1-0 B)."), "Left Field")
+        self.assertEqual(field_location("Caroline Jacobsen singled up the middle (0-0)."), "Center Field")
+        self.assertEqual(field_location("Cori McMillan singled through the left side (1-1 FB)."), "Shortstop")
+        self.assertEqual(field_location("Skylar Wallace grounded out to 2b (0-0)."), "Second Base")
+        self.assertEqual(field_location("B Nickles-Camarena flied out to rf (1-1 BK)."), "Right Field")
+
+        total_spray = sum(
+            player["spray"]["total"]
+            for player in self.site["periods"]["2026"]["players"]
+            if player.get("spray")
+        )
+        self.assertGreater(total_spray, 2000)
 
     def test_matchup_data_reaches_player_pages(self):
         players = self.site["periods"]["2026"]["players"]

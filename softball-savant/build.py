@@ -110,6 +110,9 @@ ZONE_LABEL_ANCHORS = {
 }
 
 POSITION_ALIASES = (
+    ("1b", "First Base"), ("2b", "Second Base"), ("3b", "Third Base"),
+    ("ss", "Shortstop"), ("lf", "Left Field"), ("cf", "Center Field"),
+    ("rf", "Right Field"), ("p", "Pitcher"), ("c", "Catcher"),
     ("pitcher", "Pitcher"), ("catcher", "Catcher"),
     ("first baseman", "First Base"), ("first base", "First Base"),
     ("second baseman", "Second Base"), ("second base", "Second Base"),
@@ -223,8 +226,9 @@ def result_label(event_type: str) -> str:
 
 def get_play_location_search_text(play_text: str) -> str:
     match = re.search(
-        r"\b(?:singles?|doubles?|triples?|homers?|hits?|grounds?(?:\s+(?:out|into))?|"
-        r"lines?\s+out|flies?\s+out|pops?\s+out|bunts?|sacrifices?|reaches|walks?|strikes?\s+out)\b",
+        r"\b(?:singles?|singled|doubles?|doubled|triples?|tripled|homers?|homered|hits?|"
+        r"grounds?|grounded|lines?|lined|flies?|flied|pops?|popped|fouls?|fouled|"
+        r"out\s+at|bunts?|sacrifices?|reaches|reached|walks?|walked|strikes?\s+out|struck\s+out)\b",
         play_text,
     )
     return play_text[match.start():] if match else play_text
@@ -232,6 +236,23 @@ def get_play_location_search_text(play_text: str) -> str:
 
 def field_location(play_text: str) -> str | None:
     text = get_play_location_search_text((play_text or "").lower())
+    phrase_locations = (
+        ("left center", "Left Field"),
+        ("left-cent", "Left Field"),
+        ("right center", "Right Field"),
+        ("right-cent", "Right Field"),
+        ("up the middle", "Center Field"),
+        ("middle", "Center Field"),
+        ("left side", "Shortstop"),
+        ("right side", "Second Base"),
+        ("lf line", "Left Field"),
+        ("left field line", "Left Field"),
+        ("rf line", "Right Field"),
+        ("right field line", "Right Field"),
+    )
+    for phrase, canonical in phrase_locations:
+        if re.search(rf"\b{re.escape(phrase)}\b", text):
+            return canonical
     mentions = []
     for alias, canonical in POSITION_ALIASES:
         for match in re.finditer(rf"\b{re.escape(alias)}\b", text):
@@ -716,14 +737,17 @@ def build_period(period: str, base_teams: list[dict[str, Any]] | None = None, wr
                     bucket["calledStrikes"] += int(pitch["called"])
             contact = contact_type(pa.get("play_text") or "")
             location = field_location(pa.get("play_text") or "")
+            is_contact_event = pa.get("event_type") in CONTACT_EVENT_TYPES
             if contact != "Other":
                 balls_in_play += 1
                 bunts += int(contact == "Bunt")
                 grounds += int(contact == "Ground")
                 infield_grounds += int(contact == "Ground" and location in {"Pitcher", "Catcher", "First Base", "Second Base", "Third Base", "Shortstop"})
-            if location and contact != "Other":
+            elif is_contact_event and location:
+                balls_in_play += 1
+            if location and is_contact_event:
                 spray_counts[location] = spray_counts.get(location, 0) + 1
-                batted_balls.append({"location": location, "contact": contact, "result": result_label(pa["event_type"]), "date": (pa.get("game_start") or "")[:10], "pitcher": pa.get("pitcher"), "play": pa.get("play_text")})
+                batted_balls.append({"location": location, "contact": contact if contact != "Other" else "Batted Ball", "result": result_label(pa["event_type"]), "date": (pa.get("game_start") or "")[:10], "pitcher": pa.get("pitcher"), "play": pa.get("play_text")})
         for row in approach.values():
             total = row["pitches"]
             row["swingPct"] = ratio(row["swings"], total)
