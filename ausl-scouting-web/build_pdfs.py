@@ -256,7 +256,7 @@ class Report:
     def percentile_rows(self, player, x, y_top, width):
         contexts = player["percentiles"].get("hitting")
         if not contexts:
-            return
+            return False
         y = y_top
         for label, context in contexts.items():
             raw = context["value"]
@@ -268,6 +268,7 @@ class Report:
             self.c.setFillColor(INK); self.c.setFont("Helvetica-Bold",6.5); self.c.drawRightString(x+width,y+2,f"{context['percentile']}th percentile")
             self.c.setFillColor(MUTED); self.c.setFont("Helvetica",5.7); self.c.drawRightString(x+width,y-7,f"Rank {ordinal(context['rank'])} of {context['of']}")
             y-=20
+        return True
 
     def draw_swing_grid(self, player, x, y_top, width):
         league = {row["count"]: row for row in self.data["leagueApproach"]}
@@ -322,8 +323,9 @@ class Report:
         advanced_labels=["wOBA","wRAA","Off WAR","Def WAR","WAR","Range Runs","Arm Runs","BsR","Extra Bases","1st-3rd","2nd-Home","1st-Home"]
         advanced_values=[rate(a.get("wOBA")),value(a.get("wRAA"),1,True),value(a.get("offensive_war"),2,True),value(a.get("defensive_war"),2,True),value(a.get("position_war"),2,True),value(a.get("range_runs"),1,True),value(a.get("throwing_runs"),1,True),value(b.get("runs"),1,True),b.get("extraBasesTaken"),b.get("firstToThird"),b.get("secondToHome"),b.get("firstToHome")]
         bottom=self.colored_stat_block(advanced_labels,advanced_values,375,bottom-38,370,4)
-        self.c.setFillColor(INK); self.c.setFont("Helvetica-Bold",12); self.c.drawString(32,228,"League Percentiles")
-        self.percentile_rows(player,32,209,315)
+        if player["percentiles"].get("hitting"):
+            self.c.setFillColor(INK); self.c.setFont("Helvetica-Bold",12); self.c.drawString(32,228,"League Percentiles")
+            self.percentile_rows(player,32,209,315)
         self.c.setFillColor(INK); self.c.setFont("Helvetica-Bold",12); self.c.drawString(375,bottom-27,"Swing Decisions")
         self.draw_swing_grid(player,375,bottom-38,370)
 

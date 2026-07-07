@@ -100,6 +100,30 @@ class SoftballSavantBuildTests(unittest.TestCase):
             )
         )
 
+    def test_percentile_qualifiers_are_opened_for_short_season_samples(self):
+        period = self.site["periods"]["2026"]
+        self.assertEqual(period["meta"]["hitterQualifierRate"], 1.5)
+        self.assertEqual(period["meta"]["pitcherQualifierRate"], 0.75)
+        self.assertTrue(
+            any(
+                player["hitting"]["PA"] < 34 and player["percentiles"].get("hitting")
+                for player in period["players"]
+                if player.get("hitting")
+            )
+        )
+        self.assertTrue(
+            any(
+                player["pitching"]["IP"] < 17 and player["percentiles"].get("pitching")
+                for player in period["players"]
+                if player.get("pitching")
+            )
+        )
+
+    def test_pdf_percentile_heading_is_hidden_for_unqualified_players(self):
+        pdf_builder = (ROOT.parent / "ausl-scouting-web" / "build_pdfs.py").read_text()
+        self.assertIn('if player["percentiles"].get("hitting"):', pdf_builder)
+        self.assertIn('drawString(32,228,"League Percentiles")', pdf_builder)
+
     def test_official_compact_pitch_sequences_restore_swing_decisions(self):
         in_play = parse_pitch_sequence("BB", "single")
         self.assertEqual([pitch["count"] for pitch in in_play], ["0-0", "1-0", "2-0"])

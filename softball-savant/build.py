@@ -123,8 +123,8 @@ POSITION_ALIASES = (
     ("right field", "Right Field"),
 )
 ALL_COUNTS = tuple(f"{balls}-{strikes}" for balls in range(4) for strikes in range(3))
-HITTER_PA_PER_TEAM_GAME = 2.0
-PITCHER_IP_PER_TEAM_GAME = 1.0
+HITTER_PA_PER_TEAM_GAME = 1.5
+PITCHER_IP_PER_TEAM_GAME = 0.75
 FIELDER_QUALIFIER_CHANCES = 20
 
 
