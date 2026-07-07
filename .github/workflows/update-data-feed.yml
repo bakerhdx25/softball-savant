@@ -45,9 +45,6 @@ jobs:
         run: |
           mkdir -p public-data/data
           cp softball-savant/data/site-data.json public-data/data/site-data.json
-          cp softball-savant/data/scouting-data.json public-data/data/scouting-data.json
-          cp softball-savant/data/scouting-data-2025.json public-data/data/scouting-data-2025.json
-          cp softball-savant/data/scouting-data-2025-2026.json public-data/data/scouting-data-2025-2026.json
           cp ausl-war/output/official_pipeline_summary.json public-data/data/official-pipeline-summary.json
           cat > public-data/index.html <<'HTML'
           <!doctype html>
