@@ -68,7 +68,14 @@ The production-friendly setup separates the frontend from the daily data update:
 - `softball-savant/app.js` fetches the GitHub Pages JSON feed at runtime, then
   falls back to local `data/site-data.json` for development.
 
-Expected data feed URL after GitHub Pages is enabled:
+GitHub Pages also publishes a full static copy of the frontend, which is useful
+as an immediate public URL even before Netlify is connected:
+
+```text
+https://bakerhdx25.github.io/softball-savant/
+```
+
+Expected data feed URL:
 
 ```text
 https://bakerhdx25.github.io/softball-savant/data/site-data.json

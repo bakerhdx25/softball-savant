@@ -44,9 +44,15 @@ jobs:
       - name: Prepare Pages artifact
         run: |
           mkdir -p public-data/data
+          cp softball-savant/index.html public-data/index.html
+          cp softball-savant/app.js public-data/app.js
+          cp softball-savant/styles.css public-data/styles.css
+          cp softball-savant/robots.txt public-data/robots.txt
+          cp -R softball-savant/assets public-data/assets
+          cp -R softball-savant/output public-data/output
           cp softball-savant/data/site-data.json public-data/data/site-data.json
           cp ausl-war/output/official_pipeline_summary.json public-data/data/official-pipeline-summary.json
-          cat > public-data/index.html <<'HTML'
+          cat > public-data/data/index.html <<'HTML'
           <!doctype html>
           <meta charset="utf-8">
           <title>Softball Savant Data Feed</title>
