@@ -103,6 +103,13 @@ class SoftballSavantBuildTests(unittest.TestCase):
         self.assertIn(".nav-toggle", self.css)
         self.assertIn(".table-scroll", self.css)
 
+    def test_pdf_generation_uses_current_site_payload(self):
+        pdf_builder = (ROOT / "build_pdfs.py").read_text()
+        data_builder = (ROOT / "build.py").read_text()
+        self.assertIn("site-data.json", pdf_builder)
+        self.assertIn("generate_team(team, data)", pdf_builder)
+        self.assertNotIn("legacy_scout_root", data_builder)
+
     def test_all_current_pdf_links_resolve(self):
         for team in self.site["periods"]["2026"]["teams"]:
             self.assertTrue((ROOT / team["pdf"]).is_file(), team["pdf"])

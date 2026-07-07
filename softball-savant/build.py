@@ -930,18 +930,6 @@ def build() -> dict[str, Any]:
         key=lambda row: row["name"],
     )
 
-    legacy_scout_root = SITE_ROOT.parent / "ausl-scouting-web"
-    for payload in periods.values():
-        for team in payload["teams"]:
-            relative_pdf = team.get("pdf")
-            if not relative_pdf:
-                continue
-            source_pdf = legacy_scout_root / relative_pdf
-            destination_pdf = SITE_ROOT / relative_pdf
-            if source_pdf.is_file():
-                destination_pdf.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copy2(source_pdf, destination_pdf)
-
     result = {
         "meta": {
             "name": "Softball Savant", "defaultSeason": "2026",
