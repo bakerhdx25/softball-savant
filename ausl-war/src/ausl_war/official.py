@@ -2,8 +2,11 @@ from __future__ import annotations
 
 import json
 import re
+import urllib.request
 from pathlib import Path
 from typing import Any
+
+import certifi
 
 from .io import read_json
 from .normalize import (
@@ -76,6 +79,10 @@ def _extract_next_object(html: str, key: str) -> dict[str, Any]:
 
 
 SEASON_IDS = {2025: 270, 2026: 369}
+OFFICIAL_STATS_URL = "https://theausl.com/data/statsApiData_{season_id}.json"
+OFFICIAL_FRANCHISE_STATS_URL = "https://theausl.com/data/franchiseStatsApiData_{season_id}.json"
+PITCH_COUNT_RE = re.compile(r"\(([0-3]-[0-2])\s+([A-Z]+)\)")
+COUNT_ONLY_RE = re.compile(r"\(([0-3]-[0-2])\)")
 POSITION_NUMBER = {
     1: "pitcher",
     2: "catcher",
@@ -92,6 +99,89 @@ POSITION_CODE = {
     "3B": "third baseman", "SS": "shortstop", "LF": "left fielder",
     "CF": "center fielder", "RF": "right fielder",
 }
+
+
+def _download_json(url: str) -> bytes:
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Softball-Savant-AUSL-Research/1.0"},
+    )
+    context = __import__("ssl").create_default_context(cafile=certifi.where())
+    with urllib.request.urlopen(request, timeout=45, context=context) as response:
+        return response.read()
+
+
+def download_official_stats(project_root: Path, snapshot_id: str) -> dict[str, Any]:
+    player_destination = project_root / "data" / "raw" / "official-stats" / snapshot_id
+    franchise_destination = project_root / "data" / "raw" / "official-franchise-stats" / snapshot_id
+    player_destination.mkdir(parents=True, exist_ok=True)
+    franchise_destination.mkdir(parents=True, exist_ok=True)
+    sources = []
+    franchise_sources = []
+    for season, season_id in SEASON_IDS.items():
+        player_url = OFFICIAL_STATS_URL.format(season_id=season_id)
+        player_payload = _download_json(player_url)
+        player_path = player_destination / f"{season}.json"
+        player_path.write_bytes(player_payload)
+        payload = json.loads(player_payload)
+        if int(payload.get("seasonId", -1)) != season_id:
+            raise ValueError(f"Official stats season mismatch for {season}: expected {season_id}")
+        sources.append(
+            {
+                "season": season,
+                "season_id": season_id,
+                "url": player_url,
+                "file": player_path.name,
+                "bytes": len(player_payload),
+            }
+        )
+
+        franchise_url = OFFICIAL_FRANCHISE_STATS_URL.format(season_id=season_id)
+        franchise_payload = _download_json(franchise_url)
+        franchise_path = franchise_destination / f"{season}.json"
+        franchise_path.write_bytes(franchise_payload)
+        franchise = json.loads(franchise_payload)
+        if int(franchise.get("seasonId", -1)) != season_id:
+            raise ValueError(
+                f"Official franchise stats season mismatch for {season}: expected {season_id}"
+            )
+        franchise_sources.append(
+            {
+                "season": season,
+                "season_id": season_id,
+                "url": franchise_url,
+                "file": franchise_path.name,
+                "bytes": len(franchise_payload),
+            }
+        )
+    (player_destination / "manifest.json").write_text(
+        json.dumps({"snapshot_id": snapshot_id, "sources": sources}, indent=2, sort_keys=True)
+        + "\n",
+        encoding="utf-8",
+    )
+    (franchise_destination / "manifest.json").write_text(
+        json.dumps(
+            {"snapshot_id": snapshot_id, "sources": franchise_sources},
+            indent=2,
+            sort_keys=True,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    return {
+        "snapshot_id": snapshot_id,
+        "player_stat_files": len(sources),
+        "franchise_stat_files": len(franchise_sources),
+    }
+
+
+def official_pitch_text(play_text: str, is_plate_appearance: bool) -> str:
+    match = PITCH_COUNT_RE.search(play_text or "")
+    if match:
+        return match.group(2)
+    if is_plate_appearance and COUNT_ONLY_RE.search(play_text or ""):
+        return "X"
+    return ""
 
 
 def display_team(name: str, season: int) -> str:
@@ -368,7 +458,7 @@ def supplemental_normalized_events(
                     "runners_after": state.snapshot(),
                     "runs_scored": runs_scored,
                     "runner_actions": actions,
-                    "pitch_text": "",
+                    "pitch_text": official_pitch_text(text, is_pa),
                     "play_text": text,
                     "official_action": play.get("action"),
                 }

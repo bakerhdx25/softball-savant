@@ -1,0 +1,8 @@
+[build]
+  publish = "softball-savant"
+  command = "echo 'Static frontend deploy; runtime data is served from GitHub Pages.'"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

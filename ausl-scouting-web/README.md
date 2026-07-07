@@ -1,5 +1,9 @@
 # AUSL Team Scout
 
+> Migration reference: this standalone prototype has been superseded as a
+> product surface by `../softball-savant/`. Keep it for regression comparison
+> and PDF source generation.
+
 An isolated, static prototype for AUSL coaches and staff. It reads the captured
 AUSL research outputs and generates a browser-based team scouting report.
 It does not import, call, or modify the Scout Em Out application, database,

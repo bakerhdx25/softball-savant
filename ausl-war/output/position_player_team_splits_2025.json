@@ -8,13 +8,13 @@
     "HBP": 0,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.1875,
+    "OBP": 0.18181818181818182,
     "PA": 33,
     "ROE": 0,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 3,
-    "batting_runs": -5.905758787871519,
+    "batting_runs": -5.992356401931759,
     "obp_numerator": 6,
     "player": "Victoria Hayward",
     "player_key": "victoriahayward",
@@ -23,9 +23,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.1780629518895432,
-    "woba_denom": 32,
-    "woba_raw_numerator": 5.392417971456939
+    "wOBA": 0.17411724445729398,
+    "woba_denom": 33,
+    "woba_raw_numerator": 5.370262359216793
   },
   {
     "1B": 9,
@@ -39,10 +39,10 @@
     "OBP": 0.36363636363636365,
     "PA": 66,
     "ROE": 0,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 8,
-    "batting_runs": 0.13425708275906909,
+    "batting_runs": 0.609788430962051,
     "obp_numerator": 24,
     "player": "Sydney Romero",
     "player_key": "sydneyromero",
@@ -51,27 +51,27 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.3752264023930676,
+    "wOBA": 0.37828975071838783,
     "woba_denom": 66,
-    "woba_raw_numerator": 23.436746648874013
+    "woba_raw_numerator": 23.335025953259155
   },
   {
-    "1B": 13,
+    "1B": 14,
     "2B": 3,
     "3B": 1,
     "BB": 8,
-    "H": 19,
+    "H": 20,
     "HBP": 2,
     "HR": 2,
     "IBB": 0,
-    "OBP": 0.3493975903614458,
+    "OBP": 0.3614457831325301,
     "PA": 83,
     "ROE": 0,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 17,
-    "batting_runs": -2.3816410426734342,
-    "obp_numerator": 29,
+    "batting_runs": -1.2277923885008692,
+    "obp_numerator": 30,
     "player": "Sharlize Palacios",
     "player_key": "sharlizepalacios",
     "reach_opportunities": 34,
@@ -79,9 +79,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.34275629361090426,
+    "wOBA": 0.3525770144905648,
     "woba_denom": 83,
-    "woba_raw_numerator": 26.92300492683475
+    "woba_raw_numerator": 27.350915404690944
   },
   {
     "1B": 24,
@@ -92,13 +92,13 @@
     "HBP": 0,
     "HR": 9,
     "IBB": 0,
-    "OBP": 0.4326923076923077,
+    "OBP": 0.42857142857142855,
     "PA": 105,
     "ROE": 2,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 10,
-    "batting_runs": 13.072437885697468,
+    "batting_runs": 13.641664470810618,
     "obp_numerator": 45,
     "player": "Morgan Zerkle",
     "player_key": "morganzerkle",
@@ -107,9 +107,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.5058968531594389,
-    "woba_denom": 104,
-    "woba_raw_numerator": 49.79151235351495
+    "wOBA": 0.5074118401380554,
+    "woba_denom": 105,
+    "woba_raw_numerator": 49.795451438101466
   },
   {
     "1B": 20,
@@ -126,7 +126,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 7,
-    "batting_runs": 9.629634373068825,
+    "batting_runs": 10.05617528011844,
     "obp_numerator": 42,
     "player": "Skylar Wallace",
     "player_key": "skylarwallace",
@@ -135,9 +135,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.48248939973800375,
+    "wOBA": 0.48409812887076015,
     "woba_denom": 93,
-    "woba_raw_numerator": 42.46496057986715
+    "woba_raw_numerator": 42.0781008797189
   },
   {
     "1B": 10,
@@ -150,11 +150,11 @@
     "IBB": 0,
     "OBP": 0.27956989247311825,
     "PA": 93,
-    "ROE": 2,
-    "SF": 1,
+    "ROE": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 9,
-    "batting_runs": -3.6783312000242065,
+    "batting_runs": -3.2020044507022045,
     "obp_numerator": 26,
     "player": "Bubba Nickles-Camarena",
     "player_key": "bubbanicklescamarena",
@@ -163,9 +163,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.3312835059042089,
+    "wOBA": 0.331566054805221,
     "woba_denom": 93,
-    "woba_raw_numerator": 29.15699500677412
+    "woba_raw_numerator": 28.81992114889826
   },
   {
     "1B": 14,
@@ -173,27 +173,27 @@
     "3B": 4,
     "BB": 10,
     "H": 28,
-    "HBP": 14,
+    "HBP": 12,
     "HR": 5,
     "IBB": 0,
-    "OBP": 0.5777777777777777,
+    "OBP": 0.5494505494505495,
     "PA": 91,
     "ROE": 0,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 8,
-    "batting_runs": 17.403105938050803,
-    "obp_numerator": 52,
+    "batting_runs": 15.504457022045779,
+    "obp_numerator": 50,
     "player": "Erin Coffel",
     "player_key": "erincoffel",
-    "reach_opportunities": 54,
+    "reach_opportunities": 52,
     "team": "Bandits",
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.5774032152418629,
-    "woba_denom": 90,
-    "woba_raw_numerator": 49.17922807366208
+    "wOBA": 0.5506995892077257,
+    "woba_denom": 91,
+    "woba_raw_numerator": 46.83773906036451
   },
   {
     "1B": 6,
@@ -201,27 +201,27 @@
     "3B": 0,
     "BB": 10,
     "H": 13,
-    "HBP": 7,
+    "HBP": 6,
     "HR": 4,
     "IBB": 0,
-    "OBP": 0.36585365853658536,
+    "OBP": 0.3493975903614458,
     "PA": 83,
     "ROE": 0,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 16,
-    "batting_runs": -0.7957840265792278,
-    "obp_numerator": 30,
-    "player": "Ali Aguliar",
+    "batting_runs": -1.8559008901179308,
+    "obp_numerator": 29,
+    "player": "Ali Aguilar",
     "player_key": "aliaguilar",
-    "reach_opportunities": 32,
+    "reach_opportunities": 31,
     "team": "Talons",
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.3628222607360324,
-    "woba_denom": 82,
-    "woba_raw_numerator": 28.155793919199944
+    "wOBA": 0.3444801512960589,
+    "woba_denom": 83,
+    "woba_raw_numerator": 26.72280690307388
   },
   {
     "1B": 14,
@@ -234,11 +234,11 @@
     "IBB": 1,
     "OBP": 0.36363636363636365,
     "PA": 89,
-    "ROE": 2,
-    "SF": 1,
+    "ROE": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 12,
-    "batting_runs": -1.5444471913366238,
+    "batting_runs": -1.1985894193624946,
     "obp_numerator": 32,
     "player": "Hannah Flippen",
     "player_key": "hannahflippen",
@@ -247,9 +247,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.3545317713551345,
+    "wOBA": 0.35383135567820023,
     "woba_denom": 88,
-    "woba_raw_numerator": 29.52553889681663
+    "woba_raw_numerator": 29.101727277033643
   },
   {
     "1B": 19,
@@ -260,13 +260,13 @@
     "HBP": 2,
     "HR": 3,
     "IBB": 0,
-    "OBP": 0.4318181818181818,
+    "OBP": 0.4222222222222222,
     "PA": 90,
     "ROE": 0,
     "SF": 0,
-    "SH": 2,
+    "SH": 0,
     "SO": 9,
-    "batting_runs": 5.647292256101219,
+    "batting_runs": 5.4377957904101475,
     "obp_numerator": 38,
     "player": "Caroline Jacobsen",
     "player_key": "carolinejacobsen",
@@ -275,9 +275,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.4408875237204075,
-    "woba_denom": 88,
-    "woba_raw_numerator": 36.717278344254474
+    "wOBA": 0.43305016649687933,
+    "woba_denom": 90,
+    "woba_raw_numerator": 36.426756048088016
   },
   {
     "1B": 7,
@@ -291,10 +291,10 @@
     "OBP": 0.36923076923076925,
     "PA": 65,
     "ROE": 0,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 12,
-    "batting_runs": -3.447780514083626,
+    "batting_runs": -3.715496339299518,
     "obp_numerator": 24,
     "player": "Bri Ellis",
     "player_key": "briellis",
@@ -303,9 +303,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.31702813146519504,
+    "wOBA": 0.3072448543604587,
     "woba_denom": 65,
-    "woba_raw_numerator": 19.501641028302306
+    "woba_raw_numerator": 18.665419402356722
   },
   {
     "1B": 8,
@@ -313,27 +313,27 @@
     "3B": 0,
     "BB": 2,
     "H": 12,
-    "HBP": 2,
+    "HBP": 1,
     "HR": 2,
     "IBB": 1,
-    "OBP": 0.3404255319148936,
+    "OBP": 0.3191489361702128,
     "PA": 48,
     "ROE": 0,
     "SF": 0,
     "SH": 0,
     "SO": 6,
-    "batting_runs": -1.5093840531981457,
-    "obp_numerator": 16,
+    "batting_runs": -1.8888689772138587,
+    "obp_numerator": 15,
     "player": "Devyn Netz",
     "player_key": "devynnetz",
-    "reach_opportunities": 17,
+    "reach_opportunities": 16,
     "team": "Bandits",
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.33914238834787774,
+    "wOBA": 0.32540474449904133,
     "woba_denom": 47,
-    "woba_raw_numerator": 15.084813062065527
+    "woba_raw_numerator": 14.294254712906806
   },
   {
     "1B": 5,
@@ -350,18 +350,18 @@
     "SF": 0,
     "SH": 0,
     "SO": 9,
-    "batting_runs": -6.437437611147994,
+    "batting_runs": -6.1511091800966735,
     "obp_numerator": 7,
-    "player": "Cori McMillian",
+    "player": "Cori McMillan",
     "player_key": "corimcmillan",
     "reach_opportunities": 8,
     "team": "Bandits",
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.1841253412714746,
+    "wOBA": 0.18558960489851398,
     "woba_denom": 36,
-    "woba_raw_numerator": 6.273011243096521
+    "woba_raw_numerator": 6.244474922974475
   },
   {
     "1B": 13,
@@ -372,13 +372,13 @@
     "HBP": 1,
     "HR": 3,
     "IBB": 0,
-    "OBP": 0.4044943820224719,
+    "OBP": 0.4,
     "PA": 90,
     "ROE": 2,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 12,
-    "batting_runs": 1.6499217302977465,
+    "batting_runs": 1.303297542006535,
     "obp_numerator": 36,
     "player": "Delanie Wisz",
     "player_key": "delaniewisz",
@@ -387,9 +387,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.39266597130455777,
-    "woba_denom": 89,
-    "woba_raw_numerator": 33.07297584218002
+    "wOBA": 0.3838982422220792,
+    "woba_denom": 90,
+    "woba_raw_numerator": 32.29225779968441
   },
   {
     "1B": 5,
@@ -400,13 +400,13 @@
     "HBP": 1,
     "HR": 2,
     "IBB": 0,
-    "OBP": 0.358974358974359,
+    "OBP": 0.35,
     "PA": 40,
     "ROE": 0,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 12,
-    "batting_runs": -0.7135386888364521,
+    "batting_runs": -1.1364326946223977,
     "obp_numerator": 14,
     "player": "Jordan Roberts",
     "player_key": "jordanroberts",
@@ -415,9 +415,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.35374420496347053,
-    "woba_denom": 39,
-    "woba_raw_numerator": 13.056114236595105
+    "wOBA": 0.3380063971591757,
+    "woba_denom": 40,
+    "woba_raw_numerator": 12.63643853101221
   },
   {
     "1B": 1,
@@ -434,7 +434,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 0,
-    "batting_runs": 1.2965813702778861,
+    "batting_runs": 1.3291375252343796,
     "obp_numerator": 3,
     "player": "Ally Shipman-Shrout",
     "player_key": "allyshipmanshrout",
@@ -443,9 +443,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.5253058785415761,
+    "wOBA": 0.5264154359459922,
     "woba_denom": 9,
-    "woba_raw_numerator": 4.474193583839014
+    "woba_raw_numerator": 4.428033551002167
   },
   {
     "1B": 15,
@@ -456,24 +456,24 @@
     "HBP": 0,
     "HR": 3,
     "IBB": 0,
-    "OBP": 0.3950617283950617,
+    "OBP": 0.3902439024390244,
     "PA": 82,
     "ROE": 1,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 8,
-    "batting_runs": 1.4033663219652213,
+    "batting_runs": 1.2145082003827223,
     "obp_numerator": 32,
-    "player": "Sierra Sacco",
+    "player": "Sierra Sacco-Ferrie",
     "player_key": "sierrasaccoferrie",
     "reach_opportunities": 34,
     "team": "Talons",
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.3913842961105399,
-    "woba_denom": 81,
-    "woba_raw_numerator": 30.001876244015378
+    "wOBA": 0.38425131431272247,
+    "woba_denom": 82,
+    "woba_raw_numerator": 29.448894212933673
   },
   {
     "1B": 31,
@@ -484,13 +484,13 @@
     "HBP": 0,
     "HR": 3,
     "IBB": 0,
-    "OBP": 0.46987951807228917,
+    "OBP": 0.4588235294117647,
     "PA": 85,
     "ROE": 1,
     "SF": 0,
-    "SH": 2,
+    "SH": 0,
     "SO": 12,
-    "batting_runs": 8.270225318510525,
+    "batting_runs": 8.111113670046564,
     "obp_numerator": 39,
     "player": "Sydney McKinney",
     "player_key": "sydneymckinney",
@@ -499,9 +499,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.4783650135112248,
-    "woba_denom": 83,
-    "woba_raw_numerator": 37.57487128801871
+    "wOBA": 0.4705033924484407,
+    "woba_denom": 85,
+    "woba_raw_numerator": 37.378465024520104
   },
   {
     "1B": 21,
@@ -518,7 +518,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 15,
-    "batting_runs": -0.36692035270624324,
+    "batting_runs": 0.14867927679484727,
     "obp_numerator": 33,
     "player": "Bella Dayton",
     "player_key": "belladayton",
@@ -527,9 +527,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.3684612768328073,
+    "wOBA": 0.3702981110180172,
     "woba_denom": 84,
-    "woba_raw_numerator": 29.290793640530957
+    "woba_raw_numerator": 29.071708850627527
   },
   {
     "1B": 15,
@@ -537,27 +537,27 @@
     "3B": 0,
     "BB": 6,
     "H": 19,
-    "HBP": 4,
+    "HBP": 3,
     "HR": 3,
     "IBB": 0,
-    "OBP": 0.47540983606557374,
+    "OBP": 0.45901639344262296,
     "PA": 61,
     "ROE": 0,
     "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": 5.4133353848493755,
-    "obp_numerator": 29,
+    "batting_runs": 4.698168407154959,
+    "obp_numerator": 28,
     "player": "Jadelyn Allchin",
     "player_key": "jadelynallchin",
-    "reach_opportunities": 32,
+    "reach_opportunities": 31,
     "team": "Talons",
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.4668493377545903,
+    "wOBA": 0.45081034823859817,
     "woba_denom": 61,
-    "woba_raw_numerator": 26.950484832319248
+    "woba_raw_numerator": 25.70179702624774
   },
   {
     "1B": 14,
@@ -570,11 +570,11 @@
     "IBB": 2,
     "OBP": 0.4222222222222222,
     "PA": 92,
-    "ROE": 2,
+    "ROE": 1,
     "SF": 0,
     "SH": 0,
     "SO": 7,
-    "batting_runs": 3.9547956629578276,
+    "batting_runs": 4.213274341721778,
     "obp_numerator": 38,
     "player": "Amanda Lorenz",
     "player_key": "amandalorenz",
@@ -583,9 +583,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.41950936662801164,
+    "wOBA": 0.4184927566486496,
     "woba_denom": 90,
-    "woba_raw_numerator": 35.730917798569116
+    "woba_raw_numerator": 35.202234599399645
   },
   {
     "1B": 1,
@@ -602,7 +602,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 1,
-    "batting_runs": -2.6500869656505617,
+    "batting_runs": -2.5690052426509697,
     "obp_numerator": 1,
     "player": "Ali Newland",
     "player_key": "alinewland",
@@ -611,9 +611,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.09304978253077026,
+    "wOBA": 0.0935356709255803,
     "woba_denom": 10,
-    "woba_raw_numerator": 0.8805932716395813
+    "woba_raw_numerator": 0.8742125637576823
   },
   {
     "1B": 13,
@@ -630,7 +630,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 8,
-    "batting_runs": 0.6333711598564605,
+    "batting_runs": 0.962412740958039,
     "obp_numerator": 24,
     "player": "Jessi Warren",
     "player_key": "jessiwarren",
@@ -639,9 +639,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.3832173058379358,
+    "wOBA": 0.3840062287112908,
     "woba_denom": 66,
-    "woba_raw_numerator": 23.935860725971402
+    "woba_raw_numerator": 23.687650263255144
   },
   {
     "1B": 21,
@@ -652,13 +652,13 @@
     "HBP": 0,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.46236559139784944,
+    "OBP": 0.4574468085106383,
     "PA": 94,
     "ROE": 2,
-    "SF": 1,
-    "SH": 1,
+    "SF": 0,
+    "SH": 0,
     "SO": 9,
-    "batting_runs": 4.539888738349859,
+    "batting_runs": 4.490839151115958,
     "obp_numerator": 43,
     "player": "Aubrey Leach",
     "player_key": "aubreyleach",
@@ -667,9 +667,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.4246594080794465,
-    "woba_denom": 93,
-    "woba_raw_numerator": 37.37521494514819
+    "wOBA": 0.4195206768942641,
+    "woba_denom": 94,
+    "woba_raw_numerator": 36.85708653135729
   },
   {
     "1B": 16,
@@ -680,13 +680,13 @@
     "HBP": 0,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.34615384615384615,
+    "OBP": 0.3333333333333333,
     "PA": 54,
     "ROE": 0,
-    "SF": 1,
-    "SH": 2,
+    "SF": 0,
+    "SH": 0,
     "SO": 9,
-    "batting_runs": -2.4000000027768285,
+    "batting_runs": -2.732563030297741,
     "obp_numerator": 18,
     "player": "Aliyah Andrews",
     "player_key": "aliyahandrews",
@@ -695,27 +695,27 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.3243074685414964,
-    "woba_denom": 52,
-    "woba_raw_numerator": 15.959537231131915
+    "wOBA": 0.3142620292251914,
+    "woba_denom": 54,
+    "woba_raw_numerator": 15.86081312430898
   },
   {
     "1B": 16,
     "2B": 6,
     "3B": 0,
-    "BB": 5,
+    "BB": 4,
     "H": 25,
     "HBP": 0,
     "HR": 3,
     "IBB": 0,
-    "OBP": 0.40540540540540543,
+    "OBP": 0.3918918918918919,
     "PA": 74,
     "ROE": 0,
     "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": 3.84907311217376,
-    "obp_numerator": 30,
+    "batting_runs": 3.732608867896125,
+    "obp_numerator": 29,
     "player": "Baylee Klingler",
     "player_key": "bayleeklingler",
     "reach_opportunities": 33,
@@ -723,9 +723,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.4280391651286462,
+    "wOBA": 0.4223729022848763,
     "woba_denom": 74,
-    "woba_raw_numerator": 29.97610686812082
+    "woba_raw_numerator": 29.21242063532015
   },
   {
     "1B": 11,
@@ -739,10 +739,10 @@
     "OBP": 0.4074074074074074,
     "PA": 54,
     "ROE": 2,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 6,
-    "batting_runs": 1.996753440973901,
+    "batting_runs": 2.2162960827092806,
     "obp_numerator": 22,
     "player": "Danielle Gibson Whorton",
     "player_key": "daniellegibsonwhorton",
@@ -751,9 +751,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.4121493764284576,
+    "wOBA": 0.41231743754593764,
     "woba_denom": 54,
-    "woba_raw_numerator": 21.06242672234067
+    "woba_raw_numerator": 20.809672237316
   },
   {
     "1B": 19,
@@ -767,21 +767,21 @@
     "OBP": 0.4222222222222222,
     "PA": 90,
     "ROE": 1,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 13,
-    "batting_runs": 3.3716174772974425,
+    "batting_runs": 3.780651307501118,
     "obp_numerator": 38,
     "player": "Korbe Otis",
     "player_key": "korbeotis",
-    "reach_opportunities": 43,
+    "reach_opportunities": 44,
     "team": "Blaze",
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.41266239133684074,
+    "wOBA": 0.4133496284284941,
     "woba_denom": 90,
-    "woba_raw_numerator": 35.14773961290873
+    "woba_raw_numerator": 34.76961156517899
   },
   {
     "1B": 5,
@@ -792,13 +792,13 @@
     "HBP": 0,
     "HR": 1,
     "IBB": 0,
-    "OBP": 0.2765957446808511,
+    "OBP": 0.2708333333333333,
     "PA": 48,
     "ROE": 0,
-    "SF": 1,
-    "SH": 1,
+    "SF": 0,
+    "SH": 0,
     "SO": 6,
-    "batting_runs": -4.482175063758824,
+    "batting_runs": -4.61337121379993,
     "obp_numerator": 13,
     "player": "Rachel Garcia",
     "player_key": "rachelgarcia",
@@ -807,9 +807,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.272306993090908,
-    "woba_denom": 47,
-    "woba_raw_numerator": 12.112022051504846
+    "wOBA": 0.26557016739060957,
+    "woba_denom": 48,
+    "woba_raw_numerator": 11.9140742569616
   },
   {
     "1B": 3,
@@ -826,7 +826,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 13,
-    "batting_runs": -4.269716733303463,
+    "batting_runs": -4.174472962431481,
     "obp_numerator": 9,
     "player": "Michaela Edenfield",
     "player_key": "michaelaedenfield",
@@ -835,9 +835,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.23635910357086887,
+    "wOBA": 0.23305754086331518,
     "woba_denom": 33,
-    "woba_raw_numerator": 7.381528049754009
+    "woba_raw_numerator": 7.188145798717072
   },
   {
     "1B": 15,
@@ -851,10 +851,10 @@
     "OBP": 0.34146341463414637,
     "PA": 82,
     "ROE": 0,
-    "SF": 2,
+    "SF": 0,
     "SH": 0,
     "SO": 11,
-    "batting_runs": -3.1475437789859932,
+    "batting_runs": -2.631042050847271,
     "obp_numerator": 28,
     "player": "Sierra Romero",
     "player_key": "sierraromero",
@@ -863,9 +863,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.33251692491332724,
+    "wOBA": 0.33407429484277673,
     "woba_denom": 82,
-    "woba_raw_numerator": 25.80403416679318
+    "woba_raw_numerator": 25.60334396170368
   },
   {
     "1B": 0,
@@ -882,7 +882,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 2,
-    "batting_runs": -1.059204071187043,
+    "batting_runs": -1.0329653419225957,
     "obp_numerator": 0,
     "player": "Miranda Stoddard",
     "player_key": "mirandastoddard",
@@ -910,7 +910,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 9,
-    "batting_runs": -2.349872057604067,
+    "batting_runs": -2.335129315665615,
     "obp_numerator": 8,
     "player": "McKenzie Clark",
     "player_key": "mckenzieclark",
@@ -919,9 +919,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.29030882760568205,
+    "wOBA": 0.2851225612464471,
     "woba_denom": 30,
-    "woba_raw_numerator": 8.242168654266363
+    "woba_raw_numerator": 7.994524103560341
   },
   {
     "1B": 8,
@@ -932,13 +932,13 @@
     "HBP": 0,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.3,
+    "OBP": 0.27906976744186046,
     "PA": 43,
     "ROE": 1,
     "SF": 0,
-    "SH": 3,
+    "SH": 0,
     "SO": 1,
-    "batting_runs": -4.181753752830593,
+    "batting_runs": -5.1197670759239875,
     "obp_numerator": 12,
     "player": "Sis Bates",
     "player_key": "sisbates",
@@ -947,9 +947,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.26260842137759977,
-    "woba_denom": 40,
-    "woba_raw_numerator": 9.940967196329979
+    "wOBA": 0.24101237757336494,
+    "woba_denom": 43,
+    "woba_raw_numerator": 9.686069491633216
   },
   {
     "1B": 4,
@@ -966,7 +966,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 5,
-    "batting_runs": -4.828635508339172,
+    "batting_runs": -4.63062059525709,
     "obp_numerator": 7,
     "player": "Taylor Edwards",
     "player_key": "tayloredwards",
@@ -975,9 +975,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.20848719431051532,
+    "wOBA": 0.2085818937900893,
     "woba_denom": 31,
-    "woba_raw_numerator": 6.116473227260271
+    "woba_raw_numerator": 6.043354604609732
   },
   {
     "1B": 18,
@@ -994,7 +994,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 20,
-    "batting_runs": 6.813477126995337,
+    "batting_runs": 7.151252871931292,
     "obp_numerator": 35,
     "player": "Ana Gold",
     "player_key": "anagold",
@@ -1003,9 +1003,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.46087701075280063,
+    "wOBA": 0.46171439072866843,
     "woba_denom": 82,
-    "woba_raw_numerator": 35.76505507277451
+    "woba_raw_numerator": 35.38563888448224
   },
   {
     "1B": 0,
@@ -1022,7 +1022,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": -1.3943528865707542,
+    "batting_runs": -1.392838438452252,
     "obp_numerator": 1,
     "player": "Aleshia Ocasio",
     "player_key": "aleshiaocasio",
@@ -1031,9 +1031,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.12751476052676539,
+    "wOBA": 0.1200282734003445,
     "woba_denom": 6,
-    "woba_raw_numerator": 0.7240552558033316
+    "woba_raw_numerator": 0.6730922453929393
   },
   {
     "1B": 9,
@@ -1044,13 +1044,13 @@
     "HBP": 0,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.2653061224489796,
+    "OBP": 0.2549019607843137,
     "PA": 51,
     "ROE": 1,
     "SF": 0,
-    "SH": 2,
+    "SH": 0,
     "SO": 5,
-    "batting_runs": -5.138110117118874,
+    "batting_runs": -5.39234729581313,
     "obp_numerator": 13,
     "player": "Anissa Urtez",
     "player_key": "anissaurtez",
@@ -1059,9 +1059,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.26227499256522485,
-    "woba_denom": 49,
-    "woba_raw_numerator": 12.162223045602826
+    "wOBA": 0.25527689809538984,
+    "woba_denom": 51,
+    "woba_raw_numerator": 12.168063516870996
   },
   {
     "1B": 4,
@@ -1078,7 +1078,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 1,
-    "batting_runs": 1.0688161288005285,
+    "batting_runs": 1.0710464746558814,
     "obp_numerator": 5,
     "player": "Kelsey Stewart-Hunter",
     "player_key": "kelseystewarthunter",
@@ -1087,9 +1087,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.4985644293768225,
+    "wOBA": 0.4957329419361421,
     "woba_denom": 9,
-    "woba_raw_numerator": 4.246428342361657
+    "woba_raw_numerator": 4.1699425004236685
   },
   {
     "1B": 9,
@@ -1106,7 +1106,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 17,
-    "batting_runs": -0.250382438424307,
+    "batting_runs": 0.1696879350935866,
     "obp_numerator": 22,
     "player": "Tiare Jennings",
     "player_key": "tiarejennings",
@@ -1115,9 +1115,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.3692973232166855,
+    "wOBA": 0.3709979835625975,
     "woba_denom": 70,
-    "woba_raw_numerator": 24.464379222606695
+    "woba_raw_numerator": 24.27221257995415
   },
   {
     "1B": 11,
@@ -1128,13 +1128,13 @@
     "HBP": 1,
     "HR": 1,
     "IBB": 0,
-    "OBP": 0.37333333333333335,
+    "OBP": 0.3684210526315789,
     "PA": 76,
-    "ROE": 2,
+    "ROE": 1,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 8,
-    "batting_runs": -1.2361994428960335,
+    "batting_runs": -1.343585011952772,
     "obp_numerator": 28,
     "player": "Kayla Kowalik",
     "player_key": "kaylakowalik",
@@ -1143,9 +1143,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.3556601665892635,
-    "woba_denom": 75,
-    "woba_raw_numerator": 25.24390233678004
+    "wOBA": 0.34948908624832214,
+    "woba_denom": 76,
+    "woba_raw_numerator": 24.824870316752985
   },
   {
     "1B": 12,
@@ -1159,10 +1159,10 @@
     "OBP": 0.32142857142857145,
     "PA": 85,
     "ROE": 1,
-    "SF": 2,
+    "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": -4.285564336396659,
+    "batting_runs": -3.6382761891508895,
     "obp_numerator": 27,
     "player": "Tori Vidales",
     "player_key": "torividales",
@@ -1171,9 +1171,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.31916699742872096,
+    "wOBA": 0.322062127961287,
     "woba_denom": 84,
-    "woba_raw_numerator": 25.372149656840545
+    "woba_raw_numerator": 25.284753384681792
   },
   {
     "1B": 0,
@@ -1190,7 +1190,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 1,
-    "batting_runs": 0.45777278998255677,
+    "batting_runs": 0.49612498162260293,
     "obp_numerator": 2,
     "player": "Mary Iakopo",
     "player_key": "maryiakopo",
@@ -1199,9 +1199,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.494005789808643,
+    "wOBA": 0.5011105575168724,
     "woba_denom": 4,
-    "woba_raw_numerator": 1.870044884898614
+    "woba_raw_numerator": 1.8734121041860636
   },
   {
     "1B": 1,
@@ -1218,7 +1218,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 9,
-    "batting_runs": -4.701196653879396,
+    "batting_runs": -4.610736967855828,
     "obp_numerator": 4,
     "player": "Kalei Harding",
     "player_key": "kaleiharding",
@@ -1227,9 +1227,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.17437209969648512,
+    "wOBA": 0.17107548388756,
     "woba_denom": 25,
-    "woba_raw_numerator": 4.125503939345961
+    "woba_raw_numerator": 3.997307548165803
   },
   {
     "1B": 13,
@@ -1240,13 +1240,13 @@
     "HBP": 0,
     "HR": 1,
     "IBB": 0,
-    "OBP": 0.37681159420289856,
+    "OBP": 0.37142857142857144,
     "PA": 70,
     "ROE": 2,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 7,
-    "batting_runs": -1.162714760371872,
+    "batting_runs": -1.3020610374726211,
     "obp_numerator": 26,
     "player": "Danieca Coffey",
     "player_key": "daniecacoffey",
@@ -1255,9 +1255,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.3552710163253718,
-    "woba_denom": 69,
-    "woba_raw_numerator": 23.198978876930116
+    "wOBA": 0.34850246942956253,
+    "woba_denom": 70,
+    "woba_raw_numerator": 22.800463607387943
   },
   {
     "1B": 1,
@@ -1268,13 +1268,13 @@
     "HBP": 1,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.2857142857142857,
+    "OBP": 0.26666666666666666,
     "PA": 15,
     "ROE": 0,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 2,
-    "batting_runs": -1.8990325175821818,
+    "batting_runs": -2.271428402447743,
     "obp_numerator": 4,
     "player": "Ciara Briggs",
     "player_key": "ciarabriggs",
@@ -1283,9 +1283,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.22974452558112055,
-    "woba_denom": 14,
-    "woba_raw_numerator": 3.0439198146240183
+    "wOBA": 0.20638455156516106,
+    "woba_denom": 15,
+    "woba_raw_numerator": 2.893398307165235
   },
   {
     "1B": 0,
@@ -1299,10 +1299,10 @@
     "OBP": 0.0,
     "PA": 6,
     "ROE": 0,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 2,
-    "batting_runs": -2.118408142374086,
+    "batting_runs": -2.0659306838451914,
     "obp_numerator": 0,
     "player": "Sarah Willis",
     "player_key": "sarahwillis",
@@ -1330,7 +1330,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 0,
-    "batting_runs": -0.3530680237290143,
+    "batting_runs": -0.3443217806408652,
     "obp_numerator": 0,
     "player": "Kelly Torres",
     "player_key": "kellytorres",
@@ -1358,7 +1358,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 11,
-    "batting_runs": -0.7362727770426891,
+    "batting_runs": -0.6601913404010654,
     "obp_numerator": 19,
     "player": "Mia Scott",
     "player_key": "miascott",
@@ -1367,9 +1367,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.3575169536804753,
+    "wOBA": 0.3542769945347655,
     "woba_denom": 50,
-    "woba_raw_numerator": 16.917128409408026
+    "woba_raw_numerator": 16.555897691642198
   },
   {
     "1B": 6,
@@ -1386,18 +1386,18 @@
     "SF": 0,
     "SH": 0,
     "SO": 14,
-    "batting_runs": -4.330015427158537,
+    "batting_runs": -3.981524892598824,
     "obp_numerator": 12,
-    "player": "Deja Mulipola",
+    "player": "Dejah Mulipola",
     "player_key": "dejahmulipola",
     "reach_opportunities": 14,
     "team": "Volts",
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.2777560073308717,
+    "wOBA": 0.2796543110401651,
     "woba_denom": 48,
-    "woba_raw_numerator": 12.617249711834148
+    "woba_raw_numerator": 12.545920578162706
   },
   {
     "1B": 5,
@@ -1414,7 +1414,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 8,
-    "batting_runs": -1.453945257567403,
+    "batting_runs": -1.2909449693667001,
     "obp_numerator": 9,
     "player": "Erika Piancastelli",
     "player_key": "erikapiancastelli",
@@ -1423,9 +1423,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.3200995942435561,
+    "wOBA": 0.3207754885135533,
     "woba_denom": 29,
-    "woba_raw_numerator": 8.785027430574011
+    "woba_raw_numerator": 8.69438666921839
   },
   {
     "1B": 1,
@@ -1442,7 +1442,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": -0.5225988393567309,
+    "batting_runs": -0.5187168674658348,
     "obp_numerator": 2,
     "player": "Sam Show",
     "player_key": "samshow",
@@ -1451,9 +1451,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.28104103863575053,
+    "wOBA": 0.2759048321122136,
     "woba_denom": 6,
-    "woba_raw_numerator": 1.5958093030173548
+    "woba_raw_numerator": 1.5472138163793563
   },
   {
     "1B": 2,
@@ -1470,7 +1470,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 8,
-    "batting_runs": -7.382743656984601,
+    "batting_runs": -7.235043800924713,
     "obp_numerator": 4,
     "player": "Mary Iakopo",
     "player_key": "maryiakopo",
@@ -1479,9 +1479,9 @@
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.113039092564553,
+    "wOBA": 0.11036842331052467,
     "woba_denom": 30,
-    "woba_raw_numerator": 3.209297054885826
+    "woba_raw_numerator": 3.0946096183012433
   },
   {
     "1B": 3,
@@ -1492,24 +1492,24 @@
     "HBP": 4,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.35714285714285715,
+    "OBP": 0.3448275862068966,
     "PA": 29,
     "ROE": 1,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 5,
-    "batting_runs": -2.211094956572569,
+    "batting_runs": -2.6514122006465315,
     "obp_numerator": 10,
-    "player": "Savannah Jaquish",
+    "player": "Sahvanna Jaquish",
     "player_key": "sahvannajaquish",
     "reach_opportunities": 11,
     "team": "Talons",
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.2896340282654316,
-    "woba_denom": 28,
-    "woba_raw_numerator": 7.674809707839832
+    "wOBA": 0.2705816614704663,
+    "woba_denom": 29,
+    "woba_raw_numerator": 7.333919437938561
   },
   {
     "1B": 0,
@@ -1526,7 +1526,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 1,
-    "batting_runs": -0.33514881538371116,
+    "batting_runs": -0.3598730965296563,
     "obp_numerator": 1,
     "player": "Paige Sinicki",
     "player_key": "paigesinicki",
@@ -1535,9 +1535,9 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.25502952105353077,
+    "wOBA": 0.240056546800689,
     "woba_denom": 3,
-    "woba_raw_numerator": 0.7240552558033316
+    "woba_raw_numerator": 0.6730922453929393
   },
   {
     "1B": 2,
@@ -1551,10 +1551,10 @@
     "OBP": 0.2,
     "PA": 10,
     "ROE": 0,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": -1.76949369401098,
+    "batting_runs": -1.6947926788932877,
     "obp_numerator": 2,
     "player": "Ally Shipman-Shrout",
     "player_key": "allyshipmanshrout",
@@ -1563,9 +1563,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.18609956506154052,
+    "wOBA": 0.1870713418511606,
     "woba_denom": 10,
-    "woba_raw_numerator": 1.7611865432791627
+    "woba_raw_numerator": 1.7484251275153646
   },
   {
     "1B": 7,
@@ -1576,13 +1576,13 @@
     "HBP": 2,
     "HR": 2,
     "IBB": 0,
-    "OBP": 0.34146341463414637,
+    "OBP": 0.3333333333333333,
     "PA": 42,
-    "ROE": 1,
-    "SF": 1,
-    "SH": 1,
+    "ROE": 0,
+    "SF": 0,
+    "SH": 0,
     "SO": 8,
-    "batting_runs": -1.115437929047543,
+    "batting_runs": -1.4229266119459103,
     "obp_numerator": 14,
     "player": "McKenzie Clark",
     "player_key": "mckenzieclark",
@@ -1591,9 +1591,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.3443293258833116,
-    "woba_denom": 41,
-    "woba_raw_numerator": 13.360351043842044
+    "wOBA": 0.33215553969261685,
+    "woba_denom": 42,
+    "woba_raw_numerator": 13.038588174970428
   },
   {
     "1B": 13,
@@ -1604,13 +1604,13 @@
     "HBP": 0,
     "HR": 0,
     "IBB": 0,
-    "OBP": 0.46808510638297873,
+    "OBP": 0.4583333333333333,
     "PA": 48,
     "ROE": 1,
     "SF": 0,
-    "SH": 1,
+    "SH": 0,
     "SO": 6,
-    "batting_runs": 2.213881464864774,
+    "batting_runs": 1.949603293425168,
     "obp_numerator": 22,
     "player": "Ciara Briggs",
     "player_key": "ciarabriggs",
@@ -1619,9 +1619,9 @@
     "teams": [
       "Volts"
     ],
-    "wOBA": 0.42285023113345194,
-    "woba_denom": 47,
-    "woba_raw_numerator": 18.808078580128445
+    "wOBA": 0.4118618725514741,
+    "woba_denom": 48,
+    "woba_raw_numerator": 18.477048764186698
   },
   {
     "1B": 2,
@@ -1638,7 +1638,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 1,
-    "batting_runs": 4.542639388401115,
+    "batting_runs": 4.684758115710809,
     "obp_numerator": 8,
     "player": "Ali Newland",
     "player_key": "alinewland",
@@ -1647,9 +1647,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.8094476175121987,
+    "wOBA": 0.8240788055883539,
     "woba_denom": 11,
-    "woba_raw_numerator": 8.426387649420272
+    "woba_raw_numerator": 8.472297702760327
   },
   {
     "1B": 8,
@@ -1663,21 +1663,21 @@
     "OBP": 0.375,
     "PA": 40,
     "ROE": 1,
-    "SF": 1,
+    "SF": 0,
     "SH": 0,
     "SO": 6,
-    "batting_runs": -0.5149087118322635,
+    "batting_runs": -0.436479136193086,
     "obp_numerator": 15,
-    "player": "Danielle Gibson-Whorton",
+    "player": "Danielle Gibson Whorton",
     "player_key": "daniellegibsonwhorton",
     "reach_opportunities": 19,
     "team": "Bandits",
     "teams": [
       "Bandits"
     ],
-    "wOBA": 0.35947468887804507,
+    "wOBA": 0.35672913932128114,
     "woba_denom": 40,
-    "woba_raw_numerator": 13.607812237328307
+    "woba_raw_numerator": 13.336392089441523
   },
   {
     "1B": 3,
@@ -1694,7 +1694,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 0,
-    "batting_runs": -1.5098188073388736,
+    "batting_runs": -1.5005760336657936,
     "obp_numerator": 7,
     "player": "Devyn Netz",
     "player_key": "devynnetz",
@@ -1703,9 +1703,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.3037124654864402,
+    "wOBA": 0.29859870243924663,
     "woba_denom": 23,
-    "woba_raw_numerator": 6.610745738428455
+    "woba_raw_numerator": 6.418824921074107
   },
   {
     "1B": 3,
@@ -1722,7 +1722,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 3,
-    "batting_runs": -2.4627502168546895,
+    "batting_runs": -2.2230313004876656,
     "obp_numerator": 6,
     "player": "Aliyah Binford",
     "player_key": "aliyahbinford",
@@ -1731,9 +1731,9 @@
     "teams": [
       "Blaze"
     ],
-    "wOBA": 0.2599326622274634,
+    "wOBA": 0.26499064989131826,
     "woba_denom": 23,
-    "woba_raw_numerator": 5.6578143289126395
+    "woba_raw_numerator": 5.696369654252234
   },
   {
     "1B": 9,
@@ -1750,7 +1750,7 @@
     "SF": 0,
     "SH": 0,
     "SO": 6,
-    "batting_runs": 5.671025659156461,
+    "batting_runs": 5.571184527086197,
     "obp_numerator": 18,
     "player": "Maya Brady",
     "player_key": "mayabrady",
@@ -1759,8 +1759,8 @@
     "teams": [
       "Talons"
     ],
-    "wOBA": 0.5797117943720452,
+    "wOBA": 0.5739506721364627,
     "woba_denom": 29,
-    "woba_raw_numerator": 15.909998347297877
+    "woba_raw_numerator": 15.556516165671287
   }
 ]

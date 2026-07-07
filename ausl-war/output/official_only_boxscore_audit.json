@@ -1,0 +1,810 @@
+[
+  {
+    "away_runs": 1,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2026-1144",
+    "home_runs": 5,
+    "official_game_id": 1144,
+    "season": 2026
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-748",
+    "home_runs": 3,
+    "official_game_id": 748,
+    "season": 2025
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2025-749",
+    "home_runs": 1,
+    "official_game_id": 749,
+    "season": 2025
+  },
+  {
+    "away_runs": 6,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-750",
+    "home_runs": 3,
+    "official_game_id": 750,
+    "season": 2025
+  },
+  {
+    "away_runs": 10,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-751",
+    "home_runs": 3,
+    "official_game_id": 751,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2025-752",
+    "home_runs": 3,
+    "official_game_id": 752,
+    "season": 2025
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-753",
+    "home_runs": 8,
+    "official_game_id": 753,
+    "season": 2025
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2025-754",
+    "home_runs": 6,
+    "official_game_id": 754,
+    "season": 2025
+  },
+  {
+    "away_runs": 7,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-755",
+    "home_runs": 6,
+    "official_game_id": 755,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2025-756",
+    "home_runs": 6,
+    "official_game_id": 756,
+    "season": 2025
+  },
+  {
+    "away_runs": 14,
+    "boxscore_rows": 39,
+    "canonical_id": "official-ausl-2025-757",
+    "home_runs": 12,
+    "official_game_id": 757,
+    "season": 2025
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-758",
+    "home_runs": 6,
+    "official_game_id": 758,
+    "season": 2025
+  },
+  {
+    "away_runs": 10,
+    "boxscore_rows": 33,
+    "canonical_id": "official-ausl-2025-759",
+    "home_runs": 8,
+    "official_game_id": 759,
+    "season": 2025
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-761",
+    "home_runs": 9,
+    "official_game_id": 761,
+    "season": 2025
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-762",
+    "home_runs": 5,
+    "official_game_id": 762,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-763",
+    "home_runs": 6,
+    "official_game_id": 763,
+    "season": 2025
+  },
+  {
+    "away_runs": 11,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-764",
+    "home_runs": 2,
+    "official_game_id": 764,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2025-765",
+    "home_runs": 2,
+    "official_game_id": 765,
+    "season": 2025
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2025-766",
+    "home_runs": 0,
+    "official_game_id": 766,
+    "season": 2025
+  },
+  {
+    "away_runs": 11,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-767",
+    "home_runs": 3,
+    "official_game_id": 767,
+    "season": 2025
+  },
+  {
+    "away_runs": 9,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-768",
+    "home_runs": 7,
+    "official_game_id": 768,
+    "season": 2025
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-769",
+    "home_runs": 3,
+    "official_game_id": 769,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-770",
+    "home_runs": 11,
+    "official_game_id": 770,
+    "season": 2025
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-771",
+    "home_runs": 6,
+    "official_game_id": 771,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2025-772",
+    "home_runs": 5,
+    "official_game_id": 772,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 25,
+    "canonical_id": "official-ausl-2025-773",
+    "home_runs": 9,
+    "official_game_id": 773,
+    "season": 2025
+  },
+  {
+    "away_runs": 12,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-774",
+    "home_runs": 10,
+    "official_game_id": 774,
+    "season": 2025
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2025-775",
+    "home_runs": 4,
+    "official_game_id": 775,
+    "season": 2025
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-776",
+    "home_runs": 5,
+    "official_game_id": 776,
+    "season": 2025
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-777",
+    "home_runs": 2,
+    "official_game_id": 777,
+    "season": 2025
+  },
+  {
+    "away_runs": 7,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-778",
+    "home_runs": 8,
+    "official_game_id": 778,
+    "season": 2025
+  },
+  {
+    "away_runs": 6,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-779",
+    "home_runs": 11,
+    "official_game_id": 779,
+    "season": 2025
+  },
+  {
+    "away_runs": 9,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-780",
+    "home_runs": 1,
+    "official_game_id": 780,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-781",
+    "home_runs": 1,
+    "official_game_id": 781,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 33,
+    "canonical_id": "official-ausl-2025-782",
+    "home_runs": 6,
+    "official_game_id": 782,
+    "season": 2025
+  },
+  {
+    "away_runs": 10,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-783",
+    "home_runs": 2,
+    "official_game_id": 783,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2025-784",
+    "home_runs": 4,
+    "official_game_id": 784,
+    "season": 2025
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 32,
+    "canonical_id": "official-ausl-2025-785",
+    "home_runs": 7,
+    "official_game_id": 785,
+    "season": 2025
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 34,
+    "canonical_id": "official-ausl-2025-786",
+    "home_runs": 5,
+    "official_game_id": 786,
+    "season": 2025
+  },
+  {
+    "away_runs": 9,
+    "boxscore_rows": 32,
+    "canonical_id": "official-ausl-2025-787",
+    "home_runs": 2,
+    "official_game_id": 787,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 36,
+    "canonical_id": "official-ausl-2025-788",
+    "home_runs": 2,
+    "official_game_id": 788,
+    "season": 2025
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2025-789",
+    "home_runs": 2,
+    "official_game_id": 789,
+    "season": 2025
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-790",
+    "home_runs": 4,
+    "official_game_id": 790,
+    "season": 2025
+  },
+  {
+    "away_runs": 7,
+    "boxscore_rows": 36,
+    "canonical_id": "official-ausl-2025-791",
+    "home_runs": 5,
+    "official_game_id": 791,
+    "season": 2025
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 32,
+    "canonical_id": "official-ausl-2025-792",
+    "home_runs": 6,
+    "official_game_id": 792,
+    "season": 2025
+  },
+  {
+    "away_runs": 12,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-793",
+    "home_runs": 6,
+    "official_game_id": 793,
+    "season": 2025
+  },
+  {
+    "away_runs": 6,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2025-794",
+    "home_runs": 4,
+    "official_game_id": 794,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2025-795",
+    "home_runs": 5,
+    "official_game_id": 795,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2025-796",
+    "home_runs": 3,
+    "official_game_id": 796,
+    "season": 2025
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2025-797",
+    "home_runs": 0,
+    "official_game_id": 797,
+    "season": 2025
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 35,
+    "canonical_id": "official-ausl-2025-881",
+    "home_runs": 4,
+    "official_game_id": 881,
+    "season": 2025
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2026-913",
+    "home_runs": 5,
+    "official_game_id": 913,
+    "season": 2026
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-914",
+    "home_runs": 4,
+    "official_game_id": 914,
+    "season": 2026
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-915",
+    "home_runs": 13,
+    "official_game_id": 915,
+    "season": 2026
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-916",
+    "home_runs": 1,
+    "official_game_id": 916,
+    "season": 2026
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-917",
+    "home_runs": 11,
+    "official_game_id": 917,
+    "season": 2026
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2026-918",
+    "home_runs": 5,
+    "official_game_id": 918,
+    "season": 2026
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 34,
+    "canonical_id": "official-ausl-2026-919",
+    "home_runs": 9,
+    "official_game_id": 919,
+    "season": 2026
+  },
+  {
+    "away_runs": 12,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2026-920",
+    "home_runs": 4,
+    "official_game_id": 920,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 32,
+    "canonical_id": "official-ausl-2026-921",
+    "home_runs": 5,
+    "official_game_id": 921,
+    "season": 2026
+  },
+  {
+    "away_runs": 9,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2026-922",
+    "home_runs": 1,
+    "official_game_id": 922,
+    "season": 2026
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2026-923",
+    "home_runs": 9,
+    "official_game_id": 923,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2026-924",
+    "home_runs": 1,
+    "official_game_id": 924,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2026-925",
+    "home_runs": 11,
+    "official_game_id": 925,
+    "season": 2026
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 25,
+    "canonical_id": "official-ausl-2026-926",
+    "home_runs": 1,
+    "official_game_id": 926,
+    "season": 2026
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 36,
+    "canonical_id": "official-ausl-2026-927",
+    "home_runs": 6,
+    "official_game_id": 927,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-928",
+    "home_runs": 2,
+    "official_game_id": 928,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2026-929",
+    "home_runs": 5,
+    "official_game_id": 929,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 33,
+    "canonical_id": "official-ausl-2026-930",
+    "home_runs": 4,
+    "official_game_id": 930,
+    "season": 2026
+  },
+  {
+    "away_runs": 0,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2026-931",
+    "home_runs": 3,
+    "official_game_id": 931,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2026-932",
+    "home_runs": 3,
+    "official_game_id": 932,
+    "season": 2026
+  },
+  {
+    "away_runs": 6,
+    "boxscore_rows": 32,
+    "canonical_id": "official-ausl-2026-933",
+    "home_runs": 1,
+    "official_game_id": 933,
+    "season": 2026
+  },
+  {
+    "away_runs": 6,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-934",
+    "home_runs": 1,
+    "official_game_id": 934,
+    "season": 2026
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-935",
+    "home_runs": 0,
+    "official_game_id": 935,
+    "season": 2026
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-936",
+    "home_runs": 0,
+    "official_game_id": 936,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 37,
+    "canonical_id": "official-ausl-2026-938",
+    "home_runs": 3,
+    "official_game_id": 938,
+    "season": 2026
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2026-939",
+    "home_runs": 5,
+    "official_game_id": 939,
+    "season": 2026
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-940",
+    "home_runs": 6,
+    "official_game_id": 940,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 32,
+    "canonical_id": "official-ausl-2026-941",
+    "home_runs": 6,
+    "official_game_id": 941,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 26,
+    "canonical_id": "official-ausl-2026-942",
+    "home_runs": 6,
+    "official_game_id": 942,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-943",
+    "home_runs": 2,
+    "official_game_id": 943,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2026-944",
+    "home_runs": 0,
+    "official_game_id": 944,
+    "season": 2026
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 27,
+    "canonical_id": "official-ausl-2026-945",
+    "home_runs": 1,
+    "official_game_id": 945,
+    "season": 2026
+  },
+  {
+    "away_runs": 14,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2026-946",
+    "home_runs": 0,
+    "official_game_id": 946,
+    "season": 2026
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2026-947",
+    "home_runs": 6,
+    "official_game_id": 947,
+    "season": 2026
+  },
+  {
+    "away_runs": 6,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2026-948",
+    "home_runs": 3,
+    "official_game_id": 948,
+    "season": 2026
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 36,
+    "canonical_id": "official-ausl-2026-949",
+    "home_runs": 6,
+    "official_game_id": 949,
+    "season": 2026
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-950",
+    "home_runs": 2,
+    "official_game_id": 950,
+    "season": 2026
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-951",
+    "home_runs": 4,
+    "official_game_id": 951,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-952",
+    "home_runs": 13,
+    "official_game_id": 952,
+    "season": 2026
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-953",
+    "home_runs": 5,
+    "official_game_id": 953,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2026-954",
+    "home_runs": 9,
+    "official_game_id": 954,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-955",
+    "home_runs": 8,
+    "official_game_id": 955,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-956",
+    "home_runs": 11,
+    "official_game_id": 956,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-957",
+    "home_runs": 2,
+    "official_game_id": 957,
+    "season": 2026
+  },
+  {
+    "away_runs": 2,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-958",
+    "home_runs": 3,
+    "official_game_id": 958,
+    "season": 2026
+  },
+  {
+    "away_runs": 4,
+    "boxscore_rows": 34,
+    "canonical_id": "official-ausl-2026-959",
+    "home_runs": 5,
+    "official_game_id": 959,
+    "season": 2026
+  },
+  {
+    "away_runs": 3,
+    "boxscore_rows": 30,
+    "canonical_id": "official-ausl-2026-960",
+    "home_runs": 12,
+    "official_game_id": 960,
+    "season": 2026
+  },
+  {
+    "away_runs": 1,
+    "boxscore_rows": 28,
+    "canonical_id": "official-ausl-2026-961",
+    "home_runs": 2,
+    "official_game_id": 961,
+    "season": 2026
+  },
+  {
+    "away_runs": 8,
+    "boxscore_rows": 29,
+    "canonical_id": "official-ausl-2026-962",
+    "home_runs": 4,
+    "official_game_id": 962,
+    "season": 2026
+  },
+  {
+    "away_runs": 5,
+    "boxscore_rows": 31,
+    "canonical_id": "official-ausl-2026-963",
+    "home_runs": 7,
+    "official_game_id": 963,
+    "season": 2026
+  }
+]

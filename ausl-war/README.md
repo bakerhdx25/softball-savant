@@ -1,5 +1,9 @@
 # AUSL WAR Research
 
+> Product note: the standalone WAR leaderboard and TTO explorer are retained
+> as validated research references. Their combined product surface now lives
+> in `../softball-savant/`.
+
 This directory is an isolated research pipeline for AUSL Wins Above
 Replacement model. It does not import data into Scout Em Out, modify the web
 application, write to its database, or deploy anything.

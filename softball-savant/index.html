@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#071b2b">
+  <meta name="description" content="Independent AUSL softball statistics, player value, and scouting analysis">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Softball Savant</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#/" aria-label="Softball Savant home">
+      <span><strong>Softball Savant</strong></span>
+    </a>
+    <nav class="primary-nav" aria-label="Primary navigation">
+      <a href="#/leaderboards" data-nav="leaderboards">Leaderboards</a>
+      <a href="#/teams" data-nav="teams">Teams</a>
+      <a href="#/league" data-nav="league">League Stats</a>
+    </nav>
+    <div class="global-search">
+      <label class="sr-only" for="global-player-search">Search all players</label>
+      <input id="global-player-search" type="search" placeholder="Search players" autocomplete="off">
+      <div class="search-results" id="global-search-results" hidden></div>
+    </div>
+    <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-label="Toggle navigation">Menu</button>
+  </header>
+
+  <main>
+    <section class="page-view home-view" id="home-view">
+      <section class="home-section first"><div class="section-heading"><div><h1>Standings</h1></div></div><div id="home-standings"></div></section>
+      <section class="home-section"><div class="section-heading"><div><h2>WAR Leaders</h2></div><a href="#/leaderboards">All leaderboards →</a></div><div class="feature-leaders" id="home-leaders"></div></section>
+    </section>
+
+    <section class="page-view standard-page" id="players-view" hidden>
+      <header class="page-header"><p class="eyebrow">Player database</p><h1>Players</h1><p>Search every player with AUSL data from 2025 and 2026.</p></header>
+      <div class="directory-toolbar"><input id="directory-search" type="search" placeholder="Search by player or team"><select id="directory-team" aria-label="Filter players by team"><option value="">All teams</option></select><select id="directory-status" aria-label="Filter by roster status"><option value="all">All players</option><option value="current">Current rosters</option><option value="former">Past players</option></select></div>
+      <div class="player-directory" id="player-directory"></div>
+    </section>
+
+    <section class="page-view standard-page" id="leaderboards-view" hidden>
+      <header class="page-header"><h1>Leaderboards</h1></header>
+      <div class="leaderboard-shell">
+        <div class="leaderboard-controls"><div class="segmented" id="leaderboard-role"><button type="button" data-role="position" aria-pressed="true">Position Players</button><button type="button" data-role="pitching" aria-pressed="false">Pitchers</button></div><select id="leaderboard-group" aria-label="Leaderboard stat view"></select><select id="leaderboard-season" aria-label="Leaderboard season"><option value="2026">2026</option><option value="2025">2025</option></select><select id="leaderboard-team" aria-label="Filter by team"><option value="">All teams</option></select><input id="leaderboard-minimum" type="number" min="0" placeholder="Min PA"><input id="leaderboard-search" type="search" placeholder="Search players"></div>
+        <div class="table-meta" id="leaderboard-meta"></div><div class="table-scroll"><table class="savant-table leaderboard-table"><thead id="leaderboard-head"></thead><tbody id="leaderboard-body"></tbody></table></div>
+      </div>
+    </section>
+
+    <section class="page-view standard-page" id="league-view" hidden>
+      <header class="page-header"><h1>League Stats</h1></header>
+      <div id="league-content"></div>
+    </section>
+
+    <section class="page-view standard-page" id="teams-view" hidden>
+      <header class="page-header"><h1>Teams</h1></header>
+      <div class="team-grid" id="teams-directory"></div>
+    </section>
+
+    <section class="report page-view" id="report" hidden>
+      <div class="report-nav no-print"><label class="opponent-picker">Team<select id="opponent-select" aria-label="Select team"></select></label></div>
+      <section class="team-hero" id="team-hero"></section>
+      <div class="report-shell">
+        <aside class="roster-panel no-print" aria-label="Team roster"><div class="roster-head"><label for="player-search">Find a player</label><input id="player-search" type="search" placeholder="Search roster" autocomplete="off"></div><div class="role-filters" role="group" aria-label="Filter roster by role"><button type="button" data-role="all" aria-pressed="true">All</button><button type="button" data-role="hitters" aria-pressed="false">Hitters</button><button type="button" data-role="pitchers" aria-pressed="false">Pitchers</button></div><div class="roster-list" id="roster-list"></div></aside>
+        <div class="report-content"><section id="team-overview"></section><section id="player-report" hidden></section></div>
+      </div>
+    </section>
+  </main>
+
+  <div class="loading" id="loading" role="status">Loading Softball Savant…</div>
+  <script src="app.js" defer></script>
+</body>
+</html>

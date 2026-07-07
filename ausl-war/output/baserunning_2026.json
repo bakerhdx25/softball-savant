@@ -1,814 +1,646 @@
 [
   {
-    "advancement_opportunities": 34,
-    "baserunning_runs": -0.45509057789806806,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": 0.1175454185697749,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.6467125917190037,
-    "player": "Bubba Nickles-Camarena",
-    "player_key": "bubbanicklescamarena",
-    "runner_advancement_opportunities": 24,
-    "runner_advancement_runs": -0.7642580102887786,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.19162201382093572,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 29,
-    "baserunning_runs": -1.7566190507555044,
-    "batter_advancement_opportunities": 11,
-    "batter_advancement_runs": 0.12771148679438432,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.9026167755714554,
-    "player": "Jayda Coleman",
-    "player_key": "jaydacoleman",
-    "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": -2.0303282623658396,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.14599772481595102,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 28,
-    "baserunning_runs": 0.09496119105108919,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": -0.5582608594942551,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.0692862493668557,
-    "player": "Ana Gold",
-    "player_key": "anagold",
-    "runner_advancement_opportunities": 23,
-    "runner_advancement_runs": 0.4889746101273994,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.1642474404179449,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 14,
-    "baserunning_runs": -1.276031404277222,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": -0.6490537917873412,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.3490302666851977,
-    "player": "Baylee Klingler",
-    "player_key": "bayleeklingler",
-    "runner_advancement_opportunities": 8,
-    "runner_advancement_runs": -0.6999764748978564,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.07299886240797551,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 17,
-    "baserunning_runs": -0.9758734629857537,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": -0.8911897613812441,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.1036214721997109,
-    "player": "Grace Jenkins",
-    "player_key": "gracejenkins",
-    "runner_advancement_opportunities": 11,
-    "runner_advancement_runs": -0.2124317108184668,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.12774800921395715,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 33,
-    "baserunning_runs": -0.9803598939243636,
-    "batter_advancement_opportunities": 14,
-    "batter_advancement_runs": -0.2685804846377364,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.3261708629043409,
-    "player": "Korbe Otis",
-    "player_key": "korbeotis",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": -0.05759037826660446,
-    "sb_cs_attempts": 2,
-    "sb_cs_runs": -0.6541890310200227,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 30,
-    "baserunning_runs": 1.4367187876497902,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": 0.364502763266114,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.1903476270228728,
-    "player": "Megan Grant",
-    "player_key": "megangrant",
-    "runner_advancement_opportunities": 24,
-    "runner_advancement_runs": 0.8258448637567588,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.24637116062691736,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 64,
-    "baserunning_runs": 5.195835331127392,
-    "batter_advancement_opportunities": 21,
-    "batter_advancement_runs": 1.3369008051673437,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 4.894715023694493,
-    "player": "Jadelyn Allchin",
-    "player_key": "jadelynallchin",
-    "runner_advancement_opportunities": 43,
-    "runner_advancement_runs": 3.5578142185271497,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.30112030743289897,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 6,
-    "baserunning_runs": -0.8150048972550205,
+    "advancement_opportunities": 2,
+    "baserunning_runs": -0.04411266568104817,
     "batter_advancement_opportunities": 0,
     "batter_advancement_runs": 0,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.8150048972550205,
+    "non_steal_advancement_runs": -0.04411266568104817,
     "player": "Kyleigh Sand",
     "player_key": "kyleighsand",
-    "runner_advancement_opportunities": 6,
-    "runner_advancement_runs": -0.8150048972550205,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 26,
-    "baserunning_runs": 1.1004120950958975,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": 0.15198311604380776,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.9452895124789497,
-    "player": "Kenleigh Cahalan",
-    "player_key": "kenleighcahalan",
-    "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": 0.7933063964351419,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.15512258261694797,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 2,
-    "baserunning_runs": -0.5048788216297954,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.034910457390960103,
-    "player": "Bri Copeland",
-    "player_key": "bricopeland",
     "runner_advancement_opportunities": 2,
-    "runner_advancement_runs": 0.034910457390960103,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.5397892790207555,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 49,
-    "baserunning_runs": -0.928721243370795,
-    "batter_advancement_opportunities": 19,
-    "batter_advancement_runs": 0.42387895512255713,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.2115918352017,
-    "player": "Sydney Romero",
-    "player_key": "sydneyromero",
-    "runner_advancement_opportunities": 30,
-    "runner_advancement_runs": -1.6354707903242574,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2828705918309051,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 11,
-    "baserunning_runs": -0.05164903621619363,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": -0.45990344654364346,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.12464789862416914,
-    "player": "Dejah Mulipola",
-    "player_key": "dejahmulipola",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": 0.3352555479194743,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.07299886240797551,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": 0.016421679135257966,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": 0.24869822153171095,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.029202609869726726,
-    "player": "Rachel Becker",
-    "player_key": "rachelbecker",
-    "runner_advancement_opportunities": 12,
-    "runner_advancement_runs": -0.2779008314014377,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.04562428900498469,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": -1.6962897436805453,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": -0.3188082622867869,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.8670116521714563,
-    "player": "Taylor Biehl",
-    "player_key": "taylorbiehl",
-    "runner_advancement_opportunities": 12,
-    "runner_advancement_runs": -0.5482033898846694,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.8292780915090892,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 21,
-    "baserunning_runs": -0.27392626033303724,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": 0.3733255032749424,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.4381737007509821,
-    "player": "Aminah Vega",
-    "player_key": "aminahvega",
-    "runner_advancement_opportunities": 14,
-    "runner_advancement_runs": -0.8114992040259246,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.1642474404179449,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 26,
-    "baserunning_runs": 0.5420369535983385,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": 1.6745527596447234,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.41428894438438135,
-    "player": "Kendra Falby",
-    "player_key": "kendrafalby",
-    "runner_advancement_opportunities": 17,
-    "runner_advancement_runs": -1.260263815260342,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.12774800921395715,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 0,
-    "baserunning_runs": 0.0,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0,
-    "player": "Sarah Willis",
-    "player_key": "sarahwillis",
-    "runner_advancement_opportunities": 0,
-    "runner_advancement_runs": 0,
+    "runner_advancement_runs": -0.04411266568104817,
     "sb_cs_attempts": 0,
     "sb_cs_runs": 0.0,
-    "teams": []
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": 1.6941962057829083,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": 0.5065872471392691,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.593822769971942,
-    "player": "Tori Vidales",
-    "player_key": "torividales",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": 1.0872355228326729,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.10037343581096633,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 29,
-    "baserunning_runs": 0.5349502110405202,
-    "batter_advancement_opportunities": 11,
-    "batter_advancement_runs": 0.051598641293363945,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.37982762842357226,
-    "player": "Ailana Agbayani",
-    "player_key": "ailanaagbayani",
-    "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": 0.3282289871302083,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.15512258261694797,
     "teams": [
       "Chicago Bandits"
     ]
   },
   {
-    "advancement_opportunities": 6,
-    "baserunning_runs": -1.2353199446372511,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.058447256352841426,
+    "advancement_opportunities": 25,
+    "baserunning_runs": -0.19784079300457091,
+    "batter_advancement_opportunities": 10,
+    "batter_advancement_runs": 0.24197817032259475,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.433416426531153,
-    "player": "Caroline Jacobsen",
-    "player_key": "carolinejacobsen",
-    "runner_advancement_opportunities": 5,
-    "runner_advancement_runs": -0.37496917017831155,
+    "non_steal_advancement_runs": -0.03171005785401902,
+    "player": "Skylar Wallace",
+    "player_key": "skylarwallace",
+    "runner_advancement_opportunities": 15,
+    "runner_advancement_runs": -0.27368822817661376,
     "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.8019035181060983,
+    "sb_cs_runs": -0.1661307351505519,
     "teams": [
-      "Utah Talons"
+      "Chicago Bandits"
     ]
   },
   {
-    "advancement_opportunities": 21,
-    "baserunning_runs": 1.7383655865673098,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": 1.0214846564812197,
+    "advancement_opportunities": 12,
+    "baserunning_runs": 0.19898672354764743,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": 0.21265468920103164,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.6014927195523556,
-    "player": "Aleshia Ocasio",
-    "player_key": "aleshiaocasio",
-    "runner_advancement_opportunities": 14,
-    "runner_advancement_runs": 0.580008063071136,
+    "non_steal_advancement_runs": 0.14143547392475136,
+    "player": "Valerie Cagle",
+    "player_key": "valeriecagle",
+    "runner_advancement_opportunities": 7,
+    "runner_advancement_runs": -0.07121921527628028,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.13687286701495407,
+    "sb_cs_runs": 0.057551249622896074,
     "teams": [
       "Carolina Blaze"
     ]
   },
   {
-    "advancement_opportunities": 3,
-    "baserunning_runs": -0.3935835721987796,
-    "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": -0.4396018154975867,
+    "advancement_opportunities": 32,
+    "baserunning_runs": -0.39862339616506076,
+    "batter_advancement_opportunities": 14,
+    "batter_advancement_runs": 0.14481004856118923,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.43920786120376426,
-    "player": "Michaela Edenfield",
-    "player_key": "michaelaedenfield",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": 0.0003939542938224405,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.04562428900498469,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 6,
-    "baserunning_runs": -0.6947002389792895,
-    "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": -0.4538405036752886,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.7403245279842742,
-    "player": "Rachel Garcia",
-    "player_key": "rachelgarcia",
-    "runner_advancement_opportunities": 4,
-    "runner_advancement_runs": -0.28648402430898556,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.04562428900498469,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 18,
-    "baserunning_runs": 0.7726685153579651,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": -0.059055409379797585,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.6631702217460018,
-    "player": "Jalia Lassiter",
-    "player_key": "jalialassiter",
-    "runner_advancement_opportunities": 14,
-    "runner_advancement_runs": 0.7222256311257994,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.10949829361196327,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 30,
-    "baserunning_runs": 1.3352199673093559,
-    "batter_advancement_opportunities": 12,
-    "batter_advancement_runs": 0.167700374769577,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.1253482378864264,
-    "player": "Amari Harper",
-    "player_key": "amariharper",
+    "non_steal_advancement_runs": 0.38295889787397736,
+    "player": "Delanie Wisz",
+    "player_key": "delaniewisz",
     "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": 0.9576478631168494,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2098717294229296,
+    "runner_advancement_runs": 0.23814884931278812,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.7815822940390381,
     "teams": [
       "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 38,
-    "baserunning_runs": 2.207792190712233,
-    "batter_advancement_opportunities": 14,
-    "batter_advancement_runs": 0.032204007775884946,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 2.0344198924932915,
-    "player": "Jordan Woolery",
-    "player_key": "jordanwoolery",
-    "runner_advancement_opportunities": 24,
-    "runner_advancement_runs": 2.0022158847174065,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.17337229821894184,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": -0.5514838976500746,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": -0.16366273909561085,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.6153579022570531,
-    "player": "Sarah Gordon",
-    "player_key": "sarahgordon",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": -0.45169516316144226,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06387400460697858,
-    "teams": [
-      "Utah Talons"
     ]
   },
   {
     "advancement_opportunities": 28,
-    "baserunning_runs": 0.5426523228272581,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": 0.05425216682115075,
+    "baserunning_runs": 0.8164689737031237,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": 0.27093804172528163,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.8823658423648931,
-    "player": "Bella Dayton",
-    "player_key": "belladayton",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": 0.8281136755437424,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.33971351953763507,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 0,
-    "baserunning_runs": 0.0,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0,
-    "player": "Makayla McClain",
-    "player_key": "makaylamcclain",
-    "runner_advancement_opportunities": 0,
-    "runner_advancement_runs": 0,
+    "non_steal_advancement_runs": 0.5944855823005245,
+    "player": "Megan Grant",
+    "player_key": "megangrant",
+    "runner_advancement_opportunities": 22,
+    "runner_advancement_runs": 0.3235475405752429,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0,
-    "teams": []
-  },
-  {
-    "advancement_opportunities": 44,
-    "baserunning_runs": -1.658053584369489,
-    "batter_advancement_opportunities": 16,
-    "batter_advancement_runs": 0.3589786277057937,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.0900974182353713,
-    "player": "Sami Williams",
-    "player_key": "samiwilliams",
-    "runner_advancement_opportunities": 28,
-    "runner_advancement_runs": -1.449076045941165,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.5679561661341177,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 41,
-    "baserunning_runs": 1.5762309404589625,
-    "batter_advancement_opportunities": 13,
-    "batter_advancement_runs": 0.3711230197126483,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.3937337844390236,
-    "player": "Kailey Wycoff",
-    "player_key": "kaileywyckoff",
-    "runner_advancement_opportunities": 28,
-    "runner_advancement_runs": 1.0226107647263754,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.18249715601993877,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 14,
-    "baserunning_runs": 0.6872864474045424,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": 0.41222530253683964,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.6234124427975638,
-    "player": "Valerie Cagle",
-    "player_key": "valeriecagle",
-    "runner_advancement_opportunities": 9,
-    "runner_advancement_runs": 0.21118714026072416,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06387400460697858,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 33,
-    "baserunning_runs": -0.7821228743639983,
-    "batter_advancement_opportunities": 13,
-    "batter_advancement_runs": 0.019359586006234497,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.9919946037869279,
-    "player": "Aubrey Leach",
-    "player_key": "aubreyleach",
-    "runner_advancement_opportunities": 20,
-    "runner_advancement_runs": -1.0113541897931624,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2098717294229296,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 33,
-    "baserunning_runs": -0.6525056432279074,
-    "batter_advancement_opportunities": 12,
-    "batter_advancement_runs": -0.8944744504411878,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.28608866242609376,
-    "player": "Jenna Laird",
-    "player_key": "jennalaird",
-    "runner_advancement_opportunities": 21,
-    "runner_advancement_runs": 0.608385788015094,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.3664169808018136,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 3,
-    "baserunning_runs": 0.4060018342919371,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.4060018342919371,
-    "player": "Ashton Maloney",
-    "player_key": "ashtonmaloney",
-    "runner_advancement_opportunities": 3,
-    "runner_advancement_runs": 0.4060018342919371,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0,
+    "sb_cs_runs": 0.22198339140259912,
     "teams": [
       "Portland Cascade"
     ]
   },
   {
-    "advancement_opportunities": 19,
-    "baserunning_runs": -1.6091180916471621,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": -0.4761596223325016,
+    "advancement_opportunities": 21,
+    "baserunning_runs": -1.0240866777432291,
+    "batter_advancement_opportunities": 8,
+    "batter_advancement_runs": -0.6809168373939799,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.7459909586621163,
-    "player": "Sharlize Palacios",
-    "player_key": "sharlizepalacios",
+    "non_steal_advancement_runs": -0.792183085880796,
+    "player": "Danieca Coffey",
+    "player_key": "daniecacoffey",
     "runner_advancement_opportunities": 13,
-    "runner_advancement_runs": -1.2698313363296148,
+    "runner_advancement_runs": -0.1112662484868161,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.23190359186243314,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 46,
+    "baserunning_runs": 1.2381266594394922,
+    "batter_advancement_opportunities": 19,
+    "batter_advancement_runs": 0.2394785803376307,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.9668136255029821,
+    "player": "Jadelyn Allchin",
+    "player_key": "jadelynallchin",
+    "runner_advancement_opportunities": 27,
+    "runner_advancement_runs": 0.7273350451653514,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.13687286701495407,
+    "sb_cs_runs": 0.2713130339365101,
     "teams": [
       "Utah Talons"
     ]
   },
   {
     "advancement_opportunities": 23,
-    "baserunning_runs": -0.05350346876787193,
-    "batter_advancement_opportunities": 11,
-    "batter_advancement_runs": -0.02210234127914651,
+    "baserunning_runs": 0.2970074832079905,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": 0.15045652839654317,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.19950119358382296,
-    "player": "Kayla Kowalik",
-    "player_key": "kaylakowalik",
-    "runner_advancement_opportunities": 12,
-    "runner_advancement_runs": -0.17739885230467645,
+    "non_steal_advancement_runs": 0.1819049839621983,
+    "player": "Kennedy Powell",
+    "player_key": "kennedypowell",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": 0.03144845556565515,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.14599772481595102,
+    "sb_cs_runs": 0.11510249924579215,
+    "teams": [
+      "Portland Cascade"
+    ]
+  },
+  {
+    "advancement_opportunities": 20,
+    "baserunning_runs": -0.9196676276297381,
+    "batter_advancement_opportunities": 10,
+    "batter_advancement_runs": -0.8989925934452264,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.0923213764984263,
+    "player": "Mary Iakopo",
+    "player_key": "maryiakopo",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": -0.1933287830531999,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.17265374886868823,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 59,
+    "baserunning_runs": -1.573131492644072,
+    "batter_advancement_opportunities": 15,
+    "batter_advancement_runs": -1.3148662199018675,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.786893276957686,
+    "player": "Aliyah Andrews",
+    "player_key": "aliyahandrews",
+    "runner_advancement_opportunities": 44,
+    "runner_advancement_runs": -0.4720270570558185,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.21376178431361398,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 19,
+    "baserunning_runs": 0.014332705505960358,
+    "batter_advancement_opportunities": 8,
+    "batter_advancement_runs": 0.9954019696556643,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.1886850477454974,
+    "player": "Jackie Lis",
+    "player_key": "jackielis",
+    "runner_advancement_opportunities": 11,
+    "runner_advancement_runs": -0.8067169219101669,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.17435234223953705,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 8,
+    "baserunning_runs": 0.16361594051312559,
+    "batter_advancement_opportunities": 2,
+    "batter_advancement_runs": -0.2739746107733619,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.12250790506819982,
+    "player": "Maddie Moore",
+    "player_key": "maddiemoore",
+    "runner_advancement_opportunities": 6,
+    "runner_advancement_runs": 0.3964825158415617,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.041108035444925764,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 0,
+    "baserunning_runs": -0.532912110004091,
+    "batter_advancement_opportunities": 0,
+    "batter_advancement_runs": 0,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0,
+    "player": "Bri Copeland",
+    "player_key": "bricopeland",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
+    "sb_cs_attempts": 2,
+    "sb_cs_runs": -0.532912110004091,
+    "teams": []
+  },
+  {
+    "advancement_opportunities": 16,
+    "baserunning_runs": 0.523246444383948,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": -0.0843080406959805,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.4410303734940964,
+    "player": "Tori Vidales",
+    "player_key": "torividales",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": 0.5253384141900769,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.08221607088985153,
+    "teams": [
+      "Portland Cascade"
+    ]
+  },
+  {
+    "advancement_opportunities": 42,
+    "baserunning_runs": -1.1529272406712086,
+    "batter_advancement_opportunities": 20,
+    "batter_advancement_runs": -0.45484484230828603,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.588397190854506,
+    "player": "Rylie Boone",
+    "player_key": "rylieboone",
+    "runner_advancement_opportunities": 22,
+    "runner_advancement_runs": -0.13355234854622,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.5645300498167025,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 43,
+    "baserunning_runs": -0.9649859396025826,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": -0.33634381512727,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.2116341522721372,
+    "player": "Maya Brady",
+    "player_key": "mayabrady",
+    "runner_advancement_opportunities": 31,
+    "runner_advancement_runs": -0.8752903371448673,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.24664821266955458,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 4,
+    "baserunning_runs": 0.231140916015158,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": 0.17432646511671376,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.20647609474820253,
+    "player": "Jordyn Rudd-Lee",
+    "player_key": "jordynruddlee",
+    "runner_advancement_opportunities": 3,
+    "runner_advancement_runs": 0.03214962963148876,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.02466482126695546,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 39,
+    "baserunning_runs": 1.9498490107053754,
+    "batter_advancement_opportunities": 14,
+    "batter_advancement_runs": 1.365364712924601,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.7936384760146575,
+    "player": "Jordan Woolery",
+    "player_key": "jordanwoolery",
+    "runner_advancement_opportunities": 25,
+    "runner_advancement_runs": 0.4282737630900566,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.1562105346907179,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 19,
+    "baserunning_runs": -0.46441325399180083,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": -0.29965580523836755,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.579515753237593,
+    "player": "Jalia Lassiter",
+    "player_key": "jalialassiter",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": -0.2798599479992254,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.11510249924579215,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 21,
+    "baserunning_runs": -0.5656016476296399,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": -0.23797825583980464,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.7135905752313727,
+    "player": "Aminah Vega",
+    "player_key": "aminahvega",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": -0.47561231939156806,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.14798892760173277,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 38,
+    "baserunning_runs": -1.9630834089931726,
+    "batter_advancement_opportunities": 13,
+    "batter_advancement_runs": -1.1696889056230937,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.5191238756566796,
+    "player": "Bella Dayton",
+    "player_key": "belladayton",
+    "runner_advancement_opportunities": 25,
+    "runner_advancement_runs": -0.3494349700335859,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.44395953333649296,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 51,
+    "baserunning_runs": 0.2312683472424894,
+    "batter_advancement_opportunities": 17,
+    "batter_advancement_runs": -0.6298004006392697,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.031823079605035484,
+    "player": "Morgan Zerkle",
+    "player_key": "morganzerkle",
+    "runner_advancement_opportunities": 34,
+    "runner_advancement_runs": 0.5979773210342342,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.2630914268475249,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 14,
+    "baserunning_runs": -0.7271979805808839,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": 0.030632326260309595,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.08950527758895183,
+    "player": "Tayler Biehl",
+    "player_key": "taylerbiehl",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": -0.12013760384926142,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.6376927029919321,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 46,
+    "baserunning_runs": 0.13744314343747,
+    "batter_advancement_opportunities": 19,
+    "batter_advancement_runs": 0.1475482282019397,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.1256482834100549,
+    "player": "Sydney Romero",
+    "player_key": "sydneyromero",
+    "runner_advancement_opportunities": 27,
+    "runner_advancement_runs": -0.2731965116119946,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.2630914268475249,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 23,
+    "baserunning_runs": 0.46988075983412836,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": 1.5795027457735313,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.8481529815962001,
+    "player": "Mac Barbara",
+    "player_key": "macbarbara",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": 0.2686502358226688,
+    "sb_cs_attempts": 2,
+    "sb_cs_runs": -1.3782722217620718,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 3,
+    "baserunning_runs": -0.002548579119693438,
+    "batter_advancement_opportunities": 2,
+    "batter_advancement_runs": -0.04198493254860325,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.0436566145646192,
+    "player": "Tianna Bell",
+    "player_key": "tiannabell",
+    "runner_advancement_opportunities": 1,
+    "runner_advancement_runs": -0.0016716820160159532,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.041108035444925764,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 22,
+    "baserunning_runs": 1.1624025489570762,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": 1.1357031098842978,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.0308568355333136,
+    "player": "Devyn Netz",
+    "player_key": "devynnetz",
+    "runner_advancement_opportunities": 16,
+    "runner_advancement_runs": -0.10484627435098415,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.13154571342376245,
     "teams": [
       "Carolina Blaze"
     ]
   },
   {
-    "advancement_opportunities": 25,
-    "baserunning_runs": 1.177874696740489,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": 1.2643482482362107,
+    "advancement_opportunities": 38,
+    "baserunning_runs": -2.375674477161289,
+    "batter_advancement_opportunities": 15,
+    "batter_advancement_runs": -0.9588632243314001,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.0592515453275286,
-    "player": "Kennedy Powell",
-    "player_key": "kennedypowell",
-    "runner_advancement_opportunities": 16,
-    "runner_advancement_runs": -0.2050967029086821,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.1186231514129602,
+    "non_steal_advancement_runs": -1.7360750721388551,
+    "player": "Korbe Otis",
+    "player_key": "korbeotis",
+    "runner_advancement_opportunities": 23,
+    "runner_advancement_runs": -0.777211847807455,
+    "sb_cs_attempts": 2,
+    "sb_cs_runs": -0.6395994050224343,
     "teams": [
       "Portland Cascade"
     ]
   },
   {
-    "advancement_opportunities": 2,
-    "baserunning_runs": -0.08735174833915513,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.10599541823497144,
+    "advancement_opportunities": 14,
+    "baserunning_runs": 0.3258529546427464,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": 0.3997928300435598,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.105601463941149,
-    "player": "Ali Newland",
-    "player_key": "alinewland",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": 0.0003939542938224405,
+    "non_steal_advancement_runs": 0.2683017050198503,
+    "player": "Sarah Gordon",
+    "player_key": "sarahgordon",
+    "runner_advancement_opportunities": 8,
+    "runner_advancement_runs": -0.13149112502370952,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.018249715601993878,
+    "sb_cs_runs": 0.057551249622896074,
     "teams": [
-      "Portland Cascade"
+      "Utah Talons"
     ]
   },
   {
-    "advancement_opportunities": 34,
-    "baserunning_runs": -2.1399272280136583,
-    "batter_advancement_opportunities": 13,
-    "batter_advancement_runs": -1.4429008446229867,
+    "advancement_opportunities": 33,
+    "baserunning_runs": -0.6388556571483253,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": -0.47657717782264497,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -2.340674099635591,
-    "player": "Dakota Kennedy",
-    "player_key": "dakotakennedy",
+    "non_steal_advancement_runs": -0.8279526201949837,
+    "player": "Aubrey Leach",
+    "player_key": "aubreyleach",
     "runner_advancement_opportunities": 21,
-    "runner_advancement_runs": -0.8977732550126041,
+    "runner_advancement_runs": -0.35137544237233875,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.20074687162193267,
+    "sb_cs_runs": 0.18909696304665852,
     "teams": [
       "Carolina Blaze"
     ]
   },
   {
     "advancement_opportunities": 33,
-    "baserunning_runs": 0.20684096491534154,
+    "baserunning_runs": 0.011638954771445026,
+    "batter_advancement_opportunities": 13,
+    "batter_advancement_runs": -0.12608376637460048,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.15279318700825803,
+    "player": "Dakota Kennedy",
+    "player_key": "dakotakennedy",
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": -0.026709420633657555,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.16443214177970306,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 31,
+    "baserunning_runs": -0.7368777979157801,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": -0.5617533341689197,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.9177531538734535,
+    "player": "Sahvanna Jaquish",
+    "player_key": "sahvannajaquish",
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": -0.35599981970453376,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.18087535595767337,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 36,
+    "baserunning_runs": 1.7674035169869042,
     "batter_advancement_opportunities": 14,
-    "batter_advancement_runs": 0.9132738567938556,
+    "batter_advancement_runs": 1.6027426560548848,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.7179062380524546,
-    "player": "Delanie Wisz",
-    "player_key": "delaniewisz",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": -0.19536761874140107,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.511065273137113,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": -0.366725532859027,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": 0.10518316200470723,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.5492226888789657,
-    "player": "Mary Iakopo",
-    "player_key": "maryiakopo",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": -0.654405850883673,
+    "non_steal_advancement_runs": 1.594749768118216,
+    "player": "Ailana Agbayani",
+    "player_key": "ailanaagbayani",
+    "runner_advancement_opportunities": 22,
+    "runner_advancement_runs": -0.007992887936668858,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.18249715601993877,
+    "sb_cs_runs": 0.17265374886868823,
     "teams": [
       "Chicago Bandits"
     ]
   },
   {
-    "advancement_opportunities": 26,
-    "baserunning_runs": -1.3517629756294185,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.791802134158827,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.366361896610275,
-    "player": "Jaydyn Goodwin",
-    "player_key": "jaydyngoodwin",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": -0.574559762451448,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": 0.014598920980856606,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 24,
-    "baserunning_runs": -0.6164666487050172,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": 0.3628063796569608,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.44731774989976836,
-    "player": "Skylar Wallace",
-    "player_key": "skylarwallace",
-    "runner_advancement_opportunities": 14,
-    "runner_advancement_runs": -0.8101241295567292,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.16914889880524886,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 27,
-    "baserunning_runs": 2.6065498363048487,
+    "advancement_opportunities": 14,
+    "baserunning_runs": 1.1097251708025764,
     "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": 0.06906706098078569,
+    "batter_advancement_runs": 0.9925595484233235,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 2.42405268028491,
-    "player": "Sydney Stewart",
-    "player_key": "sydneystewart",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": 2.354985619304124,
+    "non_steal_advancement_runs": 1.0192874928237396,
+    "player": "Jessica Clements",
+    "player_key": "jessicaclements",
+    "runner_advancement_opportunities": 6,
+    "runner_advancement_runs": 0.026727944400416148,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.18249715601993877,
+    "sb_cs_runs": 0.09043767797883669,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 46,
+    "baserunning_runs": 2.0869677540054887,
+    "batter_advancement_opportunities": 13,
+    "batter_advancement_runs": 0.17356150285905103,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.8156547200689788,
+    "player": "Erin Coffel",
+    "player_key": "erincoffel",
+    "runner_advancement_opportunities": 33,
+    "runner_advancement_runs": 1.6420932172099278,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.2713130339365101,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 23,
+    "baserunning_runs": 1.5367837711046264,
+    "batter_advancement_opportunities": 10,
+    "batter_advancement_runs": 1.0937615778048,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.4052380576808639,
+    "player": "Kendra Falby",
+    "player_key": "kendrafalby",
+    "runner_advancement_opportunities": 13,
+    "runner_advancement_runs": 0.31147647987606386,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.13154571342376245,
     "teams": [
       "Portland Cascade"
     ]
   },
   {
-    "advancement_opportunities": 32,
-    "baserunning_runs": 0.16082132122286788,
-    "batter_advancement_opportunities": 11,
-    "batter_advancement_runs": 0.5418507973110482,
+    "advancement_opportunities": 10,
+    "baserunning_runs": -0.29576905655702895,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": -0.2178305643582497,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.0673001238020556,
-    "player": "Sydney Sherrill",
-    "player_key": "sydneysherrill",
-    "runner_advancement_opportunities": 21,
-    "runner_advancement_runs": -0.6091509211131039,
+    "non_steal_advancement_runs": -0.36154191326891016,
+    "player": "Dejah Mulipola",
+    "player_key": "dejahmulipola",
+    "runner_advancement_opportunities": 6,
+    "runner_advancement_runs": -0.14371134891066045,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.22812144502492349,
+    "sb_cs_runs": 0.06577285671188123,
     "teams": [
-      "Oklahoma City Spark"
+      "Texas Volts"
     ]
   },
   {
-    "advancement_opportunities": 3,
-    "baserunning_runs": 0.10058810798957313,
+    "advancement_opportunities": 6,
+    "baserunning_runs": -1.0770163186030155,
     "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": 0.045445006889769046,
+    "batter_advancement_runs": -0.019998463118063914,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.04583896118359149,
-    "player": "Tianna Bell",
-    "player_key": "tiannabell",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": 0.0003939542938224405,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.054749146805981634,
+    "non_steal_advancement_runs": -0.21451933558264602,
+    "player": "Kelly Torres",
+    "player_key": "kellytorres",
+    "runner_advancement_opportunities": 4,
+    "runner_advancement_runs": -0.1945208724645821,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.8624969830203696,
     "teams": [
-      "Chicago Bandits"
+      "Portland Cascade"
     ]
   },
   {
@@ -827,664 +659,790 @@
     "teams": []
   },
   {
-    "advancement_opportunities": 17,
-    "baserunning_runs": 1.1889017527036103,
+    "advancement_opportunities": 24,
+    "baserunning_runs": -0.3940169390128323,
     "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": 1.0714589021014629,
+    "batter_advancement_runs": -0.7782394046258092,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.0429040278876593,
-    "player": "Devyn Netz",
-    "player_key": "devynnetz",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": -0.02855487421380354,
+    "non_steal_advancement_runs": -0.5255626524365947,
+    "player": "Alyssa Brito",
+    "player_key": "alyssabrito",
+    "runner_advancement_opportunities": 17,
+    "runner_advancement_runs": 0.2526767521892145,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.14599772481595102,
+    "sb_cs_runs": 0.13154571342376245,
     "teams": [
       "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 10,
-    "baserunning_runs": 0.27548752025379003,
-    "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": -0.07257469024186292,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.21161351564681147,
-    "player": "Sierra Romero",
-    "player_key": "sierraromero",
-    "runner_advancement_opportunities": 8,
-    "runner_advancement_runs": 0.2841882058886744,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06387400460697858,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 13,
-    "baserunning_runs": -0.002106960462753077,
-    "batter_advancement_opportunities": 3,
-    "batter_advancement_runs": -0.07069920777284816,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.09335553847272246,
-    "player": "Sierra Sacco-Ferrie",
-    "player_key": "sierrasaccoferrie",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": -0.0226563306998743,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.09124857800996938,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 30,
-    "baserunning_runs": -0.5915040083394231,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": -0.8998714523727369,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.7740011643593618,
-    "player": "Sis Bates",
-    "player_key": "sisbates",
-    "runner_advancement_opportunities": 20,
-    "runner_advancement_runs": 0.12587028801337508,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.18249715601993877,
-    "teams": [
-      "Portland Cascade"
-    ]
-  },
-  {
-    "advancement_opportunities": 25,
-    "baserunning_runs": 0.8122629727251172,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": 1.9238410584197614,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.6206409589041815,
-    "player": "Reese Atwood",
-    "player_key": "reeseatwood",
-    "runner_advancement_opportunities": 15,
-    "runner_advancement_runs": -1.30320009951558,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.19162201382093572,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": -0.05015836973718675,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.2948395986797133,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.1322820899461592,
-    "player": "Leighann Goode",
-    "player_key": "leighanngoode",
-    "runner_advancement_opportunities": 9,
-    "runner_advancement_runs": 0.16255750873355412,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.08212372020897245,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 21,
-    "baserunning_runs": -0.1924454826271117,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": 0.651832902318841,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.3110686340400719,
-    "player": "Taryn Kern",
-    "player_key": "tarynkern",
-    "runner_advancement_opportunities": 16,
-    "runner_advancement_runs": -0.9629015363589128,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.1186231514129602,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 43,
-    "baserunning_runs": -0.5798771289670095,
-    "batter_advancement_opportunities": 16,
-    "batter_advancement_runs": -1.511926068297589,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.8444980051959208,
-    "player": "Morgan Zerkle",
-    "player_key": "morganzerkle",
-    "runner_advancement_opportunities": 27,
-    "runner_advancement_runs": 0.6674280631016682,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.26462087622891123,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 19,
-    "baserunning_runs": -0.6144825069853769,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.2876294301736001,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.3905844613741464,
-    "player": "Danieca Coffey",
-    "player_key": "daniecacoffey",
-    "runner_advancement_opportunities": 12,
-    "runner_advancement_runs": -0.10295503120054628,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.2238980456112305,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 25,
-    "baserunning_runs": -0.5742220108846738,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": 0.25462780580832645,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.7749688825066066,
-    "player": "Bri Ellis",
-    "player_key": "briellis",
-    "runner_advancement_opportunities": 16,
-    "runner_advancement_runs": -1.029596688314933,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.20074687162193267,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 10,
-    "baserunning_runs": 0.3198337670832738,
-    "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": 0.10222519994617807,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.2742094780782891,
-    "player": "Maddie Moore",
-    "player_key": "maddiemoore",
-    "runner_advancement_opportunities": 8,
-    "runner_advancement_runs": 0.17198427813211103,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.04562428900498469,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 14,
-    "baserunning_runs": 0.2509992733884365,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.047870010410185626,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.19625012658245483,
-    "player": "McKenzie Clark",
-    "player_key": "mckenzieclark",
-    "runner_advancement_opportunities": 13,
-    "runner_advancement_runs": 0.24412013699264046,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.054749146805981634,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 30,
-    "baserunning_runs": -0.16522826231777976,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": 0.6605242765004666,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.37509999174070935,
-    "player": "Jocelyn Erickson",
-    "player_key": "jocelynerickson",
-    "runner_advancement_opportunities": 20,
-    "runner_advancement_runs": -1.035624268241176,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2098717294229296,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 13,
-    "baserunning_runs": -1.821591282772455,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": -1.5831446690411277,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.3232294104207303,
-    "player": "Mac Barbara",
-    "player_key": "macbarbara",
-    "runner_advancement_opportunities": 5,
-    "runner_advancement_runs": 0.25991525862039744,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.4983618723517246,
-    "teams": [
-      "Chicago Bandits"
     ]
   },
   {
     "advancement_opportunities": 7,
-    "baserunning_runs": 0.04423038850556088,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
+    "baserunning_runs": -0.661190254460948,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": 0.1365786269779584,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.04423038850556088,
-    "player": "Billie Andrews",
-    "player_key": "billieandrews",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": 0.04423038850556088,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0,
+    "non_steal_advancement_runs": 0.11909065766957007,
+    "player": "Caroline Jacobsen",
+    "player_key": "carolinejacobsen",
+    "runner_advancement_opportunities": 6,
+    "runner_advancement_runs": -0.01748796930838832,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.7802809121305181,
     "teams": [
-      "Oklahoma City Spark"
+      "Utah Talons"
     ]
   },
   {
-    "advancement_opportunities": 29,
-    "baserunning_runs": 0.04783645552224022,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": -0.8499272261565658,
+    "advancement_opportunities": 27,
+    "baserunning_runs": -1.0136317510382222,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": -0.9281924150534684,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.08903641149271385,
+    "non_steal_advancement_runs": -1.1369558573729994,
     "player": "Hannah Flippen",
     "player_key": "hannahflippen",
-    "runner_advancement_opportunities": 21,
-    "runner_advancement_runs": 0.760890814663852,
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": -0.20876344231953103,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.13687286701495407,
+    "sb_cs_runs": 0.12332410633477729,
     "teams": [
       "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 59,
-    "baserunning_runs": -0.5486113211332063,
-    "batter_advancement_opportunities": 15,
-    "batter_advancement_runs": -0.9847480717025958,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.7858576239591267,
-    "player": "Aliyah Andrews",
-    "player_key": "aliyahandrews",
-    "runner_advancement_opportunities": 44,
-    "runner_advancement_runs": 0.1988904477434691,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2372463028259204,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 2,
-    "baserunning_runs": 0.3605957500159637,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.3514708922149668,
-    "player": "Kelsey Stewart-Hunter",
-    "player_key": "kelseystewarthunter",
-    "runner_advancement_opportunities": 2,
-    "runner_advancement_runs": 0.3514708922149668,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.009124857800996939,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 43,
-    "baserunning_runs": -0.7159598582474787,
-    "batter_advancement_opportunities": 13,
-    "batter_advancement_runs": -0.39143101200671016,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.0262050234813747,
-    "player": "Erin Coffel",
-    "player_key": "erincoffel",
-    "runner_advancement_opportunities": 30,
-    "runner_advancement_runs": -0.6347740114746645,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.31024516523389595,
-    "teams": [
-      "Chicago Bandits"
     ]
   },
   {
     "advancement_opportunities": 39,
-    "baserunning_runs": 0.07209471111072419,
-    "batter_advancement_opportunities": 12,
-    "batter_advancement_runs": 0.2904623673451281,
+    "baserunning_runs": -2.1875969328228098,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": -0.9591187642769805,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.19252616511818704,
-    "player": "Maya Brady",
-    "player_key": "mayabrady",
-    "runner_advancement_opportunities": 27,
-    "runner_advancement_runs": -0.48298853246331513,
+    "non_steal_advancement_runs": -2.360250681691498,
+    "player": "Sis Bates",
+    "player_key": "sisbates",
+    "runner_advancement_opportunities": 28,
+    "runner_advancement_runs": -1.4011319174145176,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.26462087622891123,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 4,
-    "baserunning_runs": -0.3529844073454649,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.3529844073454649,
-    "player": "Jala Wright",
-    "player_key": "jalawright",
-    "runner_advancement_opportunities": 4,
-    "runner_advancement_runs": -0.3529844073454649,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0,
-    "teams": [
-      "Carolina Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 17,
-    "baserunning_runs": 0.04459653397423691,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": -0.9253490180903802,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.0740266174387233,
-    "player": "Sydney McKinney",
-    "player_key": "sydneymckinney",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": 0.8513224006516569,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.1186231514129602,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 33,
-    "baserunning_runs": 1.3674363541018026,
-    "batter_advancement_opportunities": 14,
-    "batter_advancement_runs": 0.08559731428385631,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.16668948247987,
-    "player": "Sahvanna Jaquish",
-    "player_key": "sahvannajaquish",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": 1.0810921681960135,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.20074687162193267,
-    "teams": [
-      "Utah Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 1,
-    "baserunning_runs": -0.16764264868805348,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.17676750648905043,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.17676750648905043,
-    "player": "Keirstin Roose",
-    "player_key": "keirstinroose",
-    "runner_advancement_opportunities": 0,
-    "runner_advancement_runs": 0.0,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.009124857800996939,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 14,
-    "baserunning_runs": -0.8241730652036539,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": -0.04238712202103079,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.8880470698106324,
-    "player": "Elon Butler",
-    "player_key": "elonbutler",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": -0.8456599477896016,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06387400460697858,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 15,
-    "baserunning_runs": 0.6966665032033679,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": 0.05926039938687666,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.6145427829943955,
-    "player": "Jessica Clements",
-    "player_key": "jessicaclements",
-    "runner_advancement_opportunities": 9,
-    "runner_advancement_runs": 0.5552823836075188,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.08212372020897245,
-    "teams": [
-      "Chicago Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 17,
-    "baserunning_runs": 1.4050789686712448,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": 0.838520295232347,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.5651030096754968,
-    "player": "Jackie Lis",
-    "player_key": "jackielis",
-    "runner_advancement_opportunities": 9,
-    "runner_advancement_runs": 0.7265827144431498,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.1600240410042519,
-    "teams": [
-      "Texas Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 10,
-    "baserunning_runs": -0.048342138666939594,
-    "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": 0.07204354062522805,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.7107795486718286,
-    "player": "Kelly Torres",
-    "player_key": "kellytorres",
-    "runner_advancement_opportunities": 8,
-    "runner_advancement_runs": 0.6387360080466005,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.7591216873387682,
+    "sb_cs_runs": 0.17265374886868823,
     "teams": [
       "Portland Cascade"
     ]
   },
   {
-    "advancement_opportunities": 10,
-    "baserunning_runs": -0.37012842230402637,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": -0.3464051800957387,
+    "advancement_opportunities": 15,
+    "baserunning_runs": -0.15740836261107377,
+    "batter_advancement_opportunities": 3,
+    "batter_advancement_runs": -0.23524665177594084,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.5161261471199774,
-    "player": "Haley Lee",
-    "player_key": "haleylee",
-    "runner_advancement_opportunities": 5,
-    "runner_advancement_runs": -0.16972096702423872,
+    "non_steal_advancement_runs": -0.2396244335009253,
+    "player": "Sierra Sacco-Ferrie",
+    "player_key": "sierrasaccoferrie",
+    "runner_advancement_opportunities": 12,
+    "runner_advancement_runs": -0.004377781724984459,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.14599772481595102,
+    "sb_cs_runs": 0.08221607088985153,
+    "teams": [
+      "Portland Cascade"
+    ]
+  },
+  {
+    "advancement_opportunities": 25,
+    "baserunning_runs": 0.6567291237796609,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": 0.05587538096231237,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.5251834103558984,
+    "player": "Jayda Coleman",
+    "player_key": "jaydacoleman",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": 0.46930802939358607,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.13154571342376245,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 18,
+    "baserunning_runs": 2.3755962537548885,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": 1.5734188582079454,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 2.2851585757760517,
+    "player": "Taryn Kern",
+    "player_key": "tarynkern",
+    "runner_advancement_opportunities": 13,
+    "runner_advancement_runs": 0.7117397175681064,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.09043767797883669,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 29,
+    "baserunning_runs": 0.6442534431112534,
+    "batter_advancement_opportunities": 10,
+    "batter_advancement_runs": 0.1926422218781666,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.47159969424256515,
+    "player": "Bubba Nickles-Camarena",
+    "player_key": "bubbanicklescamarena",
+    "runner_advancement_opportunities": 19,
+    "runner_advancement_runs": 0.27895747236439855,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.17265374886868823,
     "teams": [
       "Oklahoma City Spark"
     ]
   },
   {
-    "advancement_opportunities": 6,
-    "baserunning_runs": 0.31080801066288816,
+    "advancement_opportunities": 10,
+    "baserunning_runs": -0.23483273507747685,
+    "batter_advancement_opportunities": 2,
+    "batter_advancement_runs": -0.2454129575455895,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.2923839847003729,
+    "player": "Sierra Romero",
+    "player_key": "sierraromero",
+    "runner_advancement_opportunities": 8,
+    "runner_advancement_runs": -0.04697102715478341,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.057551249622896074,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 1,
+    "baserunning_runs": 0.05118202356453977,
     "batter_advancement_opportunities": 0,
     "batter_advancement_runs": 0,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.30168315286189124,
+    "non_steal_advancement_runs": 0.04296041647555462,
     "player": "Karli Spaid",
     "player_key": "karlispaid",
-    "runner_advancement_opportunities": 6,
-    "runner_advancement_runs": 0.30168315286189124,
+    "runner_advancement_opportunities": 1,
+    "runner_advancement_runs": 0.04296041647555462,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.009124857800996939,
+    "sb_cs_runs": 0.008221607088985153,
     "teams": [
       "Carolina Blaze"
     ]
   },
   {
-    "advancement_opportunities": 1,
-    "baserunning_runs": 0.00039395429382244035,
+    "advancement_opportunities": 0,
+    "baserunning_runs": 0.0,
     "batter_advancement_opportunities": 0,
     "batter_advancement_runs": 0,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.00039395429382244035,
-    "player": "Kaiah Altmeyer",
-    "player_key": "kaiahaltmeyer",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": 0.00039395429382244035,
+    "non_steal_advancement_runs": 0,
+    "player": "Ally Carda",
+    "player_key": "allycarda",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
     "sb_cs_attempts": 0,
     "sb_cs_runs": 0.0,
-    "teams": [
-      "Texas Volts"
-    ]
+    "teams": []
   },
   {
-    "advancement_opportunities": 16,
-    "baserunning_runs": 0.4379826604563014,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": -0.17126543865963306,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.3011097934413473,
-    "player": "Jessi Warren",
-    "player_key": "jessiwarren",
-    "runner_advancement_opportunities": 8,
-    "runner_advancement_runs": 0.47237523210098037,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.13687286701495407,
-    "teams": [
-      "Oklahoma City Spark"
-    ]
-  },
-  {
-    "advancement_opportunities": 6,
-    "baserunning_runs": 0.4406383213475965,
+    "advancement_opportunities": 0,
+    "baserunning_runs": 0.0,
     "batter_advancement_opportunities": 0,
     "batter_advancement_runs": 0,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.2096219271519155,
-    "player": "KK Madrey",
-    "player_key": "kkmadrey",
-    "runner_advancement_opportunities": 6,
-    "runner_advancement_runs": 1.2096219271519155,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.768983605804319,
+    "non_steal_advancement_runs": 0,
+    "player": "Billie Andrews",
+    "player_key": "billieandrews",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.0,
+    "teams": []
+  },
+  {
+    "advancement_opportunities": 3,
+    "baserunning_runs": -0.2098101522327241,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": -0.10036951063046437,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.2262533664106944,
+    "player": "Ali Newland",
+    "player_key": "alinewland",
+    "runner_advancement_opportunities": 2,
+    "runner_advancement_runs": -0.12588385578023004,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.016443214177970306,
+    "teams": [
+      "Portland Cascade"
+    ]
+  },
+  {
+    "advancement_opportunities": 16,
+    "baserunning_runs": 1.167031515099084,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": 1.2337131195210813,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.0437074087643068,
+    "player": "Aleshia Ocasio",
+    "player_key": "aleshiaocasio",
+    "runner_advancement_opportunities": 9,
+    "runner_advancement_runs": -0.19000571075677453,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.12332410633477729,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 29,
+    "baserunning_runs": 1.2391628579568823,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": 0.9833668004561302,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.0418442878212386,
+    "player": "Amari Harper",
+    "player_key": "amariharper",
+    "runner_advancement_opportunities": 17,
+    "runner_advancement_runs": 0.05847748736510838,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.1973185701356437,
     "teams": [
       "Oklahoma City Spark"
     ]
   },
   {
-    "advancement_opportunities": 16,
-    "baserunning_runs": -1.6867859937117018,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": -0.6810400903291784,
+    "advancement_opportunities": 23,
+    "baserunning_runs": -1.539240717436889,
+    "batter_advancement_opportunities": 8,
+    "batter_advancement_runs": -0.2393569795832511,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.3561973319750635,
-    "player": "Tiare Jennings",
-    "player_key": "tiarejennings",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": -0.6751572416458851,
+    "non_steal_advancement_runs": -1.1726529397218135,
+    "player": "Aliyah Binford",
+    "player_key": "aliyahbinford",
+    "runner_advancement_opportunities": 15,
+    "runner_advancement_runs": -0.9332959601385624,
     "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.33058866173663815,
+    "sb_cs_runs": -0.36658777771507534,
     "teams": [
       "Texas Volts"
     ]
   },
   {
-    "advancement_opportunities": 2,
-    "baserunning_runs": -0.07458862007928019,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.10235714777609345,
+    "advancement_opportunities": 20,
+    "baserunning_runs": -0.05059671446451594,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": -0.5405075540086122,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.10196319348227101,
-    "player": "Jordyn Rudd-Lee",
-    "player_key": "jordynruddlee",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": 0.0003939542938224405,
+    "non_steal_advancement_runs": -0.13281278535436747,
+    "player": "Leighann Goode",
+    "player_key": "leighanngoode",
+    "runner_advancement_opportunities": 13,
+    "runner_advancement_runs": 0.4076947686542447,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.027374573402990817,
+    "sb_cs_runs": 0.08221607088985153,
     "teams": [
       "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 0,
+    "baserunning_runs": 0.0,
+    "batter_advancement_opportunities": 0,
+    "batter_advancement_runs": 0,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0,
+    "player": "Sarah Willis",
+    "player_key": "sarahwillis",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.0,
+    "teams": []
+  },
+  {
+    "advancement_opportunities": 14,
+    "baserunning_runs": 1.1128420434864157,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": -0.10923642953865934,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.0552907938635196,
+    "player": "Michaela Edenfield",
+    "player_key": "michaelaedenfield",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": 1.164527223402179,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.057551249622896074,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 8,
+    "baserunning_runs": 0.022926621486129044,
+    "batter_advancement_opportunities": 2,
+    "batter_advancement_runs": -0.19751303732618125,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.01818141395879672,
+    "player": "Rachel Garcia",
+    "player_key": "rachelgarcia",
+    "runner_advancement_opportunities": 6,
+    "runner_advancement_runs": 0.17933162336738454,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.041108035444925764,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 19,
+    "baserunning_runs": -1.7303286340742883,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": -0.8248258822669374,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.8536527404090655,
+    "player": "Haley Lee",
+    "player_key": "haleylee",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": -1.028826858142128,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.12332410633477729,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 22,
+    "baserunning_runs": -0.7413237026975404,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": -0.1532899317172793,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.8646478090323177,
+    "player": "Sharlize Palacios",
+    "player_key": "sharlizepalacios",
+    "runner_advancement_opportunities": 16,
+    "runner_advancement_runs": -0.7113578773150384,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.12332410633477729,
+    "teams": [
+      "Utah Talons"
     ]
   },
   {
     "advancement_opportunities": 21,
-    "baserunning_runs": -1.5491297470216097,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": -0.49374178100181554,
+    "baserunning_runs": -0.3400370577097747,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": -1.0512904155790932,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.1735879084187992,
-    "player": "Aliyah Binford",
-    "player_key": "aliyahbinford",
-    "runner_advancement_opportunities": 13,
-    "runner_advancement_runs": -0.6798461274169837,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.37554183860281054,
+    "non_steal_advancement_runs": -0.45513955695556685,
+    "player": "Grace Jenkins",
+    "player_key": "gracejenkins",
+    "runner_advancement_opportunities": 15,
+    "runner_advancement_runs": 0.5961508586235263,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.11510249924579215,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 24,
+    "baserunning_runs": -0.5732143687748199,
+    "batter_advancement_opportunities": 8,
+    "batter_advancement_runs": -0.6734942527757106,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.7047600821985823,
+    "player": "Jaydyn Goodwin",
+    "player_key": "jaydyngoodwin",
+    "runner_advancement_opportunities": 16,
+    "runner_advancement_runs": -0.031265829422871705,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.13154571342376245,
     "teams": [
       "Texas Volts"
     ]
   },
   {
-    "advancement_opportunities": 36,
-    "baserunning_runs": -0.22029480263799817,
-    "batter_advancement_opportunities": 18,
-    "batter_advancement_runs": 0.2451582456069114,
+    "advancement_opportunities": 32,
+    "baserunning_runs": 1.0840790182631643,
+    "batter_advancement_opportunities": 10,
+    "batter_advancement_runs": 0.9426317509598829,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.35706678934538505,
-    "player": "Rylie Boone",
-    "player_key": "rylieboone",
-    "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": 0.11190854373847364,
+    "non_steal_advancement_runs": 0.911425269394476,
+    "player": "Reese Atwood",
+    "player_key": "reeseatwood",
+    "runner_advancement_opportunities": 22,
+    "runner_advancement_runs": -0.03120648156540695,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.17265374886868823,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 42,
+    "baserunning_runs": 0.6442589442621536,
+    "batter_advancement_opportunities": 16,
+    "batter_advancement_runs": 1.7740272837164144,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.3647243032366584,
+    "player": "Sami Williams",
+    "player_key": "samiwilliams",
+    "runner_advancement_opportunities": 26,
+    "runner_advancement_runs": -1.4093029804797559,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.2795346410254952,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 22,
+    "baserunning_runs": -0.6225775886256368,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": -0.44688549223552754,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.7541233020493993,
+    "player": "Jessi Warren",
+    "player_key": "jessiwarren",
+    "runner_advancement_opportunities": 13,
+    "runner_advancement_runs": -0.3072378098138717,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.13154571342376245,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 10,
+    "baserunning_runs": 0.4162956506119891,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": 0.2766109542028344,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.37518761516706334,
+    "player": "Rachel Becker",
+    "player_key": "rachelbecker",
+    "runner_advancement_opportunities": 6,
+    "runner_advancement_runs": 0.09857666096422896,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.041108035444925764,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 38,
+    "baserunning_runs": 2.1067477660475356,
+    "batter_advancement_opportunities": 13,
+    "batter_advancement_runs": 0.9456612279652251,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.9423156242678323,
+    "player": "Kailey Wyckoff",
+    "player_key": "kaileywyckoff",
+    "runner_advancement_opportunities": 25,
+    "runner_advancement_runs": 0.9966543963026072,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.16443214177970306,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 26,
+    "baserunning_runs": -2.0867440272987126,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": -1.0863353500520638,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.7283778566726224,
+    "player": "Jenna Laird",
+    "player_key": "jennalaird",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": -0.6420425066205586,
     "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.5773615919833832,
+    "sb_cs_runs": -0.35836617062609016,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 14,
+    "baserunning_runs": 0.2021894060057935,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": 0.33919084275219746,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.13641654929391225,
+    "player": "Baylee Klingler",
+    "player_key": "bayleeklingler",
+    "runner_advancement_opportunities": 8,
+    "runner_advancement_runs": -0.2027742934582852,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.06577285671188123,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 32,
+    "baserunning_runs": 1.7889993649158549,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": 0.45220457280524706,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.5999024018691963,
+    "player": "Jocelyn Erickson",
+    "player_key": "jocelynerickson",
+    "runner_advancement_opportunities": 21,
+    "runner_advancement_runs": 1.1476978290639492,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.18909696304665852,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 0,
+    "baserunning_runs": -0.43448597269157724,
+    "batter_advancement_opportunities": 0,
+    "batter_advancement_runs": 0,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0,
+    "player": "KK Madrey",
+    "player_key": "kkmadrey",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.43448597269157724,
+    "teams": []
+  },
+  {
+    "advancement_opportunities": 21,
+    "baserunning_runs": -0.2764177793491948,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": -1.1520662032202005,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.39152027859498695,
+    "player": "Sydney McKinney",
+    "player_key": "sydneymckinney",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": 0.7605459246252135,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.11510249924579215,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 26,
+    "baserunning_runs": -1.1336951118548042,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": -0.6910926068009102,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.2734624323675519,
+    "player": "Ana Gold",
+    "player_key": "anagold",
+    "runner_advancement_opportunities": 21,
+    "runner_advancement_runs": -0.5823698255666416,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.1397673205127476,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 23,
+    "baserunning_runs": -2.296161236435302,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": -1.5293450061519682,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -2.4441501640370347,
+    "player": "Tiare Jennings",
+    "player_key": "tiarejennings",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": -0.9148051578850664,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.14798892760173277,
+    "teams": [
+      "Texas Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 27,
+    "baserunning_runs": 0.49174607285905003,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": 0.5163677685309472,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.31087071690137663,
+    "player": "Bri Ellis",
+    "player_key": "briellis",
+    "runner_advancement_opportunities": 18,
+    "runner_advancement_runs": -0.2054970516295706,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.18087535595767337,
+    "teams": [
+      "Utah Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 8,
+    "baserunning_runs": 0.7451589855410305,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": 0.846143364060124,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.6958293430071196,
+    "player": "McKenzie Clark",
+    "player_key": "mckenzieclark",
+    "runner_advancement_opportunities": 7,
+    "runner_advancement_runs": -0.1503140210530044,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.04932964253391092,
+    "teams": [
+      "Carolina Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 29,
+    "baserunning_runs": 0.8971501833357864,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": 0.661317364888931,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.6833883990221724,
+    "player": "Sydney Sherrill",
+    "player_key": "sydneysherrill",
+    "runner_advancement_opportunities": 17,
+    "runner_advancement_runs": 0.022071034133241407,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.21376178431361398,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 25,
+    "baserunning_runs": 1.5621848786160815,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": 0.25636060467359023,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.381309522658408,
+    "player": "Sydney Stewart",
+    "player_key": "sydneystewart",
+    "runner_advancement_opportunities": 16,
+    "runner_advancement_runs": 1.1249489179848178,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.18087535595767337,
+    "teams": [
+      "Portland Cascade"
+    ]
+  },
+  {
+    "advancement_opportunities": 24,
+    "baserunning_runs": 0.36803387614921207,
+    "batter_advancement_opportunities": 8,
+    "batter_advancement_runs": 0.4104699782167159,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.2200449485474793,
+    "player": "Kenleigh Cahalan",
+    "player_key": "kenleighcahalan",
+    "runner_advancement_opportunities": 16,
+    "runner_advancement_runs": -0.19042502966923658,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.14798892760173277,
+    "teams": [
+      "Portland Cascade"
+    ]
+  },
+  {
+    "advancement_opportunities": 14,
+    "baserunning_runs": -0.6989548548768423,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": -0.34203377246376815,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.7565061044997383,
+    "player": "Elon Butler",
+    "player_key": "elonbutler",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": -0.41447233203597017,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.057551249622896074,
+    "teams": [
+      "Chicago Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 6,
+    "baserunning_runs": -0.2108541497266124,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": -0.12891570060575006,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.22729736390458272,
+    "player": "Kelsey Stewart-Hunter",
+    "player_key": "kelseystewarthunter",
+    "runner_advancement_opportunities": 5,
+    "runner_advancement_runs": -0.09838166329883266,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.016443214177970306,
     "teams": [
       "Texas Volts"
     ]
   },
   {
     "advancement_opportunities": 9,
-    "baserunning_runs": 0.516777129450039,
+    "baserunning_runs": 0.386193758080403,
     "batter_advancement_opportunities": 2,
-    "batter_advancement_runs": 0.5786647439172046,
+    "batter_advancement_runs": 0.2000109710948087,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.4711528404450543,
+    "non_steal_advancement_runs": 0.3368641155464921,
     "player": "Mia Davidson",
     "player_key": "miadavidson",
     "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": -0.10751190347215028,
+    "runner_advancement_runs": 0.1368531444516834,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.04562428900498469,
+    "sb_cs_runs": 0.04932964253391092,
     "teams": [
       "Portland Cascade"
     ]
   },
   {
-    "advancement_opportunities": 21,
-    "baserunning_runs": 0.33028066579367993,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.33079463545958276,
+    "advancement_opportunities": 3,
+    "baserunning_runs": 0.07221263721997674,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": -0.09362195313273122,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.1842829409777289,
-    "player": "Alyssa Brito",
-    "player_key": "alyssabrito",
-    "runner_advancement_opportunities": 14,
-    "runner_advancement_runs": 0.5150775764373117,
+    "non_steal_advancement_runs": 0.06399103013099158,
+    "player": "Keirstin Roose",
+    "player_key": "keirstinroose",
+    "runner_advancement_opportunities": 2,
+    "runner_advancement_runs": 0.1576129832637228,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.14599772481595102,
+    "sb_cs_runs": 0.008221607088985153,
+    "teams": [
+      "Oklahoma City Spark"
+    ]
+  },
+  {
+    "advancement_opportunities": 0,
+    "baserunning_runs": 0.0,
+    "batter_advancement_opportunities": 0,
+    "batter_advancement_runs": 0,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0,
+    "player": "Makayla McClain",
+    "player_key": "makaylamcclain",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.0,
+    "teams": []
+  },
+  {
+    "advancement_opportunities": 22,
+    "baserunning_runs": 0.9413289611651701,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": 0.9423942988606613,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.8097832477414076,
+    "player": "Kayla Kowalik",
+    "player_key": "kaylakowalik",
+    "runner_advancement_opportunities": 11,
+    "runner_advancement_runs": -0.13261105111925364,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.13154571342376245,
     "teams": [
       "Carolina Blaze"
     ]

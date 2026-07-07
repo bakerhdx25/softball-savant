@@ -4,15 +4,17 @@ Independent AUSL data collection, analysis, and scouting-site workspace.
 
 ## Projects
 
-- `ausl-war/`: GameChanger ingestion, WAR/RE24 analysis, leaderboard, and
-  times-through-the-order research.
+- `softball-savant/`: the unified GM-facing product surface combining player
+  search and pages, WAR leaderboards, league analysis, and team scouting.
+- `ausl-war/`: official AUSL public-data ingestion, WAR/RE24 analysis,
+  leaderboard, and times-through-the-order research.
 - `ausl-scouting-web/`: static team and player scouting site built from the
   captured AUSL outputs.
 - `collector/`: AUSL-owned snapshot of the proven GameChanger scraper used
   during the initial research.
 
-The existing sites remain separate during this migration. Combining them is a
-future project and is intentionally outside this repository migration.
+The older WAR, TTO, and scouting sites remain as validated migration references.
+New product work belongs in `softball-savant/`.
 
 ## Collector setup
 
@@ -35,6 +37,13 @@ Git.
 
 ```bash
 cd ausl-war
+PYTHONPATH=src python3 -m ausl_war.cli build-official-pipeline
+
+cd softball-savant
+python3 build.py
+python3 -m unittest -v test_build.py
+
+cd ausl-war
 PYTHONPATH=src python3 -m unittest discover -s tests -v
 
 cd ../ausl-scouting-web
@@ -45,3 +54,22 @@ python3 build.py
 See `collector/SOURCE.md` for the exact Scout Em Out revision from which the
 initial collector was copied.
 
+## Public deployment architecture
+
+The production-friendly setup separates the frontend from the daily data update:
+
+- Netlify hosts `softball-savant/` as a static frontend and only rebuilds when
+  frontend code changes.
+- GitHub Actions runs `.github/workflows/update-data-feed.yml` daily and on
+  pushes to `main`.
+- The workflow rebuilds from public AUSL schedule, game, player-stat, and
+  franchise-stat data, runs the Softball Savant tests, and publishes JSON to
+  GitHub Pages.
+- `softball-savant/app.js` fetches the GitHub Pages JSON feed at runtime, then
+  falls back to local `data/site-data.json` for development.
+
+Expected data feed URL after GitHub Pages is enabled:
+
+```text
+https://bakerhdx25.github.io/softball-savant/data/site-data.json
+```

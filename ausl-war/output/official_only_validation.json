@@ -1,0 +1,10 @@
+{
+  "boxscore_bf_mismatches": [],
+  "events": 6428,
+  "games": 101,
+  "passed": true,
+  "pitch_text_coverage": 0.9946705426356589,
+  "plate_appearances": 6192,
+  "run_or_state_validation_failures": [],
+  "snapshot_id": "20260707T142450Z"
+}

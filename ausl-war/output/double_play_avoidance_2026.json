@@ -1,562 +1,330 @@
 [
   {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.6830144801926546,
-    "double_play_opportunities": 5,
-    "expected_double_plays": 0.7590449443765069,
-    "player": "Kayla Kowalik",
-    "player_key": "kaylakowalik"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.42662958667951656,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.4734465449065193,
-    "player": "Sis Bates",
-    "player_key": "sisbates"
-  },
-  {
     "actual_double_plays": 1,
-    "double_play_avoidance_runs": 0.05045025867115829,
-    "double_play_opportunities": 7,
-    "expected_double_plays": 1.092346526588146,
-    "player": "Jenna Laird",
-    "player_key": "jennalaird"
-  },
-  {
-    "actual_double_plays": 3,
-    "double_play_avoidance_runs": -1.8846188974720928,
-    "double_play_opportunities": 8,
-    "expected_double_plays": 1.024853343573757,
-    "player": "Sydney Romero",
-    "player_key": "sydneyromero"
+    "double_play_avoidance_runs": -0.21537062275232058,
+    "double_play_opportunities": 2,
+    "expected_double_plays": 0.5893221306795008,
+    "player": "Devyn Netz",
+    "player_key": "devynnetz"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 1.0890906770553594,
-    "double_play_opportunities": 8,
-    "expected_double_plays": 1.2104734374335033,
+    "double_play_avoidance_runs": 0.5981399844705123,
+    "double_play_opportunities": 4,
+    "expected_double_plays": 1.171292565099564,
     "player": "Ailana Agbayani",
     "player_key": "ailanaagbayani"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.33938912612282895,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.37998921251348433,
-    "player": "Skylar Wallace",
-    "player_key": "skylarwallace"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.662022885337268,
-    "double_play_opportunities": 5,
-    "expected_double_plays": 0.7365574604115981,
-    "player": "Bella Dayton",
-    "player_key": "belladayton"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.5524582732488624,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.42458757530199187,
-    "player": "Taryn Kern",
-    "player_key": "tarynkern"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.6255002193756249,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.3408689745930999,
-    "player": "Amari Harper",
-    "player_key": "amariharper"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.6035567222408386,
-    "double_play_opportunities": 5,
-    "expected_double_plays": 0.6739249203793509,
-    "player": "Sydney Sherrill",
-    "player_key": "sydneysherrill"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.7852725351123211,
+    "double_play_avoidance_runs": 0.13768146555600227,
     "double_play_opportunities": 1,
-    "expected_double_plays": 0.16423948220064724,
-    "player": "Keirstin Roose",
-    "player_key": "keirstinroose"
-  },
-  {
-    "actual_double_plays": 2,
-    "double_play_avoidance_runs": -1.4293452194700578,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.48521249313061005,
-    "player": "Mary Iakopo",
-    "player_key": "maryiakopo"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.47561508632743277,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.5069067104421565,
-    "player": "Rachel Becker",
-    "player_key": "rachelbecker"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.7941615902308649,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.1547169811320755,
-    "player": "Jordyn Rudd-Lee",
-    "player_key": "jordynruddlee"
-  },
-  {
-    "actual_double_plays": 2,
-    "double_play_avoidance_runs": -1.4165476789230393,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.5043935913875464,
-    "player": "Sahvanna Jaquish",
-    "player_key": "sahvannajaquish"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.3415117348351549,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.37679149329634765,
-    "player": "Jaydyn Goodwin",
-    "player_key": "jaydyngoodwin"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.5464698733420628,
-    "double_play_opportunities": 5,
-    "expected_double_plays": 0.6127699863182552,
-    "player": "Jackie Lis",
-    "player_key": "jackielis"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.5349494598595016,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.5949570249075653,
-    "player": "Aminah Vega",
-    "player_key": "aminahvega"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.35791307839882525,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.39983320639021996,
-    "player": "Delanie Wisz",
-    "player_key": "delaniewisz"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.3781779434512703,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.6167589422306403,
-    "player": "Devyn Netz",
-    "player_key": "devynnetz"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.645017824269347,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.3199605190848526,
-    "player": "Tiare Jennings",
-    "player_key": "tiarejennings"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.26987164237608113,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.30004623208506703,
-    "player": "Erin Coffel",
-    "player_key": "erincoffel"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.20802794535063307,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.2337954705411633,
-    "player": "Tianna Bell",
-    "player_key": "tiannabell"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.4806795200449245,
-    "double_play_opportunities": 5,
-    "expected_double_plays": 0.5124245541354903,
-    "player": "Reese Atwood",
-    "player_key": "reeseatwood"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.5488256334892259,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.42847908182676453,
-    "player": "Grace Jenkins",
-    "player_key": "gracejenkins"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.5730615744436007,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.635785059722594,
-    "player": "Rylie Boone",
-    "player_key": "rylieboone"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.40230674802064514,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.44739042825171044,
-    "player": "Jessi Warren",
-    "player_key": "jessiwarren"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.27866481637519935,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.3094660194174757,
-    "player": "Sami Williams",
-    "player_key": "samiwilliams"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.2024363050356017,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.22780536246276067,
-    "player": "Leighann Goode",
-    "player_key": "leighanngoode"
-  },
-  {
-    "actual_double_plays": 2,
-    "double_play_avoidance_runs": -1.3964319386423822,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.5204712183462871,
-    "player": "Sydney Stewart",
-    "player_key": "sydneystewart"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.18307409632250926,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.2070633768746976,
-    "player": "Kennedy Powell",
-    "player_key": "kennedypowell"
-  },
-  {
-    "actual_double_plays": 2,
-    "double_play_avoidance_runs": -1.6098394007983639,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.28638446730491735,
-    "player": "Mia Davidson",
-    "player_key": "miadavidson"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.335454499201977,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.3757741988187125,
-    "player": "Haley Lee",
-    "player_key": "haleylee"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.10891217039212939,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.12214498510427012,
-    "player": "Maddie Moore",
-    "player_key": "maddiemoore"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.10891217039212939,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.12214498510427012,
-    "player": "Bri Ellis",
-    "player_key": "briellis"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.1059885862137469,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.11901306240928883,
-    "player": "Michaela Edenfield",
-    "player_key": "michaelaedenfield"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.5018616248139306,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.5595113065070932,
+    "expected_double_plays": 0.2698662470495673,
     "player": "Jocelyn Erickson",
     "player_key": "jocelynerickson"
   },
   {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.17471930088591217,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.1981132075471698,
-    "player": "Jessica Clements",
-    "player_key": "jessicaclements"
-  },
-  {
     "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.5831741272438988,
+    "double_play_avoidance_runs": -0.2570599963714922,
     "double_play_opportunities": 2,
-    "expected_double_plays": 0.3862112806287563,
-    "player": "Sierra Romero",
-    "player_key": "sierraromero"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.7145311220315566,
-    "double_play_opportunities": 6,
-    "expected_double_plays": 0.7982790921058003,
-    "player": "Morgan Zerkle",
-    "player_key": "morganzerkle"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.4321328001779908,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.4848135126188751,
-    "player": "Sharlize Palacios",
-    "player_key": "sharlizepalacios"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.886518968919591,
-    "double_play_opportunities": 6,
-    "expected_double_plays": 0.9825230228646606,
-    "player": "Aliyah Andrews",
-    "player_key": "aliyahandrews"
-  },
-  {
-    "actual_double_plays": 2,
-    "double_play_avoidance_runs": -0.9664760337715634,
-    "double_play_opportunities": 6,
-    "expected_double_plays": 0.9974811193248154,
+    "expected_double_plays": 0.5085817524841916,
     "player": "Hannah Flippen",
     "player_key": "hannahflippen"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.3469571524848435,
+    "double_play_avoidance_runs": 0.4298753981895425,
     "double_play_opportunities": 3,
-    "expected_double_plays": 0.3880965465504758,
-    "player": "Bubba Nickles-Camarena",
-    "player_key": "bubbanicklescamarena"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.1059885862137469,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.11901306240928883,
-    "player": "Ana Gold",
-    "player_key": "anagold"
-  },
-  {
-    "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.4203958582033743,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.571532522439282,
-    "player": "Aliyah Binford",
-    "player_key": "aliyahbinford"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.26298930217333794,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.29267344711963494,
-    "player": "Aubrey Leach",
-    "player_key": "aubreyleach"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.21709084861352795,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.24350420840524098,
-    "player": "Alyssa Brito",
-    "player_key": "alyssabrito"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.6555110847650932,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.7241100323624595,
-    "player": "Jayda Coleman",
-    "player_key": "jaydacoleman"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 1.0818627394708418,
-    "double_play_opportunities": 8,
-    "expected_double_plays": 1.2027304273549007,
-    "player": "Jadelyn Allchin",
-    "player_key": "jadelynallchin"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.3188664872640029,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.35253251511265804,
+    "expected_double_plays": 0.8421955712346709,
     "player": "Korbe Otis",
     "player_key": "korbeotis"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.40240158814544874,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.4474920268105833,
-    "player": "Kendra Falby",
-    "player_key": "kendrafalby"
+    "double_play_avoidance_runs": 0.16447807314214383,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.32176360225140715,
+    "player": "Jessica Clements",
+    "player_key": "jessicaclements"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.1542704203786852,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.301994301994302,
+    "player": "Sydney Sherrill",
+    "player_key": "sydneysherrill"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.2981405319052304,
+    "double_play_opportunities": 2,
+    "expected_double_plays": 0.5838461840582732,
+    "player": "Bubba Nickles-Camarena",
+    "player_key": "bubbanicklescamarena"
   },
   {
     "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.23388445071810948,
+    "double_play_avoidance_runs": -0.20374339880910383,
+    "double_play_opportunities": 2,
+    "expected_double_plays": 0.6118407337919534,
+    "player": "Tiare Jennings",
+    "player_key": "tiarejennings"
+  },
+  {
+    "actual_double_plays": 2,
+    "double_play_avoidance_runs": -0.6015241822578684,
+    "double_play_opportunities": 3,
+    "expected_double_plays": 0.8446699438044836,
+    "player": "Tori Vidales",
+    "player_key": "torividales"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.07899693903272892,
+    "double_play_opportunities": 3,
+    "expected_double_plays": 0.8566555788188874,
+    "player": "Rachel Becker",
+    "player_key": "rachelbecker"
+  },
+  {
+    "actual_double_plays": 2,
+    "double_play_avoidance_runs": -0.6372367888307217,
+    "double_play_opportunities": 3,
+    "expected_double_plays": 0.7755048518227118,
+    "player": "Sahvanna Jaquish",
+    "player_key": "sahvannajaquish"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.16447807314214383,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.32176360225140715,
+    "player": "Sharlize Palacios",
+    "player_key": "sharlizepalacios"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.13648990136013225,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.26755852842809363,
+    "player": "Erin Coffel",
+    "player_key": "erincoffel"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.2934715466953226,
+    "double_play_opportunities": 2,
+    "expected_double_plays": 0.5748036967549163,
+    "player": "Tianna Bell",
+    "player_key": "tiannabell"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.21265939779581547,
+    "double_play_opportunities": 2,
+    "expected_double_plays": 0.5945729970120215,
+    "player": "Amari Harper",
+    "player_key": "amariharper"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.13768146555600227,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.2698662470495673,
+    "player": "Grace Jenkins",
+    "player_key": "gracejenkins"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.1200774745664671,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.23577235772357724,
+    "player": "Maddie Moore",
+    "player_key": "maddiemoore"
+  },
+  {
+    "actual_double_plays": 3,
+    "double_play_avoidance_runs": -1.071327892654368,
+    "double_play_opportunities": 3,
+    "expected_double_plays": 0.934794693543368,
+    "player": "Sydney Romero",
+    "player_key": "sydneyromero"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.6715500080831118,
     "double_play_opportunities": 5,
-    "expected_double_plays": 0.7768065700012943,
+    "expected_double_plays": 1.3166834343928724,
+    "player": "Aliyah Andrews",
+    "player_key": "aliyahandrews"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.1667449255203347,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.3261538461538461,
     "player": "Dakota Kennedy",
     "player_key": "dakotakennedy"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.3543137978984976,
+    "double_play_avoidance_runs": 0.13648990136013225,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.26755852842809363,
+    "player": "Haley Lee",
+    "player_key": "haleylee"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.3059460518369721,
+    "double_play_opportunities": 2,
+    "expected_double_plays": 0.5989632409144604,
+    "player": "Sis Bates",
+    "player_key": "sisbates"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.13768146555600227,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.2698662470495673,
+    "player": "Michaela Edenfield",
+    "player_key": "michaelaedenfield"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.024196031604912183,
     "double_play_opportunities": 3,
-    "expected_double_plays": 0.3959774363501671,
-    "player": "Megan Grant",
-    "player_key": "megangrant"
+    "expected_double_plays": 0.9627892432770482,
+    "player": "Sierra Romero",
+    "player_key": "sierraromero"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.09911577495850368,
+    "double_play_avoidance_runs": 0.1200774745664671,
     "double_play_opportunities": 1,
-    "expected_double_plays": 0.1116504854368932,
-    "player": "McKenzie Clark",
-    "player_key": "mckenzieclark"
+    "expected_double_plays": 0.23577235772357724,
+    "player": "Jessi Warren",
+    "player_key": "jessiwarren"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.1059885862137469,
+    "double_play_avoidance_runs": 0.13768146555600227,
     "double_play_opportunities": 1,
-    "expected_double_plays": 0.11901306240928883,
-    "player": "Danieca Coffey",
-    "player_key": "daniecacoffey"
+    "expected_double_plays": 0.2698662470495673,
+    "player": "Rylie Boone",
+    "player_key": "rylieboone"
   },
   {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.45414722759396003,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.5083967175598865,
+    "double_play_avoidance_runs": 0.1542704203786852,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.301994301994302,
+    "player": "Alyssa Brito",
+    "player_key": "alyssabrito"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.13768146555600227,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.2698662470495673,
+    "player": "Ana Gold",
+    "player_key": "anagold"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.3495936717342619,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.3261538461538461,
+    "player": "Keirstin Roose",
+    "player_key": "keirstinroose"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.3429445251257412,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.33903133903133903,
+    "player": "Mary Iakopo",
+    "player_key": "maryiakopo"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.13920112631663736,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.2728093947606143,
     "player": "Jordan Woolery",
     "player_key": "jordanwoolery"
   },
   {
-    "actual_double_plays": 2,
-    "double_play_avoidance_runs": -1.3665196879200252,
-    "double_play_opportunities": 4,
-    "expected_double_plays": 0.5579866439034302,
-    "player": "Tori Vidales",
-    "player_key": "torividales"
-  },
-  {
     "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.45921707922640254,
-    "double_play_opportunities": 3,
-    "expected_double_plays": 0.5083562657330265,
-    "player": "Caroline Jacobsen",
-    "player_key": "carolinejacobsen"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.13722294928496964,
+    "double_play_avoidance_runs": 0.13768146555600227,
     "double_play_opportunities": 1,
-    "expected_double_plays": 0.15247322794492607,
+    "expected_double_plays": 0.2698662470495673,
+    "player": "Kendra Falby",
+    "player_key": "kendrafalby"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.1542704203786852,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.301994301994302,
+    "player": "Morgan Zerkle",
+    "player_key": "morganzerkle"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.1200774745664671,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.23577235772357724,
+    "player": "Leighann Goode",
+    "player_key": "leighanngoode"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.17339407212885546,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.33903133903133903,
+    "player": "Jayda Coleman",
+    "player_key": "jaydacoleman"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.3771374709379593,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.2728093947606143,
+    "player": "Baylee Klingler",
+    "player_key": "bayleeklingler"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.3495936717342619,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.3261538461538461,
+    "player": "Mia Davidson",
+    "player_key": "miadavidson"
+  },
+  {
+    "actual_double_plays": 1,
+    "double_play_avoidance_runs": -0.3786571316985944,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.2698662470495673,
     "player": "Mac Barbara",
     "player_key": "macbarbara"
   },
   {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.3277555423825466,
-    "double_play_opportunities": 2,
-    "expected_double_plays": 0.36205501618122976,
-    "player": "Taylor Biehl",
-    "player_key": "taylorbiehl"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.09911577495850368,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.1116504854368932,
-    "player": "Sydney McKinney",
-    "player_key": "sydneymckinney"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.07708551010876237,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.0880503144654088,
-    "player": "Kailey Wycoff",
-    "player_key": "kaileywyckoff"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.13722294928496964,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.15247322794492607,
-    "player": "Rachel Garcia",
-    "player_key": "rachelgarcia"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.095591312578489,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.10787486515641855,
-    "player": "Sarah Gordon",
-    "player_key": "sarahgordon"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.0976337907771498,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.110062893081761,
-    "player": "Valerie Cagle",
-    "player_key": "valeriecagle"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.10891217039212939,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.12214498510427012,
-    "player": "Kelly Torres",
-    "player_key": "kellytorres"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.1393174458473072,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.1547169811320755,
-    "player": "Aleshia Ocasio",
-    "player_key": "aleshiaocasio"
-  },
-  {
-    "actual_double_plays": 0,
-    "double_play_avoidance_runs": 0.17075586741757745,
-    "double_play_opportunities": 1,
-    "expected_double_plays": 0.18839574664817382,
-    "player": "Maya Brady",
-    "player_key": "mayabrady"
-  },
-  {
     "actual_double_plays": 1,
-    "double_play_avoidance_runs": -0.7835939030299799,
+    "double_play_avoidance_runs": -0.3771374709379593,
     "double_play_opportunities": 1,
-    "expected_double_plays": 0.16603773584905662,
-    "player": "Baylee Klingler",
-    "player_key": "bayleeklingler"
+    "expected_double_plays": 0.2728093947606143,
+    "player": "Jaydyn Goodwin",
+    "player_key": "jaydyngoodwin"
+  },
+  {
+    "actual_double_plays": 0,
+    "double_play_avoidance_runs": 0.14964711995556712,
+    "double_play_opportunities": 1,
+    "expected_double_plays": 0.29304029304029305,
+    "player": "Kelsey Stewart-Hunter",
+    "player_key": "kelseystewarthunter"
   }
 ]

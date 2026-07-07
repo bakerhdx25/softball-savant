@@ -1,16 +1,8 @@
 {
-  "ambiguous_attribution_blocks": 35,
-  "changed_pitcher_plate_appearances": 435,
-  "dataset_validation_passed": true,
-  "gamechanger_schedule_matches": 83,
-  "games": 98,
-  "official_augmented_games": 15,
-  "official_pbp_validation_failures": 0,
-  "output": "/Users/openclaw/ausl/ausl-war/output/tto",
-  "pitcher_game_rows": 166,
-  "pitcher_out_reconciliation_failures": 0,
-  "pitchers": 48,
-  "plate_appearances": 6019,
-  "series": 39,
-  "snapshot_id": "20260704T165430Z"
+  "games": 101,
+  "official_completed_games": 101,
+  "pitch_text_coverage": 0.9946705426356589,
+  "plate_appearances": 6192,
+  "snapshot_id": "20260707T142450Z",
+  "validation_passed": true
 }

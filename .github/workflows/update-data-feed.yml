@@ -1,0 +1,69 @@
+name: Update Softball Savant data feed
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "20 12 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install Python dependencies
+        run: python -m pip install -r ausl-war/requirements.txt
+
+      - name: Build official AUSL data
+        working-directory: ausl-war
+        run: PYTHONPATH=src python -m ausl_war.cli build-official-pipeline
+
+      - name: Build Softball Savant data
+        working-directory: softball-savant
+        run: |
+          python build.py
+          python -m unittest -v test_build.py
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p public-data/data
+          cp softball-savant/data/site-data.json public-data/data/site-data.json
+          cp softball-savant/data/scouting-data.json public-data/data/scouting-data.json
+          cp softball-savant/data/scouting-data-2025.json public-data/data/scouting-data-2025.json
+          cp softball-savant/data/scouting-data-2025-2026.json public-data/data/scouting-data-2025-2026.json
+          cp ausl-war/output/official_pipeline_summary.json public-data/data/official-pipeline-summary.json
+          cat > public-data/index.html <<'HTML'
+          <!doctype html>
+          <meta charset="utf-8">
+          <title>Softball Savant Data Feed</title>
+          <h1>Softball Savant Data Feed</h1>
+          <ul>
+            <li><a href="data/site-data.json">site-data.json</a></li>
+            <li><a href="data/official-pipeline-summary.json">official-pipeline-summary.json</a></li>
+          </ul>
+          HTML
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public-data
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

@@ -17,6 +17,7 @@ import numpy as np
 
 from .io import read_json, write_json
 from .normalize import classify_plate_appearance, normalize_person_name
+from .official import official_pitch_text
 from .war import _batting_denominator, _obp_numerator, derive_woba_constants
 
 
@@ -276,7 +277,7 @@ def parse_official_game_pas(
                 "runners_after": {},
                 "runs_scored": None,
                 "runner_actions": [],
-                "pitch_text": "",
+                "pitch_text": official_pitch_text(play.get("narrative") or "", True),
                 "play_text": play.get("narrative") or "",
                 "official_action": play.get("action"),
             }

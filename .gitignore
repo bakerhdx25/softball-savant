@@ -3,10 +3,11 @@
 **/*.pyc
 **/.pytest_cache/
 **/.venv/
+.venv-softball-savant/
 collector/node_modules/
 collector/user_data/
 collector/reports/gc-token.json
 collector/error_screenshot.png
 ausl-scouting-web/output/pdf/
 ausl-scouting-web/tmp/
-
+softball-savant/logs/

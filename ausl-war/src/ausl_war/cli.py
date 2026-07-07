@@ -7,6 +7,7 @@ from pathlib import Path
 from .audit import audit_authenticated_snapshot
 from .canonical import canonicalize_snapshot
 from .normalize import normalize_snapshot
+from .official_pipeline import build_official_pipeline, build_official_tto_study
 from .positional import build_positional_research
 from .public import collect_public_snapshot
 from .re24 import build_re24_snapshot
@@ -55,6 +56,16 @@ def main() -> None:
         "build-tto", help="build the isolated times-through-order research study"
     )
     tto.add_argument("--snapshot", required=True, help="normalized snapshot ID")
+    official = subparsers.add_parser(
+        "build-official-pipeline",
+        help="fetch public AUSL data and build an official-only WAR/TTO snapshot",
+    )
+    official.add_argument("--snapshot", help="snapshot ID; defaults to current UTC timestamp")
+    official_tto = subparsers.add_parser(
+        "build-official-tto",
+        help="build TTO outputs from an official-only normalized snapshot",
+    )
+    official_tto.add_argument("--snapshot", required=True, help="official-only snapshot ID")
     args = parser.parse_args()
     root = project_root()
 
@@ -95,6 +106,12 @@ def main() -> None:
             raise SystemExit(1)
     elif args.command == "build-tto":
         summary = build_tto_study(root, args.snapshot)
+        print(json.dumps(summary, indent=2, sort_keys=True))
+    elif args.command == "build-official-pipeline":
+        summary = build_official_pipeline(root, args.snapshot)
+        print(json.dumps(summary, indent=2, sort_keys=True))
+    elif args.command == "build-official-tto":
+        summary = build_official_tto_study(root, args.snapshot)
         print(json.dumps(summary, indent=2, sort_keys=True))
 
 

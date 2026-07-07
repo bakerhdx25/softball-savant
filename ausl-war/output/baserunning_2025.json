@@ -1,377 +1,295 @@
 [
   {
-    "advancement_opportunities": 40,
-    "baserunning_runs": -0.6063990451217598,
-    "batter_advancement_opportunities": 15,
-    "batter_advancement_runs": -0.08702083018758908,
+    "advancement_opportunities": 22,
+    "baserunning_runs": 0.995996257288319,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": 0.3968599669709719,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.873343380307619,
-    "player": "Bubba Nickles-Camarena",
-    "player_key": "bubbanicklescamarena",
-    "runner_advancement_opportunities": 25,
-    "runner_advancement_runs": -0.7863225501200299,
+    "non_steal_advancement_runs": 0.8495768025854348,
+    "player": "Jordan Roberts",
+    "player_key": "jordanroberts",
+    "runner_advancement_opportunities": 17,
+    "runner_advancement_runs": 0.45271683561446285,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2669443351858593,
+    "sb_cs_runs": 0.14641945470288414,
     "teams": [
       "Bandits"
     ]
   },
   {
-    "advancement_opportunities": 25,
-    "baserunning_runs": 1.5234502626213224,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": 0.25867313598342867,
+    "advancement_opportunities": 71,
+    "baserunning_runs": -0.1149546498924337,
+    "batter_advancement_opportunities": 27,
+    "batter_advancement_runs": -1.0661063984235275,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.3942836488217132,
-    "player": "Sis Bates",
-    "player_key": "sisbates",
-    "runner_advancement_opportunities": 16,
-    "runner_advancement_runs": 1.1356105128382845,
+    "non_steal_advancement_runs": -0.5542130140010861,
+    "player": "Skylar Wallace",
+    "player_key": "skylarwallace",
+    "runner_advancement_opportunities": 44,
+    "runner_advancement_runs": 0.5118933844224414,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.12916661379960934,
+    "sb_cs_runs": 0.43925836410865243,
     "teams": [
-      "Volts"
+      "Bandits"
     ]
   },
   {
-    "advancement_opportunities": 6,
-    "baserunning_runs": 0.38771484084227437,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
+    "advancement_opportunities": 58,
+    "baserunning_runs": -0.3543301563285628,
+    "batter_advancement_opportunities": 19,
+    "batter_advancement_runs": -1.1480798641532908,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.37910373325563373,
-    "player": "Paige Sinicki",
-    "player_key": "paigesinicki",
-    "runner_advancement_opportunities": 6,
-    "runner_advancement_runs": 0.37910373325563373,
+    "non_steal_advancement_runs": -0.6654714975721916,
+    "player": "Sierra Sacco-Ferrie",
+    "player_key": "sierrasaccoferrie",
+    "runner_advancement_opportunities": 39,
+    "runner_advancement_runs": 0.4826083665810992,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.008611107586640623,
+    "sb_cs_runs": 0.3111413412436288,
     "teams": [
       "Talons"
     ]
   },
   {
-    "advancement_opportunities": 54,
-    "baserunning_runs": -1.0270615218561443,
-    "batter_advancement_opportunities": 22,
-    "batter_advancement_runs": 1.0506384939730518,
+    "advancement_opportunities": 37,
+    "baserunning_runs": 1.236268990814335,
+    "batter_advancement_opportunities": 14,
+    "batter_advancement_runs": 0.08111685997258979,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.3312520791472233,
-    "player": "Baylee Klingler",
-    "player_key": "bayleeklingler",
-    "runner_advancement_opportunities": 32,
-    "runner_advancement_runs": -1.381890573120275,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.695809442708921,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 69,
-    "baserunning_runs": 2.911821730624344,
-    "batter_advancement_opportunities": 23,
-    "batter_advancement_runs": 2.32663372565032,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 2.908357373539841,
-    "player": "Ana Gold",
-    "player_key": "anagold",
-    "runner_advancement_opportunities": 46,
-    "runner_advancement_runs": 0.5817236478895209,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": 0.0034643570845031557,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 69,
-    "baserunning_runs": -2.2960417637931463,
-    "batter_advancement_opportunities": 26,
-    "batter_advancement_runs": -0.3986452581241975,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -2.666319390018693,
-    "player": "Korbe Otis",
-    "player_key": "korbeotis",
-    "runner_advancement_opportunities": 43,
-    "runner_advancement_runs": -2.2676741318944957,
+    "non_steal_advancement_runs": 0.9525812973274969,
+    "player": "Bubba Nickles-Camarena",
+    "player_key": "bubbanicklescamarena",
+    "runner_advancement_opportunities": 23,
+    "runner_advancement_runs": 0.8714644373549071,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.3702776262255468,
+    "sb_cs_runs": 0.28368769348683803,
     "teams": [
-      "Blaze"
+      "Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 51,
+    "baserunning_runs": 0.9979667868021334,
+    "batter_advancement_opportunities": 18,
+    "batter_advancement_runs": 0.23937833698872663,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.631918150044923,
+    "player": "Delanie Wisz",
+    "player_key": "delaniewisz",
+    "runner_advancement_opportunities": 33,
+    "runner_advancement_runs": 0.3925398130561964,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.36604863675721033,
+    "teams": [
+      "Bandits"
     ]
   },
   {
     "advancement_opportunities": 66,
-    "baserunning_runs": -5.895216599831947,
-    "batter_advancement_opportunities": 21,
-    "batter_advancement_runs": -0.36625359788782974,
+    "baserunning_runs": -4.170849237209621,
+    "batter_advancement_opportunities": 20,
+    "batter_advancement_runs": -0.9073961677720186,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -5.172239138830978,
+    "non_steal_advancement_runs": -3.4801616319300064,
     "player": "Amanda Lorenz",
     "player_key": "amandalorenz",
-    "runner_advancement_opportunities": 45,
-    "runner_advancement_runs": -4.805985540943149,
+    "runner_advancement_opportunities": 46,
+    "runner_advancement_runs": -2.572765464157988,
     "sb_cs_attempts": 2,
-    "sb_cs_runs": -0.7229774610009692,
+    "sb_cs_runs": -0.6906876052796148,
     "teams": [
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 56,
-    "baserunning_runs": -0.45815109988723374,
-    "batter_advancement_opportunities": 16,
-    "batter_advancement_runs": 0.2324019440099014,
+    "advancement_opportunities": 40,
+    "baserunning_runs": -2.9110395025981357,
+    "batter_advancement_opportunities": 20,
+    "batter_advancement_runs": -1.8475624209317965,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.7337065426597337,
-    "player": "Jadelyn Allchin",
-    "player_key": "jadelynallchin",
-    "runner_advancement_opportunities": 40,
-    "runner_advancement_runs": -0.9661084866696351,
+    "non_steal_advancement_runs": -3.176424764247113,
+    "player": "Sierra Romero",
+    "player_key": "sierraromero",
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": -1.3288623433153166,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.27555544277249994,
+    "sb_cs_runs": 0.2653852616489775,
     "teams": [
-      "Talons"
+      "Volts"
     ]
   },
   {
-    "advancement_opportunities": 76,
-    "baserunning_runs": 3.0196948195729427,
-    "batter_advancement_opportunities": 35,
-    "batter_advancement_runs": 0.3469250798504163,
+    "advancement_opportunities": 32,
+    "baserunning_runs": -0.7194405518495539,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": -0.4491959736618589,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 3.1466646846493047,
-    "player": "Morgan Zerkle",
-    "player_key": "morganzerkle",
-    "runner_advancement_opportunities": 41,
-    "runner_advancement_runs": 2.7997396047988885,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.12696986507636188,
+    "non_steal_advancement_runs": -0.8658600065524381,
+    "player": "Anissa Urtez",
+    "player_key": "anissaurtez",
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": -0.4166640328905792,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.14641945470288414,
     "teams": [
-      "Bandits"
+      "Blaze"
     ]
   },
   {
-    "advancement_opportunities": 48,
-    "baserunning_runs": -1.0995076883390766,
+    "advancement_opportunities": 42,
+    "baserunning_runs": -0.6066234132715559,
     "batter_advancement_opportunities": 18,
-    "batter_advancement_runs": 0.010647332811836338,
+    "batter_advancement_runs": 0.14846098343462127,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.4851690479087025,
+    "non_steal_advancement_runs": -0.02686909267347034,
     "player": "Danieca Coffey",
     "player_key": "daniecacoffey",
-    "runner_advancement_opportunities": 30,
-    "runner_advancement_runs": -0.49581638072053885,
+    "runner_advancement_opportunities": 24,
+    "runner_advancement_runs": -0.17533007610809162,
     "sb_cs_attempts": 2,
-    "sb_cs_runs": -0.6143386404303741,
+    "sb_cs_runs": -0.5797543205980855,
     "teams": [
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 21,
-    "baserunning_runs": -1.22435563781553,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -1.0648281127860248,
+    "advancement_opportunities": 46,
+    "baserunning_runs": -0.2505007591118528,
+    "batter_advancement_opportunities": 16,
+    "batter_advancement_runs": -0.4024309381987263,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.4568555426548269,
-    "player": "Bri Ellis",
-    "player_key": "briellis",
-    "runner_advancement_opportunities": 14,
-    "runner_advancement_runs": -0.392027429868802,
+    "non_steal_advancement_runs": -0.5341884525986909,
+    "player": "Jadelyn Allchin",
+    "player_key": "jadelynallchin",
+    "runner_advancement_opportunities": 30,
+    "runner_advancement_runs": -0.13175751439996458,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.23249990483929683,
+    "sb_cs_runs": 0.28368769348683803,
     "teams": [
       "Talons"
     ]
   },
   {
-    "advancement_opportunities": 36,
-    "baserunning_runs": 1.6264566364707453,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": -0.4156612153256244,
+    "advancement_opportunities": 5,
+    "baserunning_runs": 0.005465736658132901,
+    "batter_advancement_opportunities": 3,
+    "batter_advancement_runs": 0.09731558449182214,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.4111789468047298,
-    "player": "McKenzie Clark",
-    "player_key": "mckenzieclark",
-    "runner_advancement_opportunities": 26,
-    "runner_advancement_runs": 1.8268401621303543,
+    "non_steal_advancement_runs": -0.04944155885544865,
+    "player": "Ally Shipman-Shrout",
+    "player_key": "allyshipmanshrout",
+    "runner_advancement_opportunities": 2,
+    "runner_advancement_runs": -0.1467571433472708,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.21527768966601557,
+    "sb_cs_runs": 0.054907295513581554,
+    "teams": [
+      "Blaze",
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 44,
+    "baserunning_runs": -2.769809149752303,
+    "batter_advancement_opportunities": 17,
+    "batter_advancement_runs": -0.5854822883523473,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.278017616735274,
+    "player": "Ciara Briggs",
+    "player_key": "ciarabriggs",
+    "runner_advancement_opportunities": 27,
+    "runner_advancement_runs": -0.6925353283829266,
+    "sb_cs_attempts": 4,
+    "sb_cs_runs": -1.491791533017029,
     "teams": [
       "Blaze",
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 28,
-    "baserunning_runs": 0.5887750321914373,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": 0.9234775043377462,
+    "advancement_opportunities": 21,
+    "baserunning_runs": 0.4326328224637961,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": 0.5750428466632266,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.5198861714983124,
-    "player": "Victoria Hayward",
-    "player_key": "victoriahayward",
-    "runner_advancement_opportunities": 23,
-    "runner_advancement_runs": -0.4035913328394338,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06888886069312498,
+    "non_steal_advancement_runs": 0.6634619331157633,
+    "player": "Ali Newland",
+    "player_key": "alinewland",
+    "runner_advancement_opportunities": 14,
+    "runner_advancement_runs": 0.08841908645253671,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.23082911065196723,
     "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 19,
-    "baserunning_runs": -0.9618735264552256,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": 0.15338007631611442,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.9963179568017881,
-    "player": "Kalei Harding",
-    "player_key": "kaleiharding",
-    "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": -1.1496980331179025,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.03444443034656249,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 50,
-    "baserunning_runs": -2.0522454881538943,
-    "batter_advancement_opportunities": 15,
-    "batter_advancement_runs": -1.0243100361003057,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -2.26752317781991,
-    "player": "Sydney Romero",
-    "player_key": "sydneyromero",
-    "runner_advancement_opportunities": 35,
-    "runner_advancement_runs": -1.2432131417196044,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.21527768966601557,
-    "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 18,
-    "baserunning_runs": 0.8629898166768639,
-    "batter_advancement_opportunities": 8,
-    "batter_advancement_runs": 0.5342082165691847,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.7424343104638951,
-    "player": "Dejah Mulipola",
-    "player_key": "dejahmulipola",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": 0.20822609389471036,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.12055550621296872,
-    "teams": [
+      "Blaze",
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 61,
-    "baserunning_runs": 3.2564312116775436,
-    "batter_advancement_opportunities": 20,
-    "batter_advancement_runs": 1.4361454086225032,
+    "advancement_opportunities": 6,
+    "baserunning_runs": -0.2476079182112148,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": -0.29084381077663807,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 2.9378202309718406,
-    "player": "Hannah Flippen",
-    "player_key": "hannahflippen",
-    "runner_advancement_opportunities": 41,
-    "runner_advancement_runs": 1.5016748223493375,
+    "non_steal_advancement_runs": -0.2659103500490753,
+    "player": "Aleshia Ocasio",
+    "player_key": "aleshiaocasio",
+    "runner_advancement_opportunities": 5,
+    "runner_advancement_runs": 0.02493346072756275,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.31861098070570304,
-    "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 33,
-    "baserunning_runs": -1.6592801776007335,
-    "batter_advancement_opportunities": 12,
-    "batter_advancement_runs": -0.8213580830268071,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.7970578989869834,
-    "player": "Anissa Urtez",
-    "player_key": "anissaurtez",
-    "runner_advancement_opportunities": 21,
-    "runner_advancement_runs": -0.9756998159601763,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.13777772138624997,
+    "sb_cs_runs": 0.018302431837860518,
     "teams": [
       "Blaze"
     ]
   },
   {
-    "advancement_opportunities": 46,
-    "baserunning_runs": 1.3797696515461624,
+    "advancement_opportunities": 44,
+    "baserunning_runs": 2.0581588043379004,
     "batter_advancement_opportunities": 17,
-    "batter_advancement_runs": -0.4246464626598147,
+    "batter_advancement_runs": 0.6654260135942796,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.1989363922267093,
+    "non_steal_advancement_runs": 1.865983270040365,
     "player": "Aliyah Andrews",
     "player_key": "aliyahandrews",
-    "runner_advancement_opportunities": 29,
-    "runner_advancement_runs": 1.623582854886524,
+    "runner_advancement_opportunities": 27,
+    "runner_advancement_runs": 1.2005572564460854,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.18083325931945307,
+    "sb_cs_runs": 0.19217553429753545,
     "teams": [
       "Blaze"
     ]
   },
   {
-    "advancement_opportunities": 10,
-    "baserunning_runs": 1.5675781099114527,
+    "advancement_opportunities": 14,
+    "baserunning_runs": 0.3730906901655172,
     "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": 1.0155866840998238,
+    "batter_advancement_runs": 0.29001741607141984,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.5245225719782496,
-    "player": "Kelsey Stewart-Hunter",
-    "player_key": "kelseystewarthunter",
-    "runner_advancement_opportunities": 6,
-    "runner_advancement_runs": 0.5089358878784258,
+    "non_steal_advancement_runs": 0.30903217873300537,
+    "player": "Mary Iakopo",
+    "player_key": "maryiakopo",
+    "runner_advancement_opportunities": 10,
+    "runner_advancement_runs": 0.019014762661585527,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.04305553793320312,
+    "sb_cs_runs": 0.06405851143251182,
     "teams": [
+      "Bandits",
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 80,
-    "baserunning_runs": 0.8858735237822466,
-    "batter_advancement_opportunities": 19,
-    "batter_advancement_runs": 0.5303567124588991,
+    "advancement_opportunities": 12,
+    "baserunning_runs": -0.4512524996127526,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": -0.3613621647873149,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.1989821777089689,
-    "player": "Erin Coffel",
-    "player_key": "erincoffel",
-    "runner_advancement_opportunities": 61,
-    "runner_advancement_runs": 0.6686254652500697,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.31310865392672227,
+    "non_steal_advancement_runs": -0.5153110110452644,
+    "player": "Aliyah Binford",
+    "player_key": "aliyahbinford",
+    "runner_advancement_opportunities": 7,
+    "runner_advancement_runs": -0.15394884625794952,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.06405851143251182,
     "teams": [
-      "Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 30,
-    "baserunning_runs": 0.4626472725288906,
-    "batter_advancement_opportunities": 10,
-    "batter_advancement_runs": 0.13090234936107148,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.06816971000458706,
-    "player": "Maya Brady",
-    "player_key": "mayabrady",
-    "runner_advancement_opportunities": 20,
-    "runner_advancement_runs": -0.19907205936565853,
-    "sb_cs_attempts": 2,
-    "sb_cs_runs": 0.5308169825334776,
-    "teams": [
-      "Talons"
+      "Blaze"
     ]
   },
   {
@@ -391,569 +309,649 @@
   },
   {
     "advancement_opportunities": 50,
-    "baserunning_runs": 1.1299304929431147,
+    "baserunning_runs": 1.4263378104165483,
     "batter_advancement_opportunities": 19,
-    "batter_advancement_runs": 0.949322027035754,
+    "batter_advancement_runs": 0.7659168435908319,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.8543750501706147,
+    "non_steal_advancement_runs": 1.13349890101078,
     "player": "Tori Vidales",
     "player_key": "torividales",
     "runner_advancement_opportunities": 31,
-    "runner_advancement_runs": -0.09494697686513931,
+    "runner_advancement_runs": 0.3675820574199482,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.27555544277249994,
+    "sb_cs_runs": 0.2928389094057683,
     "teams": [
       "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 93,
-    "baserunning_runs": -4.080841206057905,
-    "batter_advancement_opportunities": 35,
-    "batter_advancement_runs": -2.813083718640426,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -3.3750859602302175,
-    "player": "Sydney McKinney",
-    "player_key": "sydneymckinney",
-    "runner_advancement_opportunities": 58,
-    "runner_advancement_runs": -0.5620022415897914,
-    "sb_cs_attempts": 2,
-    "sb_cs_runs": -0.7057552458276879,
-    "teams": [
-      "Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 46,
-    "baserunning_runs": -1.5566679354281674,
-    "batter_advancement_opportunities": 9,
-    "batter_advancement_runs": -0.04916872992491328,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.8322233782006676,
-    "player": "Ali Aguliar",
-    "player_key": "aliaguilar",
-    "runner_advancement_opportunities": 37,
-    "runner_advancement_runs": -1.7830546482757543,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.27555544277249994,
-    "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 52,
-    "baserunning_runs": -5.290414009534809,
-    "batter_advancement_opportunities": 17,
-    "batter_advancement_runs": -1.7027199507993154,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -2.8368279427490317,
-    "player": "Ciara Briggs",
-    "player_key": "ciarabriggs",
-    "runner_advancement_opportunities": 35,
-    "runner_advancement_runs": -1.1341079919497163,
-    "sb_cs_attempts": 4,
-    "sb_cs_runs": -2.4535860667857774,
-    "teams": [
-      "Blaze",
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 16,
-    "baserunning_runs": -0.8665254783509839,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": -0.4268020188409021,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.9612476618040309,
-    "player": "Sahvanna Jaquish",
-    "player_key": "sahvannajaquish",
-    "runner_advancement_opportunities": 12,
-    "runner_advancement_runs": -0.5344456429631287,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.09472218345304685,
-    "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 67,
-    "baserunning_runs": -0.5851082623230617,
-    "batter_advancement_opportunities": 25,
-    "batter_advancement_runs": 0.5930366431858783,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.01763700385626879,
-    "player": "Caroline Jacobsen",
-    "player_key": "carolinejacobsen",
-    "runner_advancement_opportunities": 42,
-    "runner_advancement_runs": -0.6106736470421471,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.5674712584667929,
-    "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 3,
-    "baserunning_runs": -0.06816015460755553,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.08487415761769948,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.08538236978083678,
-    "player": "Aleshia Ocasio",
-    "player_key": "aleshiaocasio",
-    "runner_advancement_opportunities": 2,
-    "runner_advancement_runs": -0.0005082121631373032,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.017222215173281246,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 11,
-    "baserunning_runs": -1.1093809880280197,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": -0.7783119181672835,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.195492063894426,
-    "player": "Michaela Edenfield",
-    "player_key": "michaelaedenfield",
-    "runner_advancement_opportunities": 6,
-    "runner_advancement_runs": -0.41718014572714246,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.08611107586640623,
-    "teams": [
-      "Volts"
     ]
   },
   {
     "advancement_opportunities": 30,
-    "baserunning_runs": -1.0157423174075888,
+    "baserunning_runs": -0.6697908239901214,
+    "batter_advancement_opportunities": 10,
+    "batter_advancement_runs": -0.5446081979113895,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.31171439812507284,
+    "player": "Maya Brady",
+    "player_key": "mayabrady",
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": 0.23289379978631664,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.35807642586504856,
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 14,
+    "baserunning_runs": -1.1333823572865054,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": -0.6919707915781642,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.224894516475808,
+    "player": "Michaela Edenfield",
+    "player_key": "michaelaedenfield",
+    "runner_advancement_opportunities": 9,
+    "runner_advancement_runs": -0.5329237248976438,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.09151215918930258,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 15,
+    "baserunning_runs": 0.6952559547195781,
     "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.8368552414094507,
+    "batter_advancement_runs": 0.2850819576772535,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.144908931207198,
-    "player": "Rachel Garcia",
-    "player_key": "rachelgarcia",
-    "runner_advancement_opportunities": 23,
-    "runner_advancement_runs": -0.3080536897977474,
+    "non_steal_advancement_runs": 0.6220462273681361,
+    "player": "Cori McMillan",
+    "player_key": "corimcmillan",
+    "runner_advancement_opportunities": 8,
+    "runner_advancement_runs": 0.3369642696908826,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.12916661379960934,
-    "teams": [
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 43,
-    "baserunning_runs": 0.5000372382472636,
-    "batter_advancement_opportunities": 11,
-    "batter_advancement_runs": 0.29650149902149564,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.31059287134117,
-    "player": "Mia Scott",
-    "player_key": "miascott",
-    "runner_advancement_opportunities": 32,
-    "runner_advancement_runs": 0.014091372319674333,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.1894443669060937,
-    "teams": [
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 76,
-    "baserunning_runs": 2.4414975567236894,
-    "batter_advancement_opportunities": 26,
-    "batter_advancement_runs": 0.6848221208229436,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 3.082703238057749,
-    "player": "Bella Dayton",
-    "player_key": "belladayton",
-    "runner_advancement_opportunities": 50,
-    "runner_advancement_runs": 2.3978811172348053,
-    "sb_cs_attempts": 4,
-    "sb_cs_runs": -0.6412056813340598,
+    "sb_cs_runs": 0.07320972735144207,
     "teams": [
       "Bandits"
     ]
   },
   {
-    "advancement_opportunities": 90,
-    "baserunning_runs": -0.037453506332667294,
-    "batter_advancement_opportunities": 30,
-    "batter_advancement_runs": 0.7241791945117746,
+    "advancement_opportunities": 25,
+    "baserunning_runs": -2.293972718716705,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": -1.0627730290955397,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.11534968150361642,
-    "player": "Aubrey Leach",
-    "player_key": "aubreyleach",
-    "runner_advancement_opportunities": 60,
-    "runner_advancement_runs": -0.6088295130081581,
-    "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.15280318783628372,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 12,
-    "baserunning_runs": -0.2650701520394566,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": -0.30288202250393664,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.3339590127325816,
-    "player": "Taylor Edwards",
-    "player_key": "tayloredwards",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": -0.031076990228644963,
+    "non_steal_advancement_runs": -2.431240957500659,
+    "player": "Rachel Garcia",
+    "player_key": "rachelgarcia",
+    "runner_advancement_opportunities": 18,
+    "runner_advancement_runs": -1.3684679284051193,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06888886069312498,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 59,
-    "baserunning_runs": 2.208922932523204,
-    "batter_advancement_opportunities": 19,
-    "batter_advancement_runs": -0.5595337980670662,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.9161452745774223,
-    "player": "Sierra Sacco",
-    "player_key": "sierrasaccoferrie",
-    "runner_advancement_opportunities": 40,
-    "runner_advancement_runs": 2.4756790726444886,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2927776579457812,
-    "teams": [
-      "Talons"
-    ]
-  },
-  {
-    "advancement_opportunities": 5,
-    "baserunning_runs": 0.13816096266702343,
-    "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": -0.13018303848711468,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.1295498550803828,
-    "player": "Miranda Stoddard",
-    "player_key": "mirandastoddard",
-    "runner_advancement_opportunities": 4,
-    "runner_advancement_runs": 0.2597328935674975,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.008611107586640623,
+    "sb_cs_runs": 0.1372682387839539,
     "teams": [
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 61,
-    "baserunning_runs": -1.4852182895734645,
-    "batter_advancement_opportunities": 16,
-    "batter_advancement_runs": -1.1493797377617032,
+    "advancement_opportunities": 52,
+    "baserunning_runs": -2.490353690915093,
+    "batter_advancement_opportunities": 17,
+    "batter_advancement_runs": -2.0729922573385497,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.7779959475192457,
+    "non_steal_advancement_runs": -2.801495032158722,
     "player": "Sharlize Palacios",
     "player_key": "sharlizepalacios",
-    "runner_advancement_opportunities": 45,
-    "runner_advancement_runs": -0.6286162097575425,
+    "runner_advancement_opportunities": 35,
+    "runner_advancement_runs": -0.7285027748201722,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2927776579457812,
+    "sb_cs_runs": 0.3111413412436288,
     "teams": [
       "Talons"
     ]
   },
   {
-    "advancement_opportunities": 25,
-    "baserunning_runs": 0.009092697789675336,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.00844749476914812,
+    "advancement_opportunities": 37,
+    "baserunning_runs": 0.6013080992959587,
+    "batter_advancement_opportunities": 11,
+    "batter_advancement_runs": 0.0636760942814172,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.23812824554446899,
-    "player": "Ali Newland",
-    "player_key": "alinewland",
-    "runner_advancement_opportunities": 18,
-    "runner_advancement_runs": 0.24657574031361712,
+    "non_steal_advancement_runs": 0.39998134907949306,
+    "player": "Mia Scott",
+    "player_key": "miascott",
+    "runner_advancement_opportunities": 26,
+    "runner_advancement_runs": 0.3363052547980759,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.2013267502164657,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 65,
+    "baserunning_runs": -0.06880298741989432,
+    "batter_advancement_opportunities": 26,
+    "batter_advancement_runs": 0.7893112594189815,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.611898787384632,
+    "player": "Bella Dayton",
+    "player_key": "belladayton",
+    "runner_advancement_opportunities": 39,
+    "runner_advancement_runs": 0.8225875279656505,
+    "sb_cs_attempts": 3,
+    "sb_cs_runs": -1.6807017748045263,
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 39,
+    "baserunning_runs": -0.2580650151434916,
+    "batter_advancement_opportunities": 15,
+    "batter_advancement_runs": 0.3027029583497931,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.5234502767924691,
+    "player": "Jessi Warren",
+    "player_key": "jessiwarren",
+    "runner_advancement_opportunities": 24,
+    "runner_advancement_runs": -0.8261532351422622,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.2653852616489775,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 70,
+    "baserunning_runs": -0.013528218905418027,
+    "batter_advancement_opportunities": 35,
+    "batter_advancement_runs": -0.044665621910630435,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.09915985455642504,
+    "player": "Morgan Zerkle",
+    "player_key": "morganzerkle",
+    "runner_advancement_opportunities": 35,
+    "runner_advancement_runs": -0.0544942326457946,
     "sb_cs_attempts": 1,
-    "sb_cs_runs": -0.22903554775479365,
+    "sb_cs_runs": 0.08563163565100701,
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 78,
+    "baserunning_runs": 2.801677615932192,
+    "batter_advancement_opportunities": 26,
+    "batter_advancement_runs": 1.5027364616512415,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 2.3990241154992606,
+    "player": "Danielle Gibson Whorton",
+    "player_key": "daniellegibsonwhorton",
+    "runner_advancement_opportunities": 52,
+    "runner_advancement_runs": 0.8962876538480191,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.4026535004329314,
+    "teams": [
+      "Bandits",
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 21,
+    "baserunning_runs": 1.0037020986446266,
+    "batter_advancement_opportunities": 6,
+    "batter_advancement_runs": 0.6986401570030196,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.9213411553742542,
+    "player": "Erika Piancastelli",
+    "player_key": "erikapiancastelli",
+    "runner_advancement_opportunities": 15,
+    "runner_advancement_runs": 0.22270099837123458,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.08236094327037233,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 54,
+    "baserunning_runs": -1.8489493905418244,
+    "batter_advancement_opportunities": 15,
+    "batter_advancement_runs": -1.226645765097786,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -2.077729788515081,
+    "player": "Sydney Romero",
+    "player_key": "sydneyromero",
+    "runner_advancement_opportunities": 39,
+    "runner_advancement_runs": -0.8510840234172949,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.22878039797325647,
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 55,
+    "baserunning_runs": 0.47853311870730836,
+    "batter_advancement_opportunities": 22,
+    "batter_advancement_runs": -0.01442446786342317,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.17654299338260981,
+    "player": "Baylee Klingler",
+    "player_key": "bayleeklingler",
+    "runner_advancement_opportunities": 33,
+    "runner_advancement_runs": 0.19096746124603298,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.30199012532469854,
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 4,
+    "baserunning_runs": -0.3754247918231573,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": -0.062433688463941775,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.4120296554988783,
+    "player": "Kalei Harding",
+    "player_key": "kaleiharding",
+    "runner_advancement_opportunities": 3,
+    "runner_advancement_runs": -0.34959596703493656,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.036604863675721036,
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 89,
+    "baserunning_runs": -4.613686357971287,
+    "batter_advancement_opportunities": 35,
+    "batter_advancement_runs": -3.568154626401512,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -3.9413011845295327,
+    "player": "Sydney McKinney",
+    "player_key": "sydneymckinney",
+    "runner_advancement_opportunities": 54,
+    "runner_advancement_runs": -0.3731465581280209,
+    "sb_cs_attempts": 2,
+    "sb_cs_runs": -0.6723851734417543,
+    "teams": [
+      "Bandits"
+    ]
+  },
+  {
+    "advancement_opportunities": 36,
+    "baserunning_runs": 1.2480591865103654,
+    "batter_advancement_opportunities": 13,
+    "batter_advancement_runs": 0.41420809797573444,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 1.0192787885371088,
+    "player": "Devyn Netz",
+    "player_key": "devynnetz",
+    "runner_advancement_opportunities": 23,
+    "runner_advancement_runs": 0.6050706905613744,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.22878039797325647,
+    "teams": [
+      "Bandits",
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 62,
+    "baserunning_runs": 2.39165267641508,
+    "batter_advancement_opportunities": 23,
+    "batter_advancement_runs": 3.711374596449677,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 3.3871862497865526,
+    "player": "Ana Gold",
+    "player_key": "anagold",
+    "runner_advancement_opportunities": 39,
+    "runner_advancement_runs": -0.32418834666312435,
+    "sb_cs_attempts": 2,
+    "sb_cs_runs": -0.9955335733714725,
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 68,
+    "baserunning_runs": 0.6319308000509555,
+    "batter_advancement_opportunities": 26,
+    "batter_advancement_runs": 0.338914182314278,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.2292772996180241,
+    "player": "Korbe Otis",
+    "player_key": "korbeotis",
+    "runner_advancement_opportunities": 42,
+    "runner_advancement_runs": -0.1096368826962539,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.4026535004329314,
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 84,
+    "baserunning_runs": -1.5251283864119978,
+    "batter_advancement_opportunities": 30,
+    "batter_advancement_runs": 0.47922723816272805,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.4232860062769965,
+    "player": "Aubrey Leach",
+    "player_key": "aubreyleach",
+    "runner_advancement_opportunities": 54,
+    "runner_advancement_runs": -1.9025132444397246,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.1018423801350013,
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 32,
+    "baserunning_runs": 0.7094959429576445,
+    "batter_advancement_opportunities": 12,
+    "batter_advancement_runs": 1.7563440329442719,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.480715544984388,
+    "player": "Tiare Jennings",
+    "player_key": "tiarejennings",
+    "runner_advancement_opportunities": 20,
+    "runner_advancement_runs": -1.2756284879598838,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.22878039797325647,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 34,
+    "baserunning_runs": -0.887430203281864,
+    "batter_advancement_opportunities": 7,
+    "batter_advancement_runs": -0.4021115687259182,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -1.134513033092981,
+    "player": "Bri Ellis",
+    "player_key": "briellis",
+    "runner_advancement_opportunities": 27,
+    "runner_advancement_runs": -0.7324014643670627,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.24708282981111698,
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 17,
+    "baserunning_runs": 0.671697259367979,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": 0.3608563028160266,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.5710338842597461,
+    "player": "Sahvanna Jaquish",
+    "player_key": "sahvannajaquish",
+    "runner_advancement_opportunities": 13,
+    "runner_advancement_runs": 0.2101775814437195,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.10066337510823285,
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 35,
+    "baserunning_runs": 0.03415240796711702,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": -0.24517201587981222,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.19462799000613945,
+    "player": "McKenzie Clark",
+    "player_key": "mckenzieclark",
+    "runner_advancement_opportunities": 26,
+    "runner_advancement_runs": 0.050544025873672765,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.22878039797325647,
     "teams": [
       "Blaze",
       "Volts"
     ]
   },
   {
-    "advancement_opportunities": 53,
-    "baserunning_runs": 4.088530512999775,
-    "batter_advancement_opportunities": 17,
-    "batter_advancement_runs": 1.8978888765760156,
+    "advancement_opportunities": 71,
+    "baserunning_runs": 0.766714452776255,
+    "batter_advancement_opportunities": 19,
+    "batter_advancement_runs": 0.8742106753552196,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 4.29724797836815,
-    "player": "Kayla Kowalik",
-    "player_key": "kaylakowalik",
-    "runner_advancement_opportunities": 36,
-    "runner_advancement_runs": 2.3993591017921343,
-    "sb_cs_attempts": 2,
-    "sb_cs_runs": -0.20871746536837477,
-    "teams": [
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 24,
-    "baserunning_runs": 0.5969593603782174,
-    "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": 0.11952604228624922,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.4591816389919674,
-    "player": "Jordan Roberts",
-    "player_key": "jordanroberts",
-    "runner_advancement_opportunities": 19,
-    "runner_advancement_runs": 0.3396555967057182,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.13777772138624997,
-    "teams": [
-      "Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 1,
-    "baserunning_runs": -0.0002541060815686507,
-    "batter_advancement_opportunities": 0,
-    "batter_advancement_runs": 0,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.0002541060815686507,
-    "player": "Kelly Torres",
-    "player_key": "kellytorres",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": -0.0002541060815686507,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0,
+    "non_steal_advancement_runs": 1.0526998449442277,
+    "player": "Erin Coffel",
+    "player_key": "erincoffel",
+    "runner_advancement_opportunities": 52,
+    "runner_advancement_runs": 0.17848916958900818,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.28598539216797275,
     "teams": [
       "Bandits"
     ]
   },
   {
     "advancement_opportunities": 17,
-    "baserunning_runs": 1.190336552481722,
-    "batter_advancement_opportunities": 7,
-    "batter_advancement_runs": -0.14370867408817867,
+    "baserunning_runs": 0.9146931001039673,
+    "batter_advancement_opportunities": 8,
+    "batter_advancement_runs": 0.7833470318816891,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.121447691788597,
-    "player": "Cori McMillan",
-    "player_key": "corimcmillan",
-    "runner_advancement_opportunities": 10,
-    "runner_advancement_runs": 1.2651563658767757,
+    "non_steal_advancement_runs": 0.7865760772389436,
+    "player": "Dejah Mulipola",
+    "player_key": "dejahmulipola",
+    "runner_advancement_opportunities": 9,
+    "runner_advancement_runs": 0.0032290453572545452,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06888886069312498,
+    "sb_cs_runs": 0.12811702286502363,
     "teams": [
-      "Bandits"
+      "Volts"
     ]
   },
   {
-    "advancement_opportunities": 21,
-    "baserunning_runs": 1.127278187249005,
-    "batter_advancement_opportunities": 6,
-    "batter_advancement_runs": 0.8307567210936838,
+    "advancement_opportunities": 0,
+    "baserunning_runs": 0.0,
+    "batter_advancement_opportunities": 0,
+    "batter_advancement_runs": 0,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.0497782189692393,
-    "player": "Erika Piancastelli",
-    "player_key": "erikapiancastelli",
-    "runner_advancement_opportunities": 15,
-    "runner_advancement_runs": 0.21902149787555547,
+    "non_steal_advancement_runs": 0,
+    "player": "Kelly Torres",
+    "player_key": "kellytorres",
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.0774999682797656,
+    "sb_cs_runs": 0.0,
+    "teams": []
+  },
+  {
+    "advancement_opportunities": 2,
+    "baserunning_runs": -0.18168585651685754,
+    "batter_advancement_opportunities": 1,
+    "batter_advancement_runs": -0.18702095269030636,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.1908370724357878,
+    "player": "Miranda Stoddard",
+    "player_key": "mirandastoddard",
+    "runner_advancement_opportunities": 1,
+    "runner_advancement_runs": -0.0038161197454814333,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.009151215918930259,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 16,
+    "baserunning_runs": -0.7545257085972104,
+    "batter_advancement_opportunities": 5,
+    "batter_advancement_runs": -0.5355334940121699,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.8277354359486524,
+    "player": "Taylor Edwards",
+    "player_key": "tayloredwards",
+    "runner_advancement_opportunities": 11,
+    "runner_advancement_runs": -0.2922019419364825,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.07320972735144207,
+    "teams": [
+      "Blaze"
+    ]
+  },
+  {
+    "advancement_opportunities": 9,
+    "baserunning_runs": 0.8537928269205888,
+    "batter_advancement_opportunities": 4,
+    "batter_advancement_runs": 0.4346868201330873,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.8080367473259374,
+    "player": "Kelsey Stewart-Hunter",
+    "player_key": "kelseystewarthunter",
+    "runner_advancement_opportunities": 5,
+    "runner_advancement_runs": 0.37334992719285015,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.04575607959465129,
     "teams": [
       "Volts"
     ]
   },
   {
     "advancement_opportunities": 5,
-    "baserunning_runs": -0.5615579939200563,
-    "batter_advancement_opportunities": 3,
-    "batter_advancement_runs": -0.1767692797622726,
+    "baserunning_runs": 0.13325487180006376,
+    "batter_advancement_opportunities": 0,
+    "batter_advancement_runs": 0,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.6132246394399,
-    "player": "Ally Shipman-Shrout",
-    "player_key": "allyshipmanshrout",
-    "runner_advancement_opportunities": 2,
-    "runner_advancement_runs": -0.4364553596776274,
+    "non_steal_advancement_runs": 0.1241036558811335,
+    "player": "Paige Sinicki",
+    "player_key": "paigesinicki",
+    "runner_advancement_opportunities": 5,
+    "runner_advancement_runs": 0.1241036558811335,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.051666645519843735,
+    "sb_cs_runs": 0.009151215918930259,
     "teams": [
-      "Blaze",
       "Talons"
     ]
   },
   {
-    "advancement_opportunities": 60,
-    "baserunning_runs": 3.8859754791141263,
-    "batter_advancement_opportunities": 18,
-    "batter_advancement_runs": 0.7858061289776141,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 3.5415311756485015,
-    "player": "Delanie Wisz",
-    "player_key": "delaniewisz",
-    "runner_advancement_opportunities": 42,
-    "runner_advancement_runs": 2.7557250466708876,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.34444430346562493,
-    "teams": [
-      "Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 40,
-    "baserunning_runs": 0.1794793518482079,
-    "batter_advancement_opportunities": 15,
-    "batter_advancement_runs": 0.07410351715628248,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.07024276816437015,
-    "player": "Jessi Warren",
-    "player_key": "jessiwarren",
-    "runner_advancement_opportunities": 25,
-    "runner_advancement_runs": -0.14434628532065263,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.24972212001257807,
-    "teams": [
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 11,
-    "baserunning_runs": -0.707061815389692,
-    "batter_advancement_opportunities": 4,
-    "batter_advancement_runs": 0.2846440984793242,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.7673395684961763,
-    "player": "Mary Iakopo",
-    "player_key": "maryiakopo",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": -1.0519836669755005,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06027775310648436,
-    "teams": [
-      "Bandits",
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 77,
-    "baserunning_runs": 1.7807108488455068,
-    "batter_advancement_opportunities": 27,
-    "batter_advancement_runs": 0.3137970796498091,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 1.367377684686757,
-    "player": "Skylar Wallace",
-    "player_key": "skylarwallace",
-    "runner_advancement_opportunities": 50,
-    "runner_advancement_runs": 1.0535806050369478,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.4133331641587499,
-    "teams": [
-      "Bandits"
-    ]
-  },
-  {
-    "advancement_opportunities": 33,
-    "baserunning_runs": 0.4670155897658248,
-    "batter_advancement_opportunities": 12,
-    "batter_advancement_runs": 1.6992048981829213,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": 0.25173790009980923,
-    "player": "Tiare Jennings",
-    "player_key": "tiarejennings",
-    "runner_advancement_opportunities": 21,
-    "runner_advancement_runs": -1.447466998083112,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.21527768966601557,
-    "teams": [
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 41,
-    "baserunning_runs": -1.0382559187696099,
-    "batter_advancement_opportunities": 13,
-    "batter_advancement_runs": -1.584107723094905,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.262144716022266,
-    "player": "Devyn Netz",
-    "player_key": "devynnetz",
-    "runner_advancement_opportunities": 28,
-    "runner_advancement_runs": 0.3219630070726389,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.2238887972526562,
-    "teams": [
-      "Bandits",
-      "Blaze"
-    ]
-  },
-  {
-    "advancement_opportunities": 12,
-    "baserunning_runs": -0.2836066452746824,
+    "advancement_opportunities": 14,
+    "baserunning_runs": 1.7956493373177023,
     "batter_advancement_opportunities": 5,
-    "batter_advancement_runs": -0.28844290865899336,
+    "batter_advancement_runs": 1.0911993829138127,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.34388439838116674,
-    "player": "Aliyah Binford",
-    "player_key": "aliyahbinford",
-    "runner_advancement_opportunities": 7,
-    "runner_advancement_runs": -0.05544148972217339,
+    "non_steal_advancement_runs": 1.7224396099662602,
+    "player": "Victoria Hayward",
+    "player_key": "victoriahayward",
+    "runner_advancement_opportunities": 9,
+    "runner_advancement_runs": 0.6312402270524475,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.06027775310648436,
+    "sb_cs_runs": 0.07320972735144207,
     "teams": [
-      "Blaze"
+      "Talons"
     ]
   },
   {
-    "advancement_opportunities": 40,
-    "baserunning_runs": -0.8111683048655891,
-    "batter_advancement_opportunities": 20,
-    "batter_advancement_runs": -1.9758447151505993,
+    "advancement_opportunities": 72,
+    "baserunning_runs": 1.437192831610655,
+    "batter_advancement_opportunities": 25,
+    "batter_advancement_runs": 2.2874538724231246,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.0608904248781672,
-    "player": "Sierra Romero",
-    "player_key": "sierraromero",
-    "runner_advancement_opportunities": 20,
-    "runner_advancement_runs": 0.9149542902724321,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.24972212001257807,
-    "teams": [
-      "Volts"
-    ]
-  },
-  {
-    "advancement_opportunities": 73,
-    "baserunning_runs": -0.9136999203327423,
-    "batter_advancement_opportunities": 26,
-    "batter_advancement_runs": -0.5626093063604817,
-    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -1.2925886541449296,
-    "player": "Danielle Gibson Whorton",
-    "player_key": "daniellegibsonwhorton",
+    "non_steal_advancement_runs": 1.9634192390041523,
+    "player": "Caroline Jacobsen",
+    "player_key": "carolinejacobsen",
     "runner_advancement_opportunities": 47,
-    "runner_advancement_runs": -0.729979347784448,
-    "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.3788887338121874,
+    "runner_advancement_runs": -0.3240346334189723,
+    "sb_cs_attempts": 1,
+    "sb_cs_runs": -0.5262264073934974,
     "teams": [
-      "Bandits",
-      "Blaze"
+      "Talons"
     ]
   },
   {
-    "advancement_opportunities": 2,
-    "baserunning_runs": -0.2608111188502661,
+    "advancement_opportunities": 1,
+    "baserunning_runs": -0.06549257743826459,
     "batter_advancement_opportunities": 1,
-    "batter_advancement_runs": 0.0839947641198315,
+    "batter_advancement_runs": -0.08379500927612511,
     "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
-    "non_steal_advancement_runs": -0.27803333402354735,
+    "non_steal_advancement_runs": -0.08379500927612511,
     "player": "Sam Show",
     "player_key": "samshow",
-    "runner_advancement_opportunities": 1,
-    "runner_advancement_runs": -0.3620280981433789,
+    "runner_advancement_opportunities": 0,
+    "runner_advancement_runs": 0.0,
     "sb_cs_attempts": 0,
-    "sb_cs_runs": 0.017222215173281246,
+    "sb_cs_runs": 0.018302431837860518,
     "teams": [
       "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 55,
+    "baserunning_runs": 2.866304391239624,
+    "batter_advancement_opportunities": 19,
+    "batter_advancement_runs": 1.8256047229873387,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 2.527709402239205,
+    "player": "Hannah Flippen",
+    "player_key": "hannahflippen",
+    "runner_advancement_opportunities": 36,
+    "runner_advancement_runs": 0.7021046792518661,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.33859498900041957,
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 42,
+    "baserunning_runs": -0.1669034571930761,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": -0.23796121570749473,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": -0.4505911506799141,
+    "player": "Ali Aguilar",
+    "player_key": "aliaguilar",
+    "runner_advancement_opportunities": 33,
+    "runner_advancement_runs": -0.2126299349724194,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.28368769348683803,
+    "teams": [
+      "Talons"
+    ]
+  },
+  {
+    "advancement_opportunities": 20,
+    "baserunning_runs": 0.45354506040415515,
+    "batter_advancement_opportunities": 9,
+    "batter_advancement_runs": -0.17384915165010156,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 0.31627682162020126,
+    "player": "Sis Bates",
+    "player_key": "sisbates",
+    "runner_advancement_opportunities": 11,
+    "runner_advancement_runs": 0.49012597327030283,
+    "sb_cs_attempts": 0,
+    "sb_cs_runs": 0.1372682387839539,
+    "teams": [
+      "Volts"
+    ]
+  },
+  {
+    "advancement_opportunities": 47,
+    "baserunning_runs": 1.9290004483022556,
+    "batter_advancement_opportunities": 16,
+    "batter_advancement_runs": 0.744068458077771,
+    "coverage": "SB/CS plus non-forced hit/out advancement; WP/PB and forced advances excluded",
+    "non_steal_advancement_runs": 2.0146300317772674,
+    "player": "Kayla Kowalik",
+    "player_key": "kaylakowalik",
+    "runner_advancement_opportunities": 31,
+    "runner_advancement_runs": 1.2705615736994964,
+    "sb_cs_attempts": 2,
+    "sb_cs_runs": -0.08562958347501176,
+    "teams": [
+      "Blaze"
     ]
   }
 ]

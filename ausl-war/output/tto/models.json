@@ -1,0 +1,347 @@
+[
+  {
+    "batter_fixed_effects": 101,
+    "coefficients": [
+      {
+        "ci_95_high": 0.03583296876289943,
+        "ci_95_low": -0.017470073614979955,
+        "estimate": 0.00918144757395974,
+        "standard_error": 0.013597714892316171,
+        "term": "same_game_encounter_2"
+      },
+      {
+        "ci_95_high": 0.06907212590478083,
+        "ci_95_low": -0.028087602636857514,
+        "estimate": 0.02049226163396166,
+        "standard_error": 0.02478564503613223,
+        "term": "same_game_encounter_3plus"
+      },
+      {
+        "ci_95_high": 0.043529246773934986,
+        "ci_95_low": -0.020766065724769987,
+        "estimate": 0.0113815905245825,
+        "standard_error": 0.016401865433343106,
+        "term": "prior_series_games_1_2"
+      },
+      {
+        "ci_95_high": 0.07112793686046603,
+        "ci_95_low": -0.08126803743382835,
+        "estimate": -0.0050700502866811575,
+        "standard_error": 0.03887652405466693,
+        "term": "prior_series_games_3plus"
+      },
+      {
+        "ci_95_high": 0.02667304310739361,
+        "ci_95_low": -0.05182783366768138,
+        "estimate": -0.012577395280143885,
+        "standard_error": 0.020025733871192598,
+        "term": "season_2026"
+      }
+    ],
+    "design_columns": 153,
+    "design_rank": 153,
+    "games": 101,
+    "model_spec": "total_exposure_association",
+    "n": 6192,
+    "outcome": "run_value",
+    "pitcher_fixed_effects": 48
+  },
+  {
+    "batter_fixed_effects": 101,
+    "coefficients": [
+      {
+        "ci_95_high": 0.03901308947908382,
+        "ci_95_low": -0.017219598308000225,
+        "estimate": 0.0108967455855418,
+        "standard_error": 0.01434507341507246,
+        "term": "same_game_encounter_2"
+      },
+      {
+        "ci_95_high": 0.06632589340471065,
+        "ci_95_low": -0.036467173749963215,
+        "estimate": 0.014929359827373714,
+        "standard_error": 0.026222721212927007,
+        "term": "same_game_encounter_3plus"
+      },
+      {
+        "ci_95_high": 0.04842062289086563,
+        "ci_95_low": -0.019263604109450883,
+        "estimate": 0.014578509390707371,
+        "standard_error": 0.017266384438856253,
+        "term": "prior_series_games_1_2"
+      },
+      {
+        "ci_95_high": 0.06006039873638123,
+        "ci_95_low": -0.09976153517802,
+        "estimate": -0.019850568220819383,
+        "standard_error": 0.040770901508775825,
+        "term": "prior_series_games_3plus"
+      },
+      {
+        "ci_95_high": 0.01876206657218249,
+        "ci_95_low": -0.06106474373435086,
+        "estimate": -0.021151338581084186,
+        "standard_error": 0.020363982221054427,
+        "term": "season_2026"
+      }
+    ],
+    "design_columns": 153,
+    "design_rank": 153,
+    "games": 101,
+    "model_spec": "total_exposure_association",
+    "n": 6177,
+    "outcome": "wOBA_value",
+    "pitcher_fixed_effects": 48
+  },
+  {
+    "batter_fixed_effects": 101,
+    "coefficients": [
+      {
+        "ci_95_high": 0.020865012656720278,
+        "ci_95_low": -0.03126354029440668,
+        "estimate": -0.005199263818843201,
+        "standard_error": 0.013298100242634428,
+        "term": "same_game_encounter_2"
+      },
+      {
+        "ci_95_high": 0.03957010100559736,
+        "ci_95_low": -0.06021819059972453,
+        "estimate": -0.010324044797063585,
+        "standard_error": 0.025456196838092318,
+        "term": "same_game_encounter_3plus"
+      },
+      {
+        "ci_95_high": 0.050040747711674924,
+        "ci_95_low": -0.015678201440431427,
+        "estimate": 0.01718127313562175,
+        "standard_error": 0.016765038049006722,
+        "term": "prior_series_games_1_2"
+      },
+      {
+        "ci_95_high": 0.052538008783427785,
+        "ci_95_low": -0.08942240552176736,
+        "estimate": -0.018442198369169792,
+        "standard_error": 0.03621439140438652,
+        "term": "prior_series_games_3plus"
+      },
+      {
+        "ci_95_high": 0.014102438148181975,
+        "ci_95_low": -0.06562142585084245,
+        "estimate": -0.025759493851330237,
+        "standard_error": 0.020337720407914393,
+        "term": "season_2026"
+      }
+    ],
+    "design_columns": 153,
+    "design_rank": 153,
+    "games": 101,
+    "model_spec": "total_exposure_association",
+    "n": 6192,
+    "outcome": "on_base",
+    "pitcher_fixed_effects": 48
+  },
+  {
+    "batter_fixed_effects": 101,
+    "coefficients": [
+      {
+        "ci_95_high": 0.016854718283012004,
+        "ci_95_low": -0.07567127198641438,
+        "estimate": -0.02940827685170119,
+        "standard_error": 0.023603568946282242,
+        "term": "same_game_encounter_2"
+      },
+      {
+        "ci_95_high": 0.05371916353662275,
+        "ci_95_low": -0.13300871053651003,
+        "estimate": -0.039644773499943636,
+        "standard_error": 0.047634661753350196,
+        "term": "same_game_encounter_3plus"
+      },
+      {
+        "ci_95_high": 0.04950764852249159,
+        "ci_95_low": -0.0143651360324136,
+        "estimate": 0.017571256245038996,
+        "standard_error": 0.016294077692577857,
+        "term": "prior_series_games_1_2"
+      },
+      {
+        "ci_95_high": 0.08220826699620853,
+        "ci_95_low": -0.07067048837405743,
+        "estimate": 0.0057688893110755535,
+        "standard_error": 0.03899968249241478,
+        "term": "prior_series_games_3plus"
+      },
+      {
+        "ci_95_high": 0.07426984077770105,
+        "ci_95_low": -7.963117846192941e-05,
+        "estimate": 0.037095104799619555,
+        "standard_error": 0.018966702029633412,
+        "term": "pitcher_bf_before_per_9"
+      },
+      {
+        "ci_95_high": 0.05112962471866025,
+        "ci_95_low": -0.01984476060816475,
+        "estimate": 0.01564243205524775,
+        "standard_error": 0.0181057105425574,
+        "term": "inning_3_4"
+      },
+      {
+        "ci_95_high": 0.013422982828261605,
+        "ci_95_low": -0.04676143896300692,
+        "estimate": -0.016669228067372657,
+        "standard_error": 0.015353168824303196,
+        "term": "inning_5plus"
+      },
+      {
+        "ci_95_high": 0.027236769685551526,
+        "ci_95_low": -0.05066941069472673,
+        "estimate": -0.011716320504587603,
+        "standard_error": 0.01987402560721384,
+        "term": "season_2026"
+      }
+    ],
+    "design_columns": 156,
+    "design_rank": 156,
+    "games": 101,
+    "model_spec": "workload_decomposition",
+    "n": 6192,
+    "outcome": "run_value",
+    "pitcher_fixed_effects": 48
+  },
+  {
+    "batter_fixed_effects": 101,
+    "coefficients": [
+      {
+        "ci_95_high": 0.025306181409474937,
+        "ci_95_low": -0.07405429585504375,
+        "estimate": -0.024374057222784407,
+        "standard_error": 0.02534706052666293,
+        "term": "same_game_encounter_2"
+      },
+      {
+        "ci_95_high": 0.06740928747688116,
+        "ci_95_low": -0.1403185024342395,
+        "estimate": -0.036454607478679166,
+        "standard_error": 0.052991783140592004,
+        "term": "same_game_encounter_3plus"
+      },
+      {
+        "ci_95_high": 0.05495622488426537,
+        "ci_95_low": -0.0130959164595265,
+        "estimate": 0.020930154212369434,
+        "standard_error": 0.017360240138722415,
+        "term": "prior_series_games_1_2"
+      },
+      {
+        "ci_95_high": 0.07248815978427699,
+        "ci_95_low": -0.08960006571963584,
+        "estimate": -0.008555952967679428,
+        "standard_error": 0.04134903711834511,
+        "term": "prior_series_games_3plus"
+      },
+      {
+        "ci_95_high": 0.07411737188028668,
+        "ci_95_low": -0.0071591828927151935,
+        "estimate": 0.03347909449378574,
+        "standard_error": 0.020733814993112724,
+        "term": "pitcher_bf_before_per_9"
+      },
+      {
+        "ci_95_high": 0.05323253689527295,
+        "ci_95_low": -0.021469464261288054,
+        "estimate": 0.015881536316992448,
+        "standard_error": 0.0190566329481023,
+        "term": "inning_3_4"
+      },
+      {
+        "ci_95_high": 0.013833223939011152,
+        "ci_95_low": -0.050916799275215335,
+        "estimate": -0.01854178766810209,
+        "standard_error": 0.016517863064853696,
+        "term": "inning_5plus"
+      },
+      {
+        "ci_95_high": 0.01931266789987178,
+        "ci_95_low": -0.0602451555641758,
+        "estimate": -0.02046624383215201,
+        "standard_error": 0.020295363128583568,
+        "term": "season_2026"
+      }
+    ],
+    "design_columns": 156,
+    "design_rank": 156,
+    "games": 101,
+    "model_spec": "workload_decomposition",
+    "n": 6177,
+    "outcome": "wOBA_value",
+    "pitcher_fixed_effects": 48
+  },
+  {
+    "batter_fixed_effects": 101,
+    "coefficients": [
+      {
+        "ci_95_high": 0.017805854153470677,
+        "ci_95_low": -0.06744881944738262,
+        "estimate": -0.024821482646955974,
+        "standard_error": 0.021748641224707474,
+        "term": "same_game_encounter_2"
+      },
+      {
+        "ci_95_high": 0.0698335150419303,
+        "ci_95_low": -0.12034318326741947,
+        "estimate": -0.025254834112744574,
+        "standard_error": 0.04851446385442596,
+        "term": "same_game_encounter_3plus"
+      },
+      {
+        "ci_95_high": 0.056411915169040046,
+        "ci_95_low": -0.009637331112099877,
+        "estimate": 0.023387292028470084,
+        "standard_error": 0.01684929752069896,
+        "term": "prior_series_games_1_2"
+      },
+      {
+        "ci_95_high": 0.066612736028067,
+        "ci_95_low": -0.0801357266315515,
+        "estimate": -0.0067614953017422486,
+        "standard_error": 0.03743583231112717,
+        "term": "prior_series_games_3plus"
+      },
+      {
+        "ci_95_high": 0.054015644564060765,
+        "ci_95_low": -0.02035206107002622,
+        "estimate": 0.016831791747017273,
+        "standard_error": 0.018971353478083413,
+        "term": "pitcher_bf_before_per_9"
+      },
+      {
+        "ci_95_high": 0.04958070493199641,
+        "ci_95_low": -0.01848889547355371,
+        "estimate": 0.01554590472922135,
+        "standard_error": 0.017364693981007682,
+        "term": "inning_3_4"
+      },
+      {
+        "ci_95_high": 0.008375194481299385,
+        "ci_95_low": -0.054432136222441356,
+        "estimate": -0.023028470870570986,
+        "standard_error": 0.016022278240750188,
+        "term": "inning_5plus"
+      },
+      {
+        "ci_95_high": 0.013541780264203634,
+        "ci_95_low": -0.06528595802684752,
+        "estimate": -0.02587208888132194,
+        "standard_error": 0.020109116910982435,
+        "term": "season_2026"
+      }
+    ],
+    "design_columns": 156,
+    "design_rank": 156,
+    "games": 101,
+    "model_spec": "workload_decomposition",
+    "n": 6192,
+    "outcome": "on_base",
+    "pitcher_fixed_effects": 48
+  }
+]

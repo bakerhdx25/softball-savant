@@ -1,0 +1,90 @@
+{
+  "completed_games": 101,
+  "generated_at": "2026-07-07T14:26:18.651345+00:00",
+  "official_stats": {
+    "franchise_stat_files": 2,
+    "player_stat_files": 2,
+    "snapshot_id": "20260707T142450Z"
+  },
+  "re24": {
+    "events": 6428,
+    "games": 101,
+    "linear_weight_event_types": 15,
+    "maximum_state_sample": 1393,
+    "minimum_state_sample": 20,
+    "prior_pseudocount": 20.0,
+    "snapshot_id": "20260707T142450Z",
+    "states": 24,
+    "states_with_raw_observations": 24
+  },
+  "snapshot_id": "20260707T142450Z",
+  "source": "official_ausl_public",
+  "tto": {
+    "games": 101,
+    "official_completed_games": 101,
+    "pitch_text_coverage": 0.9946705426356589,
+    "plate_appearances": 6192,
+    "snapshot_id": "20260707T142450Z",
+    "validation_passed": true
+  },
+  "validation": {
+    "boxscore_bf_mismatches": [],
+    "events": 6428,
+    "games": 101,
+    "passed": true,
+    "pitch_text_coverage": 0.9946705426356589,
+    "plate_appearances": 6192,
+    "run_or_state_validation_failures": [],
+    "snapshot_id": "20260707T142450Z"
+  },
+  "war": {
+    "seasons": {
+      "2025": {
+        "combined_players": 78,
+        "completed_games": 50,
+        "league_adjusted_position_raa": -2.220446049250313e-16,
+        "league_arm_runs": 0.6503285943924294,
+        "league_baserunning_runs": 8.257283745649602e-16,
+        "league_catcher_throwing_runs": -5.551115123125783e-17,
+        "league_double_play_avoidance_runs": 0.0,
+        "league_non_steal_advancement_runs": -1.1171619185290638e-15,
+        "league_position_batting_runs": 1.1962653090336062e-13,
+        "league_range_runs": -0.07796684017943682,
+        "pitcher_defense_war_total": 0.00019464079940994294,
+        "pitchers": 27,
+        "pitching_component_war_total": 8.847541984714994,
+        "pitching_war_total": 8.847736625514404,
+        "position_players": 73,
+        "position_war_total": 11.728395061728396,
+        "runs_per_win": 10.664688427299703,
+        "season": 2025,
+        "snapshot_id": "20260707T142450Z",
+        "total_war": 20.5761316872428
+      },
+      "2026": {
+        "combined_players": 120,
+        "completed_games": 51,
+        "league_adjusted_position_raa": -2.987193825632062e-15,
+        "league_arm_runs": -1.5241793207143741,
+        "league_baserunning_runs": -1.7590096046404824e-15,
+        "league_catcher_throwing_runs": 4.683753385137379e-17,
+        "league_double_play_avoidance_runs": -1.3877787807814457e-17,
+        "league_non_steal_advancement_runs": -2.6124935548210715e-15,
+        "league_position_batting_runs": -3.6914915568786455e-15,
+        "league_range_runs": -0.2297973385555162,
+        "pitcher_defense_war_total": 0.044107733856955954,
+        "pitchers": 41,
+        "pitching_component_war_total": 8.980583624167735,
+        "pitching_war_total": 9.024691358024691,
+        "position_players": 114,
+        "position_war_total": 11.96296296296296,
+        "runs_per_win": 10.227685325264751,
+        "season": 2026,
+        "snapshot_id": "20260707T142450Z",
+        "total_war": 20.98765432098765
+      }
+    },
+    "snapshot_id": "20260707T142450Z",
+    "supplemental_games": 0
+  }
+}
