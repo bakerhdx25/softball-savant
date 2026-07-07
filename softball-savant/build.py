@@ -262,7 +262,49 @@ def contact_type(play_text: str) -> str:
     return "Other"
 
 
-def parse_pitch_sequence(pitch_text: str) -> list[dict[str, Any]]:
+CONTACT_EVENT_TYPES = {
+    "single", "double", "triple", "home_run",
+    "out", "fielders_choice", "double_play", "reached_on_error",
+    "infield_fly", "sacrifice_bunt", "sacrifice_fly",
+}
+INFERRED_FINAL_PITCH_EVENT_TYPES = CONTACT_EVENT_TYPES | {"hit_by_pitch"}
+
+
+def parse_pitch_sequence(pitch_text: str, event_type: str | None = None) -> list[dict[str, Any]]:
+    compact = (pitch_text or "").strip().upper()
+    if not compact and event_type in CONTACT_EVENT_TYPES:
+        compact = "X"
+    elif not compact and event_type == "hit_by_pitch":
+        compact = "H"
+    if compact and re.fullmatch(r"[BKSFCXH]+", compact):
+        if event_type in CONTACT_EVENT_TYPES and not compact.endswith("X"):
+            compact += "X"
+        elif event_type == "hit_by_pitch":
+            compact += "H"
+        balls = strikes = 0
+        pitches: list[dict[str, Any]] = []
+        for code in compact:
+            count = f"{balls}-{strikes}"
+            is_ball = code == "B"
+            swing = code in {"S", "F", "X"}
+            called = code in {"K", "C"}
+            if code not in {"B", "K", "C", "S", "F", "X", "H"}:
+                continue
+            pitches.append({
+                "count": count,
+                "action": code,
+                "swing": swing,
+                "called": called,
+                "strike": not is_ball and code != "H",
+            })
+            if is_ball:
+                balls = min(4, balls + 1)
+            elif code == "F":
+                strikes = strikes + 1 if strikes < 2 else strikes
+            elif code in {"K", "C", "S"} and strikes < 3:
+                strikes += 1
+        return pitches
+
     balls = strikes = 0
     pitches: list[dict[str, Any]] = []
     for raw in re.split(r",\s*", pitch_text or ""):
@@ -659,14 +701,14 @@ def build_period(period: str, base_teams: list[dict[str, Any]] | None = None, wr
             continue
         batter_pas = sorted(pa_by_batter.get(key, []), key=lambda row: (row.get("game_start") or "", number(row.get("event_order"))), reverse=True)
         pitcher_pas = pa_by_pitcher.get(key, [])
-        all_pitcher_pitches = [pitch for row in pitcher_pas for pitch in parse_pitch_sequence(row.get("pitch_text") or "")]
+        all_pitcher_pitches = [pitch for row in pitcher_pas for pitch in parse_pitch_sequence(row.get("pitch_text") or "", row.get("event_type"))]
 
         spray_counts = {location: 0 for location in (*ZONE_MAP.keys(), "Pitcher", "Catcher")}
         batted_balls = []
         bunts = grounds = balls_in_play = infield_grounds = 0
         approach = {count: {"count": count, "pitches": 0, "swings": 0, "calledStrikes": 0} for count in ALL_COUNTS}
         for pa in batter_pas:
-            for pitch in parse_pitch_sequence(pa.get("pitch_text") or ""):
+            for pitch in parse_pitch_sequence(pa.get("pitch_text") or "", pa.get("event_type")):
                 bucket = approach.get(pitch["count"])
                 if bucket:
                     bucket["pitches"] += 1

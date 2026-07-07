@@ -2,6 +2,7 @@ import json
 import math
 import unittest
 from pathlib import Path
+from build import parse_pitch_sequence
 
 
 ROOT = Path(__file__).resolve().parent
@@ -68,6 +69,9 @@ class SoftballSavantBuildTests(unittest.TestCase):
             self.assertIn(f'[\"{key}\"', self.javascript)
         self.assertIn("Spray Charts", self.javascript)
         self.assertIn("Download Scouting Report", self.javascript)
+        self.assertIn("Team report data", self.javascript)
+        self.assertIn("Report data:", self.javascript)
+        self.assertNotIn("data-pdf-period", self.javascript)
 
     def test_player_scouting_features_are_preserved(self):
         for label in (
@@ -76,6 +80,37 @@ class SoftballSavantBuildTests(unittest.TestCase):
             "Batter–Pitcher Matchups", "Season History",
         ):
             self.assertIn(label, self.javascript)
+        self.assertTrue(any(row["pitches"] > 0 for row in self.site["periods"]["2026"]["leagueApproach"]))
+        self.assertTrue(
+            any(
+                row["pitches"] > 0
+                for player in self.site["periods"]["2026"]["players"]
+                for row in player["approach"]
+            )
+        )
+
+    def test_official_compact_pitch_sequences_restore_swing_decisions(self):
+        in_play = parse_pitch_sequence("BB", "single")
+        self.assertEqual([pitch["count"] for pitch in in_play], ["0-0", "1-0", "2-0"])
+        self.assertFalse(in_play[0]["swing"])
+        self.assertTrue(in_play[-1]["swing"])
+        self.assertEqual(in_play[-1]["action"], "X")
+        self.assertEqual(parse_pitch_sequence("", "single")[0]["count"], "0-0")
+        self.assertTrue(parse_pitch_sequence("", "single")[0]["swing"])
+
+        walk = parse_pitch_sequence("BBBB", "walk")
+        self.assertEqual(len(walk), 4)
+        self.assertEqual(walk[-1]["count"], "3-0")
+        self.assertFalse(walk[-1]["swing"])
+
+        strikeout = parse_pitch_sequence("KKBFS", "strikeout")
+        self.assertEqual(strikeout[-1]["count"], "1-2")
+        self.assertTrue(strikeout[-1]["swing"])
+
+        hbp = parse_pitch_sequence("KB", "hit_by_pitch")
+        self.assertEqual(hbp[-1]["count"], "1-1")
+        self.assertFalse(hbp[-1]["swing"])
+        self.assertFalse(hbp[-1]["called"])
 
     def test_matchup_data_reaches_player_pages(self):
         players = self.site["periods"]["2026"]["players"]
