@@ -17,7 +17,6 @@ const playerByKey = key => state.data.players.find(player => player.key === key)
 const selectedTeam = () => state.data.teams.find(team => team.key === state.team);
 const ordinal = value => `${value}${value % 100 >= 11 && value % 100 <= 13 ? "th" : value % 10 === 1 ? "st" : value % 10 === 2 ? "nd" : value % 10 === 3 ? "rd" : "th"}`;
 const teamLabel = key => state.datasets["2026"]?.teams.find(team => team.key === key)?.short || key;
-const reportPeriod = period => period === "2025-2026" ? "2025-2026" : "2026";
 const pythRecord = team => {
   const expectedWins = Math.round(n(team.pythagorean?.expectedWins));
   return `${expectedWins}-${Math.max(0, team.games - expectedWins)}`;
@@ -51,7 +50,6 @@ function setHash() {
 
 function selectTeam(key, updateHash = true) {
   state.period = "2026"; state.data = state.datasets["2026"];
-  state.pdfPeriod = "2026";
   const team = state.data.teams.find(item => item.key === key) || state.data.teams[0];
   state.team = team.key; state.player = null; state.teamTab = "overview"; state.query = ""; state.rosterRole = "all"; state.tab = "snapshot";
   $("player-search").value = "";
@@ -76,9 +74,9 @@ function showTeamOverview(updateHash = true) {
 
 function renderTeamHero(team) {
   const record = `${team.record.wins}-${team.record.losses}${team.record.ties ? `-${team.record.ties}` : ""}`;
-  state.pdfPeriod = reportPeriod(state.period);
   const pdfTeam = state.datasets[state.pdfPeriod].teams.find(item => item.key === team.key);
-  $("team-hero").innerHTML = `<div class="team-hero-copy"><p class="eyebrow">${team.code}</p><h1>${h(team.name)}</h1><p>${record}</p><div class="report-download no-print"><span>Report data: ${periodLabel(state.period)}</span><a class="hero-download" href="${h(pdfTeam.pdf)}" download>Download Scouting Report</a></div></div><img class="team-logo" src="${h(team.logo)}" alt="${h(team.short)} logo">`;
+  $("team-hero").innerHTML = `<div class="team-hero-copy"><p class="eyebrow">${team.code}</p><h1>${h(team.name)}</h1><p>${record}</p><div class="report-download no-print"><label>PDF report data<select data-pdf-period><option value="2026" ${state.pdfPeriod === "2026" ? "selected" : ""}>2026</option><option value="2025-2026" ${state.pdfPeriod === "2025-2026" ? "selected" : ""}>2025–26</option></select></label><a class="hero-download" href="${h(pdfTeam.pdf)}" download>Download Scouting Report</a></div></div><img class="team-logo" src="${h(team.logo)}" alt="${h(team.short)} logo">`;
+  $("team-hero").querySelector("[data-pdf-period]").addEventListener("change", event => { state.pdfPeriod = event.target.value; renderTeamHero(selectedTeam()); });
 }
 
 function renderRoster(team) {
@@ -154,10 +152,9 @@ function renderTeamOverview(team) {
   const rosterCards = roster.map(player => `<button class="directory-player compact" type="button" data-player="${player.key}">${player.headshot ? `<img src="${h(player.headshot)}" alt="">` : `<span class="avatar-fallback">${h(player.name.split(" ").map(part => part[0]).join("").slice(0,2))}</span>`}<span><strong>${h(player.name)}</strong></span></button>`).join("");
   $("team-overview").innerHTML = `<div class="overview">
     <div class="team-page-tabs no-print" role="tablist" aria-label="Team sections">${[["overview","Overview"],["roster","Roster"],["stats","Stats"],["spray","Spray Charts"]].map(([key,label]) => `<button type="button" data-team-tab="${key}" aria-selected="${state.teamTab === key}">${label}</button>`).join("")}</div>
-    <div class="player-period-bar no-print"><label class="period-picker overview-period">Team report data<select data-overview-period><option value="2026" ${state.period === "2026" ? "selected" : ""}>2026</option><option value="2025-2026" ${state.period === "2025-2026" ? "selected" : ""}>2025–26</option></select></label></div>
     <section class="team-panel ${state.teamTab === "overview" ? "active" : ""}" data-team-panel="overview"><div class="section-heading"><h2>Overview</h2></div>${teamOverviewTables(team, hitters, pitchers)}</section>
     <section class="team-panel ${state.teamTab === "roster" ? "active" : ""}" data-team-panel="roster"><div class="section-heading"><h2>Roster</h2></div><div class="team-roster-grid">${rosterCards}</div></section>
-    <section class="team-panel ${state.teamTab === "stats" ? "active" : ""}" data-team-panel="stats"><section class="subsection report-section"><div class="subsection-head"><h3>Hitting</h3></div>${hittingTable(hitters)}</section><section class="subsection report-section"><div class="subsection-head"><h3>Pitching</h3></div>${pitchingTable(pitchers)}</section><section class="subsection report-section"><div class="subsection-head"><h3>Fielding</h3></div>${fieldingTable(roster)}</section></section>
+    <section class="team-panel ${state.teamTab === "stats" ? "active" : ""}" data-team-panel="stats"><div class="player-period-bar no-print"><label class="period-picker overview-period">Stats period<select data-overview-period><option value="2026" ${state.period === "2026" ? "selected" : ""}>2026</option><option value="2025" ${state.period === "2025" ? "selected" : ""}>2025</option><option value="2025-2026" ${state.period === "2025-2026" ? "selected" : ""}>2025–26</option></select></label></div><section class="subsection report-section"><div class="subsection-head"><h3>Hitting</h3></div>${hittingTable(hitters)}</section><section class="subsection report-section"><div class="subsection-head"><h3>Pitching</h3></div>${pitchingTable(pitchers)}</section><section class="subsection report-section"><div class="subsection-head"><h3>Fielding</h3></div>${fieldingTable(roster)}</section></section>
     <section class="team-panel ${state.teamTab === "spray" ? "active" : ""}" data-team-panel="spray"><div class="section-heading"><h2>Spray Charts</h2></div>${sprayOverview(team)}</section>
   </div>`;
   const periodControl = $("team-overview").querySelector("[data-overview-period]");
@@ -169,8 +166,6 @@ function renderTeamOverview(team) {
 function setOverviewPeriod(period) {
   if (!state.datasets[period]) return;
   state.period = period; state.data = state.datasets[period];
-  state.pdfPeriod = reportPeriod(period);
-  renderTeamHero(selectedTeam());
   renderRoster(selectedTeam()); renderTeamOverview(selectedTeam());
 }
 
@@ -347,13 +342,11 @@ function playerTabs(role) {
 function setPlayerPeriod(period) {
   const priorTab = state.tab; const priorRole = state.playerRole;
   state.period = period; state.data = state.datasets[period];
-  state.pdfPeriod = reportPeriod(period);
   const player = playerByKey(state.player);
   if (!player) return;
   const priorRoleAvailable = priorRole === "hitting" ? player?.hitting : priorRole === "pitching" ? player?.pitching : false;
   state.playerRole = priorRoleAvailable ? priorRole : player?.hitting ? "hitting" : player?.pitching ? "pitching" : "profile";
   state.tab = tabsForRole(state.playerRole).some(([key]) => key === priorTab) ? priorTab : "snapshot";
-  renderTeamHero(selectedTeam());
   renderRoster(selectedTeam()); renderPlayer(player);
 }
 
@@ -383,7 +376,6 @@ function selectPlayer(key, updateHash = true) {
     state.period = availablePeriod; state.data = state.datasets[availablePeriod]; player = playerByKey(key);
   }
   const team = state.data.teams.find(item => item.key === player.team) || state.data.teams[0];
-  state.pdfPeriod = reportPeriod(state.period);
   state.team = team.key; state.player = key; state.playerRole = player.hitting ? "hitting" : player.pitching ? "pitching" : "profile"; state.tab = "snapshot";
   showView("report"); setTheme(team); renderTeamHero(team); renderRoster(team);
   $("team-overview").hidden = true; $("player-report").hidden = false; renderRoster(team); renderPlayer(player);

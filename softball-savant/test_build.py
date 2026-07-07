@@ -2,7 +2,7 @@ import json
 import math
 import unittest
 from pathlib import Path
-from build import field_location, parse_pitch_sequence
+from build import CONTACT_EVENT_TYPES, field_location, parse_pitch_sequence
 
 
 ROOT = Path(__file__).resolve().parent
@@ -69,9 +69,9 @@ class SoftballSavantBuildTests(unittest.TestCase):
             self.assertIn(f'[\"{key}\"', self.javascript)
         self.assertIn("Spray Charts", self.javascript)
         self.assertIn("Download Scouting Report", self.javascript)
-        self.assertIn("Team report data", self.javascript)
-        self.assertIn("Report data:", self.javascript)
-        self.assertNotIn("data-pdf-period", self.javascript)
+        self.assertIn("PDF report data", self.javascript)
+        self.assertIn("Stats period", self.javascript)
+        self.assertIn("data-pdf-period", self.javascript)
 
     def test_player_scouting_features_are_preserved(self):
         for label in (
@@ -119,12 +119,30 @@ class SoftballSavantBuildTests(unittest.TestCase):
         self.assertEqual(field_location("Skylar Wallace grounded out to 2b (0-0)."), "Second Base")
         self.assertEqual(field_location("B Nickles-Camarena flied out to rf (1-1 BK)."), "Right Field")
 
-        total_spray = sum(
-            player["spray"]["total"]
-            for player in self.site["periods"]["2026"]["players"]
-            if player.get("spray")
+    def test_spray_totals_reconcile_to_official_contact_events(self):
+        plate_appearances = json.loads(
+            (ROOT.parent / "ausl-war" / "output" / "tto" / "plate_appearances.json").read_text()
         )
-        self.assertGreater(total_spray, 2000)
+
+        def official_located_contact(season=None):
+            return sum(
+                row["event_type"] in CONTACT_EVENT_TYPES
+                and bool(field_location(row.get("play_text", "")))
+                and (season is None or row["season"] == season)
+                for row in plate_appearances
+            )
+
+        def site_spray_total(period):
+            return sum(
+                player["spray"]["total"]
+                for player in self.site["periods"][period]["players"]
+                if player.get("spray")
+            )
+
+        self.assertEqual(site_spray_total("2026"), official_located_contact(2026))
+        self.assertEqual(site_spray_total("2025"), official_located_contact(2025))
+        self.assertEqual(site_spray_total("combined"), official_located_contact())
+        self.assertGreater(site_spray_total("2026"), 2000)
 
     def test_matchup_data_reaches_player_pages(self):
         players = self.site["periods"]["2026"]["players"]
