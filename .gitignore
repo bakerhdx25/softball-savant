@@ -4,6 +4,7 @@
 **/.pytest_cache/
 **/.venv/
 .venv-softball-savant/
+research/
 collector/node_modules/
 collector/user_data/
 collector/reports/gc-token.json
