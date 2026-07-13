@@ -102,22 +102,25 @@ class SoftballSavantBuildTests(unittest.TestCase):
 
     def test_percentile_qualifiers_are_opened_for_short_season_samples(self):
         period = self.site["periods"]["2026"]
-        self.assertEqual(period["meta"]["hitterQualifierRate"], 1.5)
-        self.assertEqual(period["meta"]["pitcherQualifierRate"], 0.75)
-        self.assertTrue(
-            any(
-                player["hitting"]["PA"] < 34 and player["percentiles"].get("hitting")
-                for player in period["players"]
-                if player.get("hitting")
-            )
-        )
-        self.assertTrue(
-            any(
-                player["pitching"]["IP"] < 17 and player["percentiles"].get("pitching")
-                for player in period["players"]
-                if player.get("pitching")
-            )
-        )
+        hitter_rate = period["meta"]["hitterQualifierRate"]
+        pitcher_rate = period["meta"]["pitcherQualifierRate"]
+        self.assertEqual(hitter_rate, 1.5)
+        self.assertEqual(pitcher_rate, 0.75)
+
+        active_games = [team["games"] for team in period["teams"] if team["games"]]
+        qualifier_games = round(sum(active_games) / len(active_games))
+        hitter_qualifier = math.ceil(hitter_rate * qualifier_games)
+        pitcher_qualifier = pitcher_rate * qualifier_games
+        old_hitter_qualifier = math.ceil(2.0 * qualifier_games)
+        old_pitcher_qualifier = 1.0 * qualifier_games
+        self.assertLess(hitter_qualifier, old_hitter_qualifier)
+        self.assertLess(pitcher_qualifier, old_pitcher_qualifier)
+
+        for player in period["players"]:
+            if player.get("percentiles", {}).get("hitting"):
+                self.assertGreaterEqual(player["hitting"]["PA"], player["qualifiers"]["hittingPA"])
+            if player.get("percentiles", {}).get("pitching"):
+                self.assertGreaterEqual(player["pitching"]["IP"], player["qualifiers"]["pitchingIP"])
 
     def test_pdf_percentile_heading_is_hidden_for_unqualified_players(self):
         pdf_builder = (ROOT.parent / "ausl-scouting-web" / "build_pdfs.py").read_text()
