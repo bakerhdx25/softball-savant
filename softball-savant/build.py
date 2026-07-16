@@ -176,7 +176,7 @@ def pythagorean_study(periods: dict[str, dict[str, Any]]) -> dict[str, Any]:
         "teamSeasons": len(rows), "pooledExponent": fitted,
         "pooledMSE": mse(rows, fitted), "standardMSE": mse(rows, 2.0),
         "crossValidation": cross_validation,
-        "recommendation": "Use the standard 2.0 exponent. The pooled fit is effectively identical, while season-specific fits do not generalize.",
+        "recommendation": "Use the standard 2.0 exponent for public tables. The fitted exponent is tracked as a diagnostic, but small AUSL samples can move quickly and should not replace the standard comparison.",
     }
 
 
